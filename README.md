@@ -241,25 +241,23 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 - **1.2. Solution Profile**
   - **1.2.1. Antecedentes y problemática**
     #### ¿Cuál es el problema?
-    
+    El problema principal en muchos restaurantes es la falta de sistemas de gestión efectivos, lo que conduce a una variedad de problemas operativos, como desorganización, errores en el control de existencias, pérdidas económicas y otros problemas.
     
     #### ¿Cuándo sucede el problema?
-     
+    Independientemente de la hora del día o la temporada del año, este problema es continuo y puede manifestarse en cualquier momento durante la operación diaria de un restaurante. Es un desafío constante que necesita atención continua.
     
     #### ¿Dónde sucede el problema?
-     
+    La problemática se puede ver en restaurantes en varios lugares, tanto urbanos como rurales. No se limita a una región específica; es un problema común que enfrentan los restaurantes en general.
     
     #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
-     
+    Desde pequeños restaurantes locales hasta grandes cadenas, todos están afectados por este problema. La falta de herramientas de gestión adecuadas tiene el mayor impacto en los propietarios, gerentes y empleados que participan en las operaciones diarias de estos restaurantes. El público objetivo son principalmente estos afectados. 
     
     #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
-     
+    La falta de sistemas de gestión eficaces puede ser causada por una variedad de razones, incluidas limitaciones financieras y falta de conocimiento sobre las soluciones disponibles en el mercado. Este problema también puede ser causado por la complejidad de las operaciones de restauración y la naturaleza competitiva del sector. 
     
     #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
-     
-
-     
+    La falta de herramientas de gestión efectivas puede tener consecuencias negativas para los restaurantes, como desorganización en la gestión de inventarios, problemas para mantener existencias adecuadas, pérdida de productos perecederos debido a una mala planificación, problemas en la gestión de proveedores y una experiencia general de cliente menos satisfactoria debido a errores operativos. 
     
     #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
-
+    Los efectos económicos de esta falta de gestión efectiva pueden ser significativos para los restaurantes: pérdidas financieras debido a la falta de control sobre el inventario, compras innecesarias o excesivas, desperdicio de alimentos y potencialmente una disminución en la satisfacción del cliente. Esto puede afectar la reputación del restaurante y su capacidad para retener y atraer clientes. La cantidad exacta de estas pérdidas puede variar dependiendo del tamaño del restaurante, el volumen de ventas y otros factores específicos de cada negocio.
      
