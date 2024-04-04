@@ -227,3 +227,39 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 
       **Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes. 
   - **1.1.2. Perfiles de integrantes del equipo**
+
+
+| Integrante                        | Descripción del Perfil                                                                                           |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| * | * |
+| * | * |
+| * | * |
+| Piero Alonso Martinez Villanueva  | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
+| * | * |
+
+
+- **1.2. Solution Profile**
+  - **1.2.1. Antecedentes y problemática**
+    #### ¿Cuál es el problema?
+    
+    
+    #### ¿Cuándo sucede el problema?
+     
+    
+    #### ¿Dónde sucede el problema?
+     
+    
+    #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
+     
+    
+    #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
+     
+    
+    #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
+     
+
+     
+    
+    #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
+
+     
