@@ -212,7 +212,24 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 
 | **Criterio Especifico**| **Acciones Realizadas** | **Conclusiones** | 
 |------------------------|-------------------------|------------------|
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br>| 
-| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | <br/>__TB1__<br/> __Morales Quispe Brayan Smith__  * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br>| 
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | <br/>__TB1__<br/> __Morales Quispe Brayan Smith__  * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
 
 -----
+1. Capítulo I: Introducción
+1.1. Startup Profile
+  - 1.1.1. Descripción de la Startup
+    - VerSoft es el nombre de la startup que tiene como objetivo cambiar el sector gastronómico en la gestión de inventarios con su plataforma como servicio llamada FoodOS. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, esta plataforma divide y optimiza los procesos de inventario esenciales de los restaurantes. VerSoft se compromete a ofrecer una aplicación web poderosa y fácil de usar con la clara misión de revolucionar la manera en que se documentan y optimizan estos procesos esenciales.
+
+**Misión:** FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
+
+**Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+  - 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante                        | Descripción del Perfil                                                                                           |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Adrián Enrique Jesús Palma Obispo | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
+| Erick Joaquin Palomino Santa Cruz | Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta. |
+| Joaquín Alonso Carbajal Pozzo     | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
+| Piero Alonso Martinez Villanueva  | Me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. |
+|                                   |                                                                                                                  |
