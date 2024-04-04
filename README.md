@@ -234,7 +234,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 | * | * |
 | * | * |
 | * | * |
-| Piero Alonso Martinez Villanueva  | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
+| **Piero Alonso Martinez Villanueva**  | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
 | * | * |
 
 
