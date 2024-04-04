@@ -21,7 +21,7 @@
 *  **Tomas Ortiz Fajardo**    
 *  **Dueñas Canales Leonardo Manuel** 
 *  **Alessandro Vega Paico**
-*  **Piero Alonso Martinez Villanueva**
+*  **Piero Alonso Martinez Villanueva       U202113821**
 
 
 <center>
@@ -216,3 +216,14 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 | **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
 
 -----
+
+### **1. Capítulo I: Introducción**
+
+- **1.1. Startup Profile**
+  - **1.1.1. Descripción de la Startup**
+    - La startup, de nombre VerSoft, propone como solución para el sector gastronómico la gestión de inventarios de restaurantes através de su plataforma como servicio llamada FoodOS. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, esta plataforma divide y optimiza los procesos de inventario esenciales de los restaurantes. VerSoft se compromete a ofrecer una aplicación web poderosa y fácil de usar con la clara misión de revolucionar la manera en que se documentan y optimizan estos procesos esenciales.
+
+      **Misión:** FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
+
+      **Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes. 
+  - **1.1.2. Perfiles de integrantes del equipo**
