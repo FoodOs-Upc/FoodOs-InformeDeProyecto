@@ -227,11 +227,10 @@ El desafío surge debido a la ausencia de herramientas de gestión adecuadas en 
 
 La calidad del servicio y la capacidad competitiva de los restaurantes se ven impactadas por la ineficiencia en la gestión de inventarios. La falta de supervisión de existencias puede resultar en problemas como la carencia de ingredientes, el derroche de alimentos y una experiencia insatisfactoria para el cliente. Además, la carencia de información precisa y actualizada puede dificultar la planificación estratégica y la toma de decisiones comerciales, lo que podría afectar negativamente la rentabilidad y el éxito a largo plazo del restaurante.
 
-
-problem statement 1:
+Problem Statement 1:
 La falta de herramientas de gestión adecuadas en numerosos restaurantes provoca una serie de problemas operativos, como desorganización, falta de control de existencias y pérdidas económicas.
 
-problem statement 2:
+Problem Statement 2:
 La dependencia de métodos manuales y poco eficientes, como el registro en papel y el uso de hojas de cálculo digitales, aumenta la probabilidad de errores y complica la toma de decisiones fundamentadas en la gestión de inventarios.
 
 Problem Statement 3:
