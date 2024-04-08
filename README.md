@@ -268,7 +268,10 @@ Veremos que la tasa de desperdicio de alimentos disminuirá y los usuarios tendr
 Mediremos esto a través de la comparación de la cantidad de productos caducados antes y después de la implementación de las notificaciones automáticas, así como la retroalimentación de los usuarios sobre la utilidad y efectividad de estas notificaciones.
 
 - 3rd Hypothesis Statement
-
+  - Nosotros creemos que si desarrollamos una función de análisis predictivo en FoodOS para predecir la demanda de productos en función de tendencias históricas y eventos futuros,
+Cuando los usuarios utilicen FoodOS para planificar su inventario y realizar pedidos a proveedores,
+Veremos que la precisión en la gestión de inventarios aumentará y los usuarios podrán evitar tanto la escasez como el exceso de existencias,
+Mediremos esto a través de la comparación de la precisión de las predicciones de demanda antes y después de la implementación del análisis predictivo, así como la evaluación del impacto en la eficiencia operativa y la satisfacción del cliente a través de encuestas y métricas de rendimiento del restaurante.
 
 
   
