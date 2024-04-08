@@ -256,13 +256,13 @@ Features
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
 - 1st Hypothesis Statement
- - Nosotros creemos que si simplificamos el proceso de registro de productos en FoodOS,
+	 - Nosotros creemos que si simplificamos el proceso de registro de productos en FoodOS,
 Cuando los usuarios agreguen nuevos productos al inventario de sus restaurantes,
 Veremos que  la eficiencia en la gestión del inventario mejorará y se reducirá el tiempo dedicado a tareas administrativas,
 Mediremos esto a través de la comparación del tiempo promedio necesario para agregar nuevos productos al inventario antes y después de simplificar el proceso, así como la retroalimentación de los usuarios sobre la facilidad de uso y la percepción de mejora en la eficiencia.
 
 - 2nd Hypothesis Statement
- - Nosotros creemos que si implementamos una función de notificaciones automáticas en FoodOS para recordar a los usuarios sobre fechas de caducidad próximas de productos en su inventario,
+  - Nosotros creemos que si implementamos una función de notificaciones automáticas en FoodOS para recordar a los usuarios sobre fechas de caducidad próximas de productos en su inventario,
 Cuando los usuarios accedan a FoodOS para gestionar su inventario y revisen la lista de productos almacenados,
 Veremos que la tasa de desperdicio de alimentos disminuirá y los usuarios tendrán una mejor gestión del inventario al evitar la utilización de productos caducados,
 Mediremos esto a través de la comparación de la cantidad de productos caducados antes y después de la implementación de las notificaciones automáticas, así como la retroalimentación de los usuarios sobre la utilidad y efectividad de estas notificaciones.
