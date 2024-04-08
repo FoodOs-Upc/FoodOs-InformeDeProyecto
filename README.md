@@ -230,12 +230,12 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 
     **StartUp Logo:**
     <p align="left">
-    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/main/Assets/Img/Chapter%20I/VerSoftLogo.png">
+    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/VerSoftLogo.png">
     </p>
 
     **App Logo:**
     <p align="left">
-    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/main/Assets/Img/Chapter%20I/FoodOSLogo.png">
+    <img width="240" height="260" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/FoodOSLogo.png">
     </p>
     
 - ### 1.1.2. Perfiles de integrantes del equipo
@@ -246,7 +246,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 |  |  |  |
 |  |  |  |
 |  | **Piero Alonso Martinez Villanueva** | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
-|[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| Alessandro Alex Vega Paico | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
+|[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| **Alessandro Alex Vega Paico** | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
 
 - # 1.2  Solution Profile
 - ### 1.2.1 Antecedentes y problemática
@@ -289,7 +289,7 @@ La dependencia de métodos manuales y poco eficientes, como el registro en papel
 - Problem Statement 3:
 La carencia de eficiencia en la gestión de inventarios afecta la calidad del servicio ofrecido por los restaurantes, causando problemas como la escasez de ingredientes, el desperdicio de alimentos y una experiencia insatisfactoria para el cliente.
 
-#### 1.2.2.2. Lean UX Assumptions.
+- #### 1.2.2.2. Lean UX Assumptions.
 
 **Assumptions:** 
 - Existe una demanda en el mercado gastronómico para una solución digital que simplifique y optimice la gestión de inventarios en restaurantes.
@@ -306,7 +306,7 @@ La carencia de eficiencia en la gestión de inventarios afecta la calidad del se
 - Oofrecerá una interfaz intuitiva y fácil de usar, permitiendo a los usuarios acceder y gestionar el inventario de manera sencilla.
 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+- #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 - 1st Hypothesis Statement
 	 - Nosotros creemos que si simplificamos el proceso de registro de productos en FoodOS,
@@ -333,7 +333,7 @@ Mediremos esto a través de la comparación de la precisión de las predicciones
 | Users & Customers<br><br>Los usuarios y clientes de FoodOS incluyen a propietarios y gerentes de restaurantes de todo tipo y tamaño, desde pequeños establecimientos locales hasta cadenas de restaurantes más grandes. También pueden incluir a chefs y personal de cocina responsables de la gestión de inventarios. Estos usuarios buscan una solución efectiva y fácil de usar para optimizar la gestión de sus inventarios y mejorar la eficiencia operativa de sus negocios gastronómicos. | 1.- Desarrollar una plataforma web intuitiva y fácil de usar que permita a los propietarios y gerentes de restaurantes gestionar sus inventarios de manera eficiente.<br><br>2.- Integrar herramientas de análisis predictivo para prever la demanda de productos y optimizar las compras y el almacenamiento.<br><br>3.- Ofrecer funcionalidades de gestión de proveedores para simplificar la comunicación y la coordinación de pedidos.<br><br>4.- Implementar alertas automáticas para recordar a los usuarios sobre fechas de caducidad próximas y niveles bajos de inventario.<br><br>5.-Incluir características de seguimiento de desperdicios y pérdidas para identificar áreas de mejora y reducir costos operativos. | User Benefits<br><br>Los beneficios para los usuarios de FoodOS son múltiples y significativos. Entre ellos se encuentran:<br><br>1.- Simplificación y agilización del proceso de gestión de inventarios.<br><br>2.- Reducción del tiempo dedicado a tareas administrativas relacionadas con el inventario.<br><br>3.- Mejora en la precisión y control de las existencias de alimentos y suministros.<br><br>4.- Reducción del desperdicio de alimentos y pérdidas económicas asociadas.<br><br>5.- Acceso a herramientas de análisis predictivo para optimizar compras y almacenamiento.<br><br>6.- Mejora en la satisfacción del cliente al garantizar una oferta de productos más consistente y fresca.<br><br>7.- Incremento en la rentabilidad del negocio al optimizar los costos operativos y mejorar la eficiencia global del restaurante. |
 | Hypothesis Statement<br><br>Nosotros creemos que al implementar FoodOS como una solución integral para la gestión de inventarios en restaurantes;<br><br>Hipótesis 1:<br>Creemos que simplificando el proceso de registro en FoodOS, los usuarios mejorarán la eficiencia de la gestión del inventario. Esto se medirá mediante la comparación del tiempo de registro antes y después de la simplificación, junto con la retroalimentación de los usuarios sobre la facilidad de uso y eficiencia.<br><br>Hipótesis 2:<br>Si implementamos notificaciones automáticas en FoodOS para recordar a los usuarios sobre fechas de caducidad próximas, reduciremos el desperdicio de alimentos. La validación se hará comparando la cantidad de productos caducados antes y después de la implementación, y recopilando la retroalimentación de los usuarios sobre la utilidad de las notificaciones.<br><br>Hipótesis 3:<br>Al desarrollar una función de análisis predictivo en FoodOS para predecir la demanda de productos, los usuarios mejorarán la precisión en la gestión del inventario. Se evaluará comparando la precisión de las predicciones antes y después de la implementación, y mediante encuestas para evaluar la satisfacción del cliente y la eficiencia operativa. | What's the most important thing we need to learn first?<br><br>Lo más importante que necesitamos aprender primero es entender las necesidades y desafíos específicos de los propietarios y gerentes de restaurantes en la gestión de inventarios. Esto nos ayudará a priorizar el desarrollo y las características de FoodOS de manera efectiva para satisfacer las demandas del mercado y los usuarios. | What's the least amount of work we need to do learn the next most important thing?<br><br>Para aprender lo siguiente más importante, necesitamos hacer la menor cantidad de trabajo posible. Esto implica entrevistar brevemente a propietarios y gerentes de restaurantes para comprender mejor sus desafíos en la gestión de inventarios, además de revisar estudios de mercado existentes y participar en eventos de la industria gastronómica. Este enfoque nos permitirá obtener información adicional de manera rápida y eficiente para avanzar en el desarrollo de FoodOS. |
 
-## 1.3. Segmentos objetivo.
+- ## 1.3. Segmentos objetivo.
 
 FoodOS está enfocado en atender las necesidades de dos segmentos principales en la industria gastronómica: los restaurantes y los proveedores de alimentos. Estos dos grupos representan actores fundamentales en la cadena de suministro y operaciones de los establecimientos de comida, y FoodOS busca proporcionar soluciones innovadoras que mejoren la eficiencia y la gestión en ambos lados de la ecuación.
 
