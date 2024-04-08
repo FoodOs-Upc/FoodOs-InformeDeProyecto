@@ -21,7 +21,7 @@
 *  **Tomas Ortiz Fajardo**    
 *  **Dueñas Canales Leonardo Manuel** 
 *  **Alessandro Vega Paico - u201910225**
-*  **Piero Alonso Martinez Villanueva**
+*  **Piero Alonso Martinez Villanueva   U202113821**
 
 
 <center>
@@ -218,23 +218,62 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 -----
 
 
-# Capítulo I: Introducción
-## 1.1 Startup Profile
-### 1.1.1. Descripción de la Startup
-### 1.1.2. Perfiles de integrantes del equipo
+#### **1. Capítulo I: Introducción**
+
+- ###**1.1. Startup Profile**
+ - ###**1.1.1. Descripción de la Startup.**
+    - La startup, de nombre VerSoft, propone como solución para el sector gastronómico la gestión de inventarios de restaurantes através de su plataforma como servicio llamada FoodOS. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, esta plataforma divide y optimiza los procesos de inventario esenciales de los restaurantes. VerSoft se compromete a ofrecer una aplicación web poderosa y fácil de usar con la clara misión de revolucionar la manera en que se documentan y optimizan estos procesos esenciales.
+
+      **Misión:** FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
+
+      **Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+
+    **StartUp Logo:**
+    <p align="left">
+    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/main/Assets/Img/Chapter%20I/VerSoftLogo.png">
+    </p>
+
+    **App Logo:**
+    <p align="left">
+    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/main/Assets/Img/Chapter%20I/FoodOSLogo.png">
+    </p>
+    
+- ### 1.1.2. Perfiles de integrantes del equipo
 
 |Foto| Integrante| Descripción del Perfil|
 |-|----------|-----------------------|
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
+|  | **Piero Alonso Martinez Villanueva** | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
 |[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| Alessandro Alex Vega Paico | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
 
-# 1.2  Solution Profile
-### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
+- # 1.2  Solution Profile
+- ### 1.2.1 Antecedentes y problemática
+
+    ####¿Cuál es el problema?
+    El problema principal en muchos restaurantes es la falta de sistemas de gestión efectivos, lo que conduce a una variedad de problemas operativos, como desorganización, errores en el control de existencias, pérdidas económicas y otros problemas.
+    
+    #### ¿Cuándo sucede el problema?
+    Independientemente de la hora del día o la temporada del año, este problema es continuo y puede manifestarse en cualquier momento durante la operación diaria de un restaurante. Es un desafío constante que necesita atención continua.
+    
+    #### ¿Dónde sucede el problema?
+    La problemática se puede ver en restaurantes en varios lugares, tanto urbanos como rurales. No se limita a una región específica; es un problema común que enfrentan los restaurantes en general.
+    
+    #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
+    Desde pequeños restaurantes locales hasta grandes cadenas, todos están afectados por este problema. La falta de herramientas de gestión adecuadas tiene el mayor impacto en los propietarios, gerentes y empleados que participan en las operaciones diarias de estos restaurantes. El público objetivo son principalmente estos afectados. 
+    
+    #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
+    La falta de sistemas de gestión eficaces puede ser causada por una variedad de razones, incluidas limitaciones financieras y falta de conocimiento sobre las soluciones disponibles en el mercado. Este problema también puede ser causado por la complejidad de las operaciones de restauración y la naturaleza competitiva del sector. 
+    
+    #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
+    La falta de herramientas de gestión efectivas puede tener consecuencias negativas para los restaurantes, como desorganización en la gestión de inventarios, problemas para mantener existencias adecuadas, pérdida de productos perecederos debido a una mala planificación, problemas en la gestión de proveedores y una experiencia general de cliente menos satisfactoria debido a errores operativos. 
+    
+    #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
+    Los efectos económicos de esta falta de gestión efectiva pueden ser significativos para los restaurantes: pérdidas financieras debido a la falta de control sobre el inventario, compras innecesarias o excesivas, desperdicio de alimentos y potencialmente una disminución en la satisfacción del cliente. Esto puede afectar la reputación del restaurante y su capacidad para retener y atraer clientes. La cantidad exacta de estas pérdidas puede variar dependiendo del tamaño del restaurante, el volumen de ventas y otros factores específicos de cada negocio.
+    
+- ### 1.2.2 Lean UX Process.
+- #### 1.2.2.1. Lean UX Problem Statements.
 El propósito fundamental de FoodOS es proporcionar a los restaurantes una solución integral para la gestión de inventarios, permitiendo a los propietarios y gerentes tener un control total y optimizar sus operaciones.
 
 El desafío surge debido a la ausencia de herramientas de gestión adecuadas en numerosos restaurantes, lo que resulta en una serie de problemas operativos, como desorganización, falta de control de existencias, pérdidas económicas y otros contratiempos. Este déficit se evidencia principalmente en la dependencia de métodos manuales y poco eficientes, como el registro en papel y el uso de hojas de cálculo digitales, lo que incrementa la probabilidad de errores y complica la toma de decisiones fundamentadas.
@@ -252,7 +291,7 @@ La carencia de eficiencia en la gestión de inventarios afecta la calidad del se
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-Assumptions: 
+**Assumptions:** 
 - Existe una demanda en el mercado gastronómico para una solución digital que simplifique y optimice la gestión de inventarios en restaurantes.
 - Los propietarios y gerentes de restaurantes están dispuestos a adoptar una plataforma digital para la gestión de inventarios, reconociendo sus beneficios en términos de eficiencia y control.
 - La plataforma será técnicamente viable y escalable, capaz de manejar grandes volúmenes de datos de inventario.
@@ -260,7 +299,7 @@ Assumptions:
 - Se asume que una interfaz de usuario intuitiva y fácil de usar será fundamental para la aceptación de la plataforma.
 - Se espera la plataforma ofrezca funcionalidades de integración con proveedores para facilitar la gestión de pedidos y la comunicación con los proveedores de alimentos y suministros.
 
-Features
+**Features:**
 - La plataforma permitirá el seguimiento instantáneo de existencias de alimentos y suministros, facilitando una gestión eficiente en tiempo real.
 - Simplificará la gestión de pedidos directamente en la plataforma, mejorando la cadena de suministro.
 - Los usuarios podrán establecer fechas de caducidad para los productos en el inventario y recibir alertas automáticas cuando se acerquen las fechas límite.
