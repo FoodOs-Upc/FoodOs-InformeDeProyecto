@@ -273,5 +273,10 @@ Cuando los usuarios utilicen FoodOS para planificar su inventario y realizar ped
 Veremos que la precisión en la gestión de inventarios aumentará y los usuarios podrán evitar tanto la escasez como el exceso de existencias,
 Mediremos esto a través de la comparación de la precisión de las predicciones de demanda antes y después de la implementación del análisis predictivo, así como la evaluación del impacto en la eficiencia operativa y la satisfacción del cliente a través de encuestas y métricas de rendimiento del restaurante.
 
+### 1.2.2.4. Lean UX Canvas
 
+| Business Problema | Solution Ideas | Business Outcomes |
+| ---    | ----     | ---      |
+| Users & Customers |  1<br><br>3<br><br>5<br>   | User Benefits|
+| Hypothesis Statement | What's the most important thing we need to learn first? | What's the least amount of work we need to do learn the next most important thing? |
   
