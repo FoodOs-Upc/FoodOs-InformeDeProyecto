@@ -6,7 +6,13 @@
 
       **Misión:** FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
 
-      **Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes. 
+      **Visión:** En los próximos tres años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+
+    **StartUp Logo:**
+    <p align="center">
+    <img width="460" height="300" src="">
+    </p>
+    
   - **1.1.2. Perfiles de integrantes del equipo.**
 
 
