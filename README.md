@@ -229,7 +229,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 | * | * | * |
 | * | * | * |
 | * | * | * |
-|[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| **Alessandro Alex Vega Paico** | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
+|[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| Alessandro Alex Vega Paico | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
 
 # 1.2  Solution Profile
 ### 1.2.1 Antecedentes y problemática
