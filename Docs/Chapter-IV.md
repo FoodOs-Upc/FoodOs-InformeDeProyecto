@@ -32,8 +32,11 @@ Como tonalidades secundarias, complementamos el verde con variedades cromáticas
 En conjunto, la combinación de verde, marrón y amarillo en nuestra paleta cromática refleja la identidad, valores y objetivos de nuestra startup, creando una experiencia visual atractiva y coherente para nuestros usuarios.
 
 paleta de colores de FoodOS:
+
 ![Usuario](/Assets/Img/Chapter%20IV/PaletadecoloresdeFoodOS.png)
+
 paleta de colores de VerSOFT
+
 ![Usuario](/Assets/Img/Chapter%20IV/Paletadecoloresdeversfot.png)
 
 ## 4.2. Information Architecture
