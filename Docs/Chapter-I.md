@@ -1,4 +1,4 @@
-# Capitulo 1
+# Capitulo 1: Introducción
 ## 1.1. Startup Profile
 VerSoft es una startup creada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) y tiene como objetivo crear una solución revolucionaria para la gestión de inventarios en el negocio de la restauración. VerSoft está en proceso de desarrollo y se enfoca en un proyecto de curso final aunque aún no se ha lanzado al mercado. VerSoft aprovechará la creatividad y la experiencia de sus fundadores para crear una herramienta de gestión de inventarios eficiente y fácil de usar.
 
