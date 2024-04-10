@@ -6,12 +6,11 @@
 |-|----------|-----------------------|
 |  |  |  |
 |  |  |  |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Ortiz Fajardo Tomas** **TB1**  En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto | Conclusiones |
-|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Alessandro Alex Vega Paico**
-**TB1** Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp. | Conclusiones |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Ortiz Fajardo Tomas** **TB1** 
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Ortiz Fajardo Tomas** **TB1**  En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto | Conclusiones |
+|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Alex Vega Paico** **TB1** Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp. | Conclusiones |
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Ortiz Fajardo Tomas** **TB1** 
 Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp. | Conclusiones |
-|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Alessandro Alex Vega Paico**
+|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Alex Vega Paico**
 **TB1** Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp. | Conclusiones |
 
 ## 1.1. Startup Profile
