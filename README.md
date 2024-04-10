@@ -103,17 +103,6 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 ## Capitulo IV: Product  Design
 ### [4.1. Style Guidelines ](/Docs/chapter-IV.md#41-styleguidelines)
 * #### [4.1.1 General Style Guidelines ](/Docs/chapter-IV.md#411-general-style-guidelines)
-
-VerSoft, es una startup formada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), está dedicada a crear una solución innovadora para la gestión de inventarios en el sector gastronómico. Su plataforma, llamada FoodOS, tiene como objetivo principal optimizar y simplificar los procesos de inventario en restaurantes. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, FoodOS divide y optimiza los procesos esenciales del inventario de los restaurantes. VerSoft se compromete a proporcionar una aplicación web poderosa y fácil de usar para revolucionar la documentación y optimización de estos procesos clave.
-Misión:
-FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
-Visión:
-En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
-![Usuario](VerSoftLogo.png)
-
-Para el branding del startup se tendrá a disposición la siguiente imágen
-![Usuario](FoodOSLogo.png)
-
 * #### [4.1.2. Web Style Guidelines](/Docs/chapter-IV.md#412-web-style-guidelines)
 ### [4.2. Information Architecture](/Docs/chapter-IV.md#42-information-architecture)
 * #### [4.2.1. Organization Systems](/Docs/chapter-IV.md#421-organization-systems)
