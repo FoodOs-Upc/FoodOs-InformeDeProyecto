@@ -1,4 +1,13 @@
 # Capitulo 1: Introducción
+
+##Student Outcomes
+
+|Criterio Especifico| Acciones Realizadas| Conclusiones|
+|-|----------|-----------------------|
+|  |  |  |
+|  |  |  |
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Ortiz Fajardo Tomas** **TB1**  En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto | Conclusiones |
+
 ## 1.1. Startup Profile
 VerSoft es una startup creada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) y tiene como objetivo crear una solución revolucionaria para la gestión de inventarios en el negocio de la restauración. VerSoft está en proceso de desarrollo y se enfoca en un proyecto de curso final aunque aún no se ha lanzado al mercado. VerSoft aprovechará la creatividad y la experiencia de sus fundadores para crear una herramienta de gestión de inventarios eficiente y fácil de usar.
 
