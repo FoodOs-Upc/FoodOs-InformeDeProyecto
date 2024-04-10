@@ -15,11 +15,11 @@ FoodOS proporcionará una solución tecnológica avanzada para redefinir la gest
 Visión:
 En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
 
-![Usuario](/Assets/Img/Chapter%20III/VerSoftLogo.png)
+![Usuario](/Assets/Img/Chapter%20IV/VerSoftLogo.png)
 
 Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo: 
 
-![Usuario](/Assets/Img/Chapter%20III/FoodOSLogo.png)
+![Usuario](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
 
 
 ## 4.2. Information Architecture
