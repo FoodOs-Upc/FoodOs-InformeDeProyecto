@@ -120,8 +120,15 @@ La dependencia de métodos manuales y poco eficientes, como el registro en papel
 - Problem Statement 3:
 La carencia de eficiencia en la gestión de inventarios afecta la calidad del servicio ofrecido por los restaurantes, causando problemas como la escasez de ingredientes, el desperdicio de alimentos y una experiencia insatisfactoria para el cliente.
 
-
 #### 1.2.2.2. Lean UX Assumptions.
+
+Assumptions:
+- Existe una demanda en el mercado gastronómico para una solución digital que simplifique y optimice la gestión de inventarios en restaurantes.
+- Los propietarios y gerentes de restaurantes están dispuestos a adoptar una plataforma digital para la gestión de inventarios, reconociendo sus beneficios en términos de eficiencia y control.
+- La plataforma será técnicamente viable y escalable, capaz de manejar grandes volúmenes de datos de inventario.
+- Proporciona a los restaurantes una reducción significativa en los costos operativos asociados con la gestión de inventarios.
+- Se asume que una interfaz de usuario intuitiva y fácil de usar será fundamental para la aceptación de la plataforma.
+- Se espera la plataforma ofrezca funcionalidades de integración con proveedores para facilitar la gestión de pedidos y la comunicación con los proveedores de alimentos y suministros.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
