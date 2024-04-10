@@ -8,6 +8,20 @@ En este apartado, se mostrará de manera organizada los estilos y herramientas q
 
 ### 4.1.2. Web Style Guidelines
 
+Descripción de la Startup:
+VerSoft, una startup formada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), está dedicada a crear una solución innovadora para la gestión de inventarios en el sector gastronómico. Su plataforma, llamada FoodOS, tiene como objetivo principal optimizar y simplificar los procesos de inventario en restaurantes. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, FoodOS divide y optimiza los procesos esenciales del inventario de los restaurantes. VerSoft se compromete a proporcionar una aplicación web poderosa y fácil de usar para revolucionar la documentación y optimización de estos procesos clave.
+Misión:
+FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
+Visión:
+En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+
+![Usuario](/Assets/Img/Chapter%20III/VerSoftLogo.png)
+
+Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo:
+
+![Usuario](/Assets/Img/Chapter%20III/FoodOSLogo.png)
+
+
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
