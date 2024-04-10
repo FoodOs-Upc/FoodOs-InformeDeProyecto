@@ -8,6 +8,13 @@
 
 ![Usuario](/Assets/Img/Chapter%20III/User%20stories.jpeg)
 
+![Usuario](/Assets/Img/Chapter%20III/User%20stories%202.jpeg)
+
+![Usuario](/Assets/Img/Chapter%20III/User%20stories%203.jpeg)
+
+![Usuario](/Assets/Img/Chapter%20III/User%20stories%204.jpeg)
+
+![Usuario](/Assets/Img/Chapter%20III/User%20stories%205.jpeg)
 
 ## 3.3. Impact Mapping
 
