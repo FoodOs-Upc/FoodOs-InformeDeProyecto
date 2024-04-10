@@ -152,6 +152,7 @@ Datos Demográficos:
 Duración de la entrevista: [00:00:00 - 00:10:57]
 #### Preguntas principales:
 
+---
 
 #### Entrevistas a Restaurantes
 Entrevista #1 
@@ -177,6 +178,8 @@ Datos Demográficos:
 
 Duración de la entrevista: 
 Enlace: 
+
+---
 
 #### Entrevistas a Proveedores
 Entrevista #1
@@ -211,6 +214,7 @@ Joshua nos menciona que es el encargado de gestionar el inventario del restauran
 
 	- Entrevista #2
 
+---
 
 - Entrevistas a Proveedores
 	- Entrevista #1
