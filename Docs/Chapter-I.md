@@ -130,6 +130,12 @@ Assumptions:
 - Se asume que una interfaz de usuario intuitiva y fácil de usar será fundamental para la aceptación de la plataforma.
 - Se espera la plataforma ofrezca funcionalidades de integración con proveedores para facilitar la gestión de pedidos y la comunicación con los proveedores de alimentos y suministros.
 
+Features:
+- La plataforma permitirá el seguimiento instantáneo de existencias de alimentos y suministros, facilitando una gestión eficiente en tiempo real.
+- Simplificará la gestión de pedidos directamente en la plataforma, mejorando la cadena de suministro.
+- Los usuarios podrán establecer fechas de caducidad para los productos en el inventario y recibir alertas automáticas cuando se acerquen las fechas límite.
+- Oofrecerá una interfaz intuitiva y fácil de usar, permitiendo a los usuarios acceder y gestionar el inventario de manera sencilla.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 #### 1.2.2.4. Lean UX Canvas
