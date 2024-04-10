@@ -127,7 +127,7 @@ Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustarían ver e
 ¿Estarían interesados en probar una versión beta de nuestra aplicación y proporcionar retroalimentación sobre su funcionalidad y usabilidad?
 
 ¿Qué expectativas tienen en cuanto a costos y tarifas para utilizar una plataforma como la nuestra en su empresa?
-
+<br>
 
 ### 2.2.2. Registro de entrevistas
 
