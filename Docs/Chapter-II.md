@@ -147,6 +147,8 @@ Enlace: https://youtu.be/lxaQMNe8nEs
 
 Entrevista #2
 
+![](/Assets/Img/Chapter%20II/Entrevista.png)
+
 Datos Demográficos:  
  
 - Nombre: Roberto Gregorio Martinez Paulino
