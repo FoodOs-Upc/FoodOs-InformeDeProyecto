@@ -216,6 +216,3 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 | **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
 
 -----
-
-- Proveedores:
-FoodOS también está dirigido a proveedores de alimentos y distribuidores que desean ofrecer servicios avanzados a sus clientes restaurantes. Al integrarse con FoodOS, los proveedores pueden simplificar el proceso de pedido y entrega de productos, mejorar la visibilidad de sus inventarios y ofrecer un servicio más personalizado. Esto les permite fortalecer sus relaciones comerciales y aumentar la eficiencia de su cadena de suministro.
