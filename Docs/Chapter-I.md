@@ -114,6 +114,11 @@ La calidad del servicio y la capacidad competitiva de los restaurantes se ven im
 - Problem Statement 1:
 La falta de herramientas de gestión adecuadas en numerosos restaurantes provoca una serie de problemas operativos, como desorganización, falta de control de existencias y pérdidas económicas.
 
+- Problem Statement 2:
+La dependencia de métodos manuales y poco eficientes, como el registro en papel y el uso de hojas de cálculo digitales, aumenta la probabilidad de errores y complica la toma de decisiones fundamentadas en la gestión de inventarios.
+
+
+
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
