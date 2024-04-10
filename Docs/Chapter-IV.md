@@ -4,7 +4,9 @@
 
 ### 4.1.1. General Style Guidelines.
 
-En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+ Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar
+ o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga
+ especificación a los parámetros implementados en la estructura del proyecto.
 
 ### 4.1.2. Web Style Guidelines
 
