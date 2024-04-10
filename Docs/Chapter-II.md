@@ -132,28 +132,6 @@ Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustarían ver e
 
 ### 2.2.2. Registro de entrevistas
 
-#### Entrevista de usuario
-
-<div style="text-align: center;">
-
-<p >Entrevista 1</p>
-
-[![Ver entrevista]()]()
-
-</div>
-
-Datos Demográficos:  
- 
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:  
-
-Duración de la entrevista: [00:00:00 - 00:10:57]
-#### Preguntas principales:
-
----
-
 #### Entrevistas a Restaurantes
 Entrevista #1 
 [![Entrevista-Max.png](https://i.postimg.cc/vB8n4wTX/Entrevista-Max.png)](https://postimg.cc/t1fJcfhV)
@@ -171,13 +149,13 @@ Entrevista #2
 
 Datos Demográficos:  
  
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:
+- Nombre: Roberto Gregorio Martinez Paulino
+- Edad: 56 años
+- Ocupación: Dueño de un Restobar
+- Distrito de Residencia: Ancón
 
-Duración de la entrevista: 
-Enlace: 
+Duración de la entrevista: 7:16
+Enlace: https://youtu.be/8fk39VXYVSw
 
 ---
 
