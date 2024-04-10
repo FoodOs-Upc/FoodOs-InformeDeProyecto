@@ -21,6 +21,20 @@ Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el
 
 ![Usuario](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
 
+Colors:
+
+Los colores juegan un papel fundamental en la primera impresión visual de los usuarios. Basándonos en los principios de la psicología del color, hemos elegido una paleta cromática en la que el verde, el marrón y el amarillo desempeñan roles prominentes en la implementación de nuestra plataforma.
+
+El color verde se ha seleccionado como la tonalidad principal de nuestra paleta cromática. El verde simboliza equilibrio, crecimiento y prestigio, tres elementos fundamentales que buscamos transmitir como parte de la identidad de nuestra startup. Además, el verde está estrechamente asociado con la naturaleza y la agricultura, reflejando el enfoque de nuestra plataforma hacia el sector agropecuario. Asimismo, el verde evoca el concepto de armonía, que es uno de los pilares que queremos ofrecer a nuestros usuarios durante su interacción con nuestro servicio.
+
+Como tonalidades secundarias, complementamos el verde con variedades cromáticas del marrón y el amarillo. El marrón transmite estabilidad, confianza y robustez, cualidades que refuerzan la fiabilidad y solidez de nuestra plataforma. Por otro lado, el amarillo aporta energía, vitalidad y optimismo, lo que se alinea con nuestra visión de proporcionar una experiencia dinámica y positiva a nuestros usuarios.
+
+En conjunto, la combinación de verde, marrón y amarillo en nuestra paleta cromática refleja la identidad, valores y objetivos de nuestra startup, creando una experiencia visual atractiva y coherente para nuestros usuarios.
+
+paleta de colores de FoodOS:
+![Usuario](/Assets/Img/Chapter%20IV/PaletadecoloresdeFoodOS.png)
+paleta de colores de VerSOFT
+![Usuario](/Assets/Img/Chapter%20IV/Paletadecoloresdeversfot.png)
 
 ## 4.2. Information Architecture
 
