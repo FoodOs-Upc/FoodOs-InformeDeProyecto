@@ -111,6 +111,9 @@ El desafío surge debido a la ausencia de herramientas de gestión adecuadas en 
 
 La calidad del servicio y la capacidad competitiva de los restaurantes se ven impactadas por la ineficiencia en la gestión de inventarios. La falta de supervisión de existencias puede resultar en problemas como la carencia de ingredientes, el derroche de alimentos y una experiencia insatisfactoria para el cliente. Además, la carencia de información precisa y actualizada puede dificultar la planificación estratégica y la toma de decisiones comerciales, lo que podría afectar negativamente la rentabilidad y el éxito a largo plazo del restaurante.
 
+- Problem Statement 1:
+La falta de herramientas de gestión adecuadas en numerosos restaurantes provoca una serie de problemas operativos, como desorganización, falta de control de existencias y pérdidas económicas.
+
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
