@@ -7,10 +7,10 @@
 #### Competitive Analysis Landscape  
 
 El objetivo del siguiente análisis competitivo es identificar las fortalezas y debilidades en relación con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
-
+    
 | Competidor|        |Poster|Odoo|SolverMedia|FoodOs|
 | ----------|--------|-------|-----|-------|-------|
-| Logo      |        |    ![](/Assets/Img/Chapter%20II/poster.png)| ![](/Assets/Img/Chapter%20II/odoo_logo.png)| ![](/Assets/Img/Chapter%20II/Solvermedia-logo-montserrat_font_black.png)| ![logo_FoodOs]() |
+|Logo      |        |    ![](/Assets/Img/Chapter%20II/poster.png)| ![](/Assets/Img/Chapter%20II/odoo_logo.png)| ![](/Assets/Img/Chapter%20II/Solvermedia-logo-montserrat_font_black.png)| ![](/Assets/Img/Chapter%20II/FoodOSLogo.png) |
 | Perfil    | Overview| Aplicacion Web |Aplicacion Web  |Ejecutable  |Aplicacion Web |
 |  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | La propuesta de valor de Poster es ofrecer la gestion de ventas,inventario,contabilidad y tener la posibilidad de expandir el negocio a dispositivos moviles.  |La propuesta de valor de Odoo es tener un software enfocado a comercios personalizado a pedido de sus clientes  |La propuesta de valor de SolverMedia es ofrecer un software simple que ofrece control de stack, Realizar horarios para el equipo del restaurante, realizar pedidos al provedor.|La propuesta de valor de FoodOs es enfocarse en el control del almacen de un restaurante ofreciendo mejorar el tiempo de las tareas, controlar la frescura de los alimentos, realizacion de informes diarios.   |
 | Perfil de Marketing | Mercado objetivo| Negocios enfocados en el sector de los restaurantes que buscan un software que ayude en sus tareas cotidianas. |Negocios que buscan un software  personalizado para su negocio. | Enfocados en Restaurantes, Cafeterias y Tpv Hosteleria.| Enfocado en restaurantes que quieren tener un mejor control del almacen |
@@ -64,7 +64,7 @@ Tener actualizaciones constantes y una cobertura intenacional.
 
 ### 2.2.1. Diseño de entrevistas
 
-#### Usuario:
+#### Restaurantes:
 
 ##### Preguntas demográficas:
 
