@@ -17,7 +17,7 @@ En los próximos años, VerSoft se destacará como un modelo de negocio comprome
 
 ![Usuario](/Assets/Img/Chapter%20III/VerSoftLogo.png)
 
-Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo:
+Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo: 
 
 ![Usuario](/Assets/Img/Chapter%20III/FoodOSLogo.png)
 
