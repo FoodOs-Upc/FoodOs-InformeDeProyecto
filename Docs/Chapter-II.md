@@ -150,9 +150,58 @@ Datos Demográficos:
 - Distrito de Residencia:  
 
 Duración de la entrevista: [00:00:00 - 00:10:57]
-
 #### Preguntas principales:
 
+
+#### Entrevistas a Restaurantes
+Entrevista #1 
+[![Entrevista-Max.png](https://i.postimg.cc/vB8n4wTX/Entrevista-Max.png)](https://postimg.cc/t1fJcfhV)
+
+Datos Demográficos:  
+- Nombre: Joshua Ronald Alex Lopez Haro 
+- Edad: 22 años
+- Ocupación: Gestion de inventario dentro de restaurante
+- Distrito de Residencia: Surquillo
+
+Duración de la entrevista: 5:12 minutes
+Enlace: https://youtu.be/lxaQMNe8nEs
+
+Entrevista #2
+
+Datos Demográficos:  
+ 
+- Nombre: 
+- Edad: 
+- Ocupación:  
+- Distrito de Residencia:
+
+Duración de la entrevista: 
+Enlace: 
+
+#### Entrevistas a Restaurantes
+Entrevista #1
+
+Datos Demográficos:  
+ 
+- Nombre: 
+- Edad: 
+- Ocupación:  
+- Distrito de Residencia:
+
+Duración de la entrevista: 
+Enlace: 
+
+Entrevista #2
+
+Datos Demográficos:  
+ 
+- Nombre: 
+- Edad: 
+- Ocupación:  
+- Distrito de Residencia:
+
+Duración de la entrevista: 
+Enlace: 
 
 ### 2.2.3. Análisis de entrevistas
 
