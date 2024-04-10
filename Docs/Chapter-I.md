@@ -1,15 +1,23 @@
 # Capitulo 1
 ## 1.1. Startup Profile
+VerSoft es una startup creada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) y tiene como objetivo crear una solución revolucionaria para la gestión de inventarios en el negocio de la restauración. VerSoft está en proceso de desarrollo y se enfoca en un proyecto de curso final aunque aún no se ha lanzado al mercado. VerSoft aprovechará la creatividad y la experiencia de sus fundadores para crear una herramienta de gestión de inventarios eficiente y fácil de usar.
 
+### 1.1.1. Descripción de la Startup.
+La startup, de nombre VerSoft, propone como solución para el sector gastronómico la gestión de inventarios de restaurantes através de su plataforma como servicio llamada FoodOS. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, esta plataforma divide y optimiza los procesos de inventario esenciales de los restaurantes. VerSoft se compromete a ofrecer una aplicación web poderosa y fácil de usar con la clara misión de revolucionar la manera en que se documentan y optimizan estos procesos esenciales.
 
-### 1.1.1. Descripción de la Startup
+* **Misión:** FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
 
+* **Visión:** En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+  
+* **StartUp Logo:**
+    <p align="left">
+    <img width="300" height="130" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/VerSoftLogo.png">
+    </p>
 
-
-* **Misión:**
-
-* **Visión:**
-
+* **App Logo:**
+    <p align="left">
+    <img width="240" height="260" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/FoodOSLogo.png">
+    </p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -17,93 +25,93 @@
 |-|----------|-----------------------|
 |  |  |  |
 |  |  |  |
-| ![](/Assets/Img/Chapter%20I/foto.png) |**Brayan Morales Quispe** |Soy Brayan Smith tengo 20 años curso el 5to ciclo de la carrera de Ingeniería de Software escogí esta carrera porque me gusta los videojuegos y el desarrollo de aplicaciones. Nivel Intermedio en C++,C# y Java. Nivel básico SQL. Nivel Intermedio Ilustrator y Photoshop  |
-| <p align="center"> <img width="150" height="200" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/Perfil-Piero.jpeg"> </p> | **Piero Alonso Martinez Villanueva** | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. |
+| ![](/Assets/Img/Chapter%20I/foto.png) | **Brayan Smith Morales Quispe** | Soy Brayan Smith tengo 20 años curso el 5to ciclo de la carrera de Ingeniería de Software escogí esta carrera porque me gusta los videojuegos y el desarrollo de aplicaciones | Nivel Intermedio en C++,C# y Java. Nivel básico SQL. Nivel Intermedio Ilustrator y Photoshop. |
+| <p align="center"> <img width="150" height="200" src="https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/blob/feature/chapter-I/Assets/Img/Chapter%20I/Perfil-Piero.jpeg"> </p> | **Piero Alonso Martinez Villanueva** | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC.|
 |[![Perfil.jpg](https://i.postimg.cc/4NfMSBsm/Perfil.jpg)](https://postimg.cc/Cd2mZCZg)| **Alessandro Alex Vega Paico** | Actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, Python, Java, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación. |
 
 ## 1.2. Solution Profile
 
 
-**Product Name:**
+**Product Name:** FoodOS
 
 
-**Product Description:**
+**Product Description:** FoodOS, donde "OS" significa "Organization Storage", es una aplicación que tiene como objetivo cambiar la forma en que la industria de la restauración manejan los inventarios. Para satisfacer las necesidades específicas de los restaurantes, esta plataforma completa ofrece una variedad de funciones como la gestión de inventarios, los pedidos automatizados para reposición de inventario o el seguimiento de costos y el análisis detallado del rendimiento del inventario. Los propietarios y gerentes de restaurantes pueden utilizar FoodOS para optimizar sus operaciones, aumentar la rentabilidad y tomar decisiones más conscientes basadas en datos específicos.
 
 
-
-**Monetización:**
-
+**Monetización:** FoodOS funciona mediante un modelo de suscripción mensual, trimestral o anual, con una prueba gratuita de 30 días para nuevos usuarios. Hay tres planes de suscripción disponibles para satisfacer las necesidades y los presupuestos de varios tipos de restaurantes:<br>
+ - **Plan Básico:** Este plan incluye funciones esenciales como análisis básico de costos, pedidos automáticos, seguimiento de existencias y gestión de inventarios.<br>
+ - **Plan Premium:** Los usuarios de este plan reciben características adicionales como soporte técnico prioritario, integraciones con proveedores, informes avanzados y sugerencias y recomendaciones.<br>
+ - **Plan Personalizado:** Este plan está diseñado para grandes cadenas o restaurantes conocidos, y permite a los usuarios seleccionar las funcionalidades que más les interesan a través de un formulario interactivo 
+ proporcionado por la empresa.
 
 
 ### 1.2.1. Antecedentes y problemática
 
-* __Antecedentes__
+__Antecedentes__:
+  
+Debido a las complejidades de las operaciones y la falta de sistemas efectivos que permitan un control adecuado de existencias y una planificación precisa de aprovisionamiento, la gestión de inventarios en la industria de la restauración ha sido un desafío a través del tiempo.
 
-
-
-* __Problemáticas__
-
-#### Técnica de las 5 ‘W’s y 2 ‘H’s
+__Problemáticas__:
 
 #### What?
 
-**¿Cuál es el problema?**
+**¿Cuál es el problema?**<br>
+La falta de sistemas de gestión de inventarios efectivos en la industria de la restauración conduce a desorganización, errores en el control de inventarios, pérdidas económicas y otros problemas operativos que afectan directamente la rentabilidad y eficiencia de los restaurantes.
 
-
-**¿Cuál es la relación con la persona en cuestión?**
-
+**¿Cuál es la relación con la persona en cuestión?**<br>
+Dado que están directamente involucrados en la gestión de inventarios, los propietarios, gerentes y empleados encargados de las operaciones diarias de los restaurantes son los más afectados por esta problemática.
 
 
 #### When?
 
-**¿Cuándo sucede el problema?**
+**¿Cuándo sucede el problema?**<br>
+Independientemente de la hora del día o la temporada del año, este problema es constante y puede surgir en cualquier momento durante la operación diaria de un restaurante.
 
-
-
-**¿Cuándo utiliza el cliente le producto?**
-
+**¿Cuándo utiliza el cliente le producto?**<br>
+El producto es utilizado regularmente por los usuarios en sus operaciones diarias de gestión de inventarios en restaurantes.
 
 
 #### Where?
 
-**¿Dónde está el cliente cuando usa el producto?**
+**¿Dónde está el cliente cuando usa el producto?**<br>
+Ya sea en la cocina o en la oficina administrativa, los usuarios pueden acceder al producto en sus establecimientos de restauración.
 
 
+**¿A dónde se dirige?**<br>
+La problemática afecta a restaurantes de diversos tamaños y ubicaciones geográficas, lo que demuestra su gran alcance en el sector.
 
-**¿A dónde se dirige?**
 
-
-
-**¿Dónde surge el problema?**
-
+**¿Dónde surge el problema?**<br>
+El problema surge de los establecimientos de restauración que carecen de sistemas de gestión de inventarios efectivos y no están preparados para manejar las complejidades operativas.
 
 
 #### Who?
 
-**¿Quiénes están involucrados?**
-
+**¿Quiénes están involucrados?**<br>
+Los propietarios, gerentes y empleados de restaurantes son los principales participantes en la gestión de inventarios y son los más afectados por esta situación.
 
 
 #### Why?
 
-**¿Cuál es la causa del problema?**
-
+**¿Cuál es la causa del problema?**<br>
+La falta de sistemas adecuados de gestión de inventarios, limitaciones financieras, falta de conocimiento sobre soluciones disponibles y la naturaleza competitiva y compleja de la industria de la restauración son todos factores que contribuyen al problema.
 
 
 #### How?
 
-**¿En qué condiciones los clientes usan nuestros productos?**
+**¿En qué condiciones los clientes usan nuestros productos?**<br>
+Los clientes utilizan el producto en condiciones operativas variables, desde períodos de alta demanda hasta períodos de baja actividad, lo que requiere una solución adaptable y confiable.
 
+**¿Cómo prefieren los clientes acceder a nuestro producto?**<br>
+Para una gestión fácil y eficiente de inventarios, los clientes prefieren acceder al producto a través de plataformas tecnológicas modernas, como dispositivos móviles o computadoras.
 
-**¿Cómo prefieren los clientes acceder a nuestro producto?**
-
-
-**¿Qué llevó al cliente a llegar a esta situación?**
-
+**¿Qué llevó al cliente a llegar a esta situación?**<br>
+Los propietarios y gerentes de restaurantes buscan soluciones tecnológicas como la nuestra debido a la necesidad de gestionar eficazmente los inventarios y optimizar las operaciones en un entorno altamente competitivo.
 
 
 #### How much?
-
+**¿Cuánto impacto genera este problema en los negocios de la industria de la restauración?**<br>
+La falta de gestión efectiva de inventarios puede tener un impacto económico significativo en los negocios de la industria de la restauración. Esto puede resultar en pérdidas financieras, desperdicio de alimentos y una disminución de la satisfacción del cliente, lo que afecta la reputación y la rentabilidad de los restaurantes. El tamaño del restaurante, el volumen de ventas y el nivel de eficiencia operativa son algunos de los factores que determinan la magnitud exacta de estas pérdidas.
 
 
 ### 1.2.2 Lean UX Process
@@ -170,8 +178,8 @@ Mediremos esto a través de la comparación de la precisión de las predicciones
 
 FoodOS está enfocado en atender las necesidades de dos segmentos principales en la industria gastronómica: los restaurantes y los proveedores de alimentos. Estos dos grupos representan actores fundamentales en la cadena de suministro y operaciones de los establecimientos de comida, y FoodOS busca proporcionar soluciones innovadoras que mejoren la eficiencia y la gestión en ambos lados de la ecuación.
 
-- Restaurantes:
+- **Restaurantes:**
 FoodOS está diseñado para satisfacer las necesidades de propietarios y gerentes de restaurantes de todos los tamaños y tipos. Esta plataforma ofrece una solución integral para la gestión eficiente de inventarios, facilitando tareas como seguimiento de existencias, realización de pedidos y planificación de menús. Los restaurantes pueden utilizar FoodOS para mejorar la eficiencia operativa, reducir el desperdicio de alimentos y optimizar sus procesos.
 
-- Proveedores:
+- **Proveedores:**
 FoodOS también está dirigido a proveedores de alimentos y distribuidores que desean ofrecer servicios avanzados a sus clientes restaurantes. Al integrarse con FoodOS, los proveedores pueden simplificar el proceso de pedido y entrega de productos, mejorar la visibilidad de sus inventarios y ofrecer un servicio más personalizado. Esto les permite fortalecer sus relaciones comerciales y aumentar la eficiencia de su cadena de suministro.
