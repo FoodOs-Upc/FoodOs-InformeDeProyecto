@@ -6,7 +6,7 @@
 
 ## 3.2. User Stories
 
-!(/Assets/Img/Chapter%20III/User%20stories.jpg)
+![Usuario](/Assets/Img/Chapter%20III/User%20stories.jpeg)
 
 
 ## 3.3. Impact Mapping
