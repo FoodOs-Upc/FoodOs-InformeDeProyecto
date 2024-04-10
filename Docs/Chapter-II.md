@@ -94,6 +94,40 @@ Tener actualizaciones constantes y una cobertura intenacional.
 
 Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustarían ver en nuestra aplicación?
 
+<br>
+
+#### Proovedores:
+
+##### Preguntas demográficas:
+
+¿Cuál es tu nombre?
+
+¿Qué edad tienes?
+
+¿Que tipo de productos ofreces?
+
+¿De qué distrito resides?
+
+##### Preguntas principales:
+
+¿Cómo manejan actualmente los pedidos y entregas a restaurantes?
+
+¿Cuáles son los principales desafíos que enfrentan en la gestión de pedidos y entregas?
+
+¿Utilizan algún sistema o herramienta para hacer seguimiento de sus productos?
+
+¿Cuánto tiempo toma completar un pedido desde que se recibe hasta que se entrega en el restaurante?
+
+##### Preguntas sobre el proyecto:
+
+¿Han escuchado sobre alguna aplicación o plataforma que facilite la gestión de pedidos para proveedores como ustedes?
+
+¿Qué características o funcionalidades les gustaría ver en una aplicación diseñada para ayudar a los proveedores de productos para restaurantes?
+
+¿Estarían interesados en probar una versión beta de nuestra aplicación y proporcionar retroalimentación sobre su funcionalidad y usabilidad?
+
+¿Qué expectativas tienen en cuanto a costos y tarifas para utilizar una plataforma como la nuestra en su empresa?
+
 
 ### 2.2.2. Registro de entrevistas
 
