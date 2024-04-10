@@ -23,8 +23,6 @@ La startup, de nombre VerSoft, propone como solución para el sector gastronómi
 
 |Foto| Integrante| Descripción del Perfil|
 |-|----------|-----------------------|
-|  |  |  |
-|  |  |  |
 |![IMG_3824 (2)](https://github.com/FoodOs-Upc/FoodOs-InformeDeProyecto/assets/83480837/ac6fa0f1-daef-4fda-be6b-0b794d1dd9e3)| **Ortiz Fajardo Tomas** | Soy Tomas Ortiz Fajardo y me encuentro cursando la carrera de Ingeniería de Software. Siempre me ha gustado la programación, y tengo la suerte de poder aprender y dominar más de un lenguaje de programación, como por ejemplo Python, JavaScript, C++, entre otros. Espero poder colaborar a este trabajo lo suficiente para poder generar más buenos recuerdos y seguir aprendiendo. |
 | ![](/Assets/Img/Chapter%20I/foto.png) | **Brayan Smith Morales Quispe** | Soy Brayan Smith tengo 20 años curso el 5to ciclo de la carrera de Ingeniería de Software escogí esta carrera porque me gusta los videojuegos y el desarrollo de aplicaciones | Nivel Intermedio en C++,C# y Java. Nivel básico SQL. Nivel Intermedio Ilustrator y Photoshop. |
 | ![](/Assets/Img/Chapter%20I/Perfil-Piero.jpeg) | **Piero Alonso Martinez Villanueva** | Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D. Actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC.|
