@@ -209,7 +209,7 @@ Enlace:
 ### 2.2.3. Análisis de entrevistas
 
 - Entrevistas a Restaurantes
-	- Entrevista #1 
+	- Entrevista #1 <br>
 Joshua nos menciona que es el encargado de gestionar el inventario del restaurante donde trabaja. Actualmente ellos usan excel como tambien lo gestionan de manera manual, lo cual nos comenta que no es la manera mas eficiente porque tienen problemas de organización dentro del almacén y ya han tenido problemas con productos caducados o que no han sido refrigerados adecuadamente y se han hechado a perder. Con respecto a la presentacion de nuestra plataforma, nos menciona que esta interesado en el uso de la misma para optimizar el trabajo y minimizar los problemas como tambien el ahorro de tiempo al momento de registrar los productos, como tambien su fecha de ingreso y su fecha de caducidad y por ultimo nos menciona que le gustaria una funcione como el escaneo de códigos de barras para el registro automático de productos y que varios usuarios accedan y actualicen el inventario.
 
 	- Entrevista #2
