@@ -169,3 +169,6 @@ FoodOS está enfocado en atender las necesidades de dos segmentos principales en
 
 - Restaurantes:
 FoodOS está diseñado para satisfacer las necesidades de propietarios y gerentes de restaurantes de todos los tamaños y tipos. Esta plataforma ofrece una solución integral para la gestión eficiente de inventarios, facilitando tareas como seguimiento de existencias, realización de pedidos y planificación de menús. Los restaurantes pueden utilizar FoodOS para mejorar la eficiencia operativa, reducir el desperdicio de alimentos y optimizar sus procesos.
+
+- Proveedores:
+FoodOS también está dirigido a proveedores de alimentos y distribuidores que desean ofrecer servicios avanzados a sus clientes restaurantes. Al integrarse con FoodOS, los proveedores pueden simplificar el proceso de pedido y entrega de productos, mejorar la visibilidad de sus inventarios y ofrecer un servicio más personalizado. Esto les permite fortalecer sus relaciones comerciales y aumentar la eficiencia de su cadena de suministro.
