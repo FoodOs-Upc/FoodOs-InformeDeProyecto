@@ -165,3 +165,7 @@ Mediremos esto a través de la comparación de la precisión de las predicciones
 
 ## 1.3. Segmentos Objetivos
 
+FoodOS está enfocado en atender las necesidades de dos segmentos principales en la industria gastronómica: los restaurantes y los proveedores de alimentos. Estos dos grupos representan actores fundamentales en la cadena de suministro y operaciones de los establecimientos de comida, y FoodOS busca proporcionar soluciones innovadoras que mejoren la eficiencia y la gestión en ambos lados de la ecuación.
+
+- Restaurantes:
+FoodOS está diseñado para satisfacer las necesidades de propietarios y gerentes de restaurantes de todos los tamaños y tipos. Esta plataforma ofrece una solución integral para la gestión eficiente de inventarios, facilitando tareas como seguimiento de existencias, realización de pedidos y planificación de menús. Los restaurantes pueden utilizar FoodOS para mejorar la eficiencia operativa, reducir el desperdicio de alimentos y optimizar sus procesos.
