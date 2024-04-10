@@ -120,7 +120,7 @@ La dependencia de métodos manuales y poco eficientes, como el registro en papel
 - Problem Statement 3:
 La carencia de eficiencia en la gestión de inventarios afecta la calidad del servicio ofrecido por los restaurantes, causando problemas como la escasez de ingredientes, el desperdicio de alimentos y una experiencia insatisfactoria para el cliente.
 
-#### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.2. Lean UX Assumptions
 
 Assumptions:
 - Existe una demanda en el mercado gastronómico para una solución digital que simplifique y optimice la gestión de inventarios en restaurantes.
@@ -136,7 +136,14 @@ Features:
 - Los usuarios podrán establecer fechas de caducidad para los productos en el inventario y recibir alertas automáticas cuando se acerquen las fechas límite.
 - Oofrecerá una interfaz intuitiva y fácil de usar, permitiendo a los usuarios acceder y gestionar el inventario de manera sencilla.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- 1st Hypothesis Statement
+Nosotros creemos que si simplificamos el proceso de registro de productos en FoodOS,
+Cuando los usuarios agreguen nuevos productos al inventario de sus restaurantes,
+Veremos que  la eficiencia en la gestión del inventario mejorará y se reducirá el tiempo dedicado a tareas administrativas,
+Mediremos esto a través de la comparación del tiempo promedio necesario para agregar nuevos productos al inventario antes y después de simplificar el proceso, así como la retroalimentación de los usuarios sobre la facilidad de uso y la percepción de mejora en la eficiencia.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
