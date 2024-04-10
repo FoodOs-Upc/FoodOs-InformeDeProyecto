@@ -18,7 +18,7 @@
 
 ## 3.3. Impact Mapping
 
-
+![Usuario](/Assets/Img/Chapter%20III/IMPACTMAP.jpeg)
 ## 3.4. Product Backlog
 
 Imagen de Product Backlog en Pivotal Tracker:
