@@ -117,6 +117,8 @@ La falta de herramientas de gestión adecuadas en numerosos restaurantes provoca
 - Problem Statement 2:
 La dependencia de métodos manuales y poco eficientes, como el registro en papel y el uso de hojas de cálculo digitales, aumenta la probabilidad de errores y complica la toma de decisiones fundamentadas en la gestión de inventarios.
 
+- Problem Statement 3:
+La carencia de eficiencia en la gestión de inventarios afecta la calidad del servicio ofrecido por los restaurantes, causando problemas como la escasez de ingredientes, el desperdicio de alimentos y una experiencia insatisfactoria para el cliente.
 
 
 #### 1.2.2.2. Lean UX Assumptions.
