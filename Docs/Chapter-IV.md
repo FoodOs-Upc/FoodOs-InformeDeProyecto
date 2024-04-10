@@ -41,6 +41,22 @@ paleta de colores de VerSOFT
 
 ![Usuario](/Assets/Img/Chapter%20IV/Paletadecoloresdeversfot.png)
 
+
+A continuación mostraremos los aspectos más importantes en el desarrollo web que son el uso correcto del responsive design para que la aplicación se visualice perfectamente sin importar el tamaño de la pantalla o dispositivo.
+
+Por esta razón, se decidió realizar el desarrollo de nuestra solución tomando en cuenta los siguientes breakpoints para que el responsive design se muestre correctamente:
+
+| Breakpoint prefix | Minimum width |
+| ----------------- | ------------- |
+| sm                | 640px         |
+| Md                | 768px         |
+| L                 | 1024px        |
+| xl                | 1280px        |
+| 2xl               | 1536px        |
+
+Con respecto a los estándares visuales, se utilizarán los mismos elementos presentados en la sección anterior para lograr uniformidad en todo el uso de nuestra aplicación. Igualmente, las medidas y propiedades presentadas son escalables, manejables y compatibles con el desarrollo de responsive design.
+
+
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
