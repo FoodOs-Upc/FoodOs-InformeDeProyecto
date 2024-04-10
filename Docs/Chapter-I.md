@@ -102,17 +102,20 @@
 #### How much?
 
 
-### 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+El propósito fundamental de FoodOS es proporcionar a los restaurantes una solución integral para la gestión de inventarios, permitiendo a los propietarios y gerentes tener un control total y optimizar sus operaciones.
+
+El desafío surge debido a la ausencia de herramientas de gestión adecuadas en numerosos restaurantes, lo que resulta en una serie de problemas operativos, como desorganización, falta de control de existencias, pérdidas económicas y otros contratiempos. Este déficit se evidencia principalmente en la dependencia de métodos manuales y poco eficientes, como el registro en papel y el uso de hojas de cálculo digitales, lo que incrementa la probabilidad de errores y complica la toma de decisiones fundamentadas.
+
+La calidad del servicio y la capacidad competitiva de los restaurantes se ven impactadas por la ineficiencia en la gestión de inventarios. La falta de supervisión de existencias puede resultar en problemas como la carencia de ingredientes, el derroche de alimentos y una experiencia insatisfactoria para el cliente. Además, la carencia de información precisa y actualizada puede dificultar la planificación estratégica y la toma de decisiones comerciales, lo que podría afectar negativamente la rentabilidad y el éxito a largo plazo del restaurante.
 
 #### 1.2.2.2. Lean UX Assumptions.
-
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 #### 1.2.2.4. Lean UX Canvas
-
 
 ## 1.3. Segmentos Objetivos
 
