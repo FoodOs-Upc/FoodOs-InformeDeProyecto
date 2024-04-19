@@ -19,9 +19,9 @@
 
 *  **Morales Quispe Brayan Smith       U20211F984** 
 *  **Tomas Ortiz Fajardo**    
-*  **Dueñas Canales Leonardo Manuel** 
-*  **Alessandro Vega Paico**
-*  **Piero Alonso Martinez Villanueva**
+*  **Dueñas Canales Leonardo Manuel    U202117475** 
+*  **Alessandro Vega Paico - u201910225**
+*  **Piero Alonso Martinez Villanueva   U202113821**
 
 
 <center>
