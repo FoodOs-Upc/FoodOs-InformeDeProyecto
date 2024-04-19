@@ -4,9 +4,58 @@
 
 ### 4.1.1. General Style Guidelines.
 
-En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+ Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar
+ o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga
+ especificación a los parámetros implementados en la estructura del proyecto.
 
 ### 4.1.2. Web Style Guidelines
+
+Descripción de la Startup:
+VerSoft, una startup formada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), está dedicada a crear una solución innovadora para la gestión de inventarios en el sector gastronómico. Su plataforma, llamada FoodOS, tiene como objetivo principal optimizar y simplificar los procesos de inventario en restaurantes. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, FoodOS divide y optimiza los procesos esenciales del inventario de los restaurantes. VerSoft se compromete a proporcionar una aplicación web poderosa y fácil de usar para revolucionar la documentación y optimización de estos procesos clave.
+Misión:
+FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
+Visión:
+En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+
+![Usuario](/Assets/Img/Chapter%20IV/VerSoftLogo.png)
+
+Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo: 
+
+![Usuario](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
+
+Colors:
+
+Los colores juegan un papel fundamental en la primera impresión visual de los usuarios. Basándonos en los principios de la psicología del color, hemos elegido una paleta cromática en la que el verde, el marrón y el amarillo desempeñan roles prominentes en la implementación de nuestra plataforma.
+
+El color verde se ha seleccionado como la tonalidad principal de nuestra paleta cromática. El verde simboliza equilibrio, crecimiento y prestigio, tres elementos fundamentales que buscamos transmitir como parte de la identidad de nuestra startup. Además, el verde está estrechamente asociado con la naturaleza y la agricultura, reflejando el enfoque de nuestra plataforma hacia el sector agropecuario. Asimismo, el verde evoca el concepto de armonía, que es uno de los pilares que queremos ofrecer a nuestros usuarios durante su interacción con nuestro servicio.
+
+Como tonalidades secundarias, complementamos el verde con variedades cromáticas del marrón y el amarillo. El marrón transmite estabilidad, confianza y robustez, cualidades que refuerzan la fiabilidad y solidez de nuestra plataforma. Por otro lado, el amarillo aporta energía, vitalidad y optimismo, lo que se alinea con nuestra visión de proporcionar una experiencia dinámica y positiva a nuestros usuarios.
+
+En conjunto, la combinación de verde, marrón y amarillo en nuestra paleta cromática refleja la identidad, valores y objetivos de nuestra startup, creando una experiencia visual atractiva y coherente para nuestros usuarios.
+
+paleta de colores de FoodOS:
+
+![Usuario](/Assets/Img/Chapter%20IV/PaletadecoloresdeFoodOS.png)
+
+paleta de colores de VerSOFT
+
+![Usuario](/Assets/Img/Chapter%20IV/Paletadecoloresdeversfot.png)
+
+
+A continuación mostraremos los aspectos más importantes en el desarrollo web que son el uso correcto del responsive design para que la aplicación se visualice perfectamente sin importar el tamaño de la pantalla o dispositivo.
+
+Por esta razón, se decidió realizar el desarrollo de nuestra solución tomando en cuenta los siguientes breakpoints para que el responsive design se muestre correctamente:
+
+| Breakpoint prefix | Minimum width |
+| ----------------- | ------------- |
+| sm                | 640px         |
+| Md                | 768px         |
+| L                 | 1024px        |
+| xl                | 1280px        |
+| 2xl               | 1536px        |
+
+Con respecto a los estándares visuales, se utilizarán los mismos elementos presentados en la sección anterior para lograr uniformidad en todo el uso de nuestra aplicación. Igualmente, las medidas y propiedades presentadas son escalables, manejables y compatibles con el desarrollo de responsive design.
+
 
 ## 4.2. Information Architecture
 
