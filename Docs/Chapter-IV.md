@@ -9,52 +9,66 @@
  especificación a los parámetros implementados en la estructura del proyecto.
 
 ### 4.1.2. Web Style Guidelines
+A continuacion, se mostrará de manera organizada los Branding, Typography, Colors y Spacing que se usarán para diseñar nuestra aplicacion.
 
-Descripción de la Startup:
-VerSoft, una startup formada por cinco estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), está dedicada a crear una solución innovadora para la gestión de inventarios en el sector gastronómico. Su plataforma, llamada FoodOS, tiene como objetivo principal optimizar y simplificar los procesos de inventario en restaurantes. Desde el seguimiento de existencias hasta la gestión de proveedores y el análisis predictivo de datos, FoodOS divide y optimiza los procesos esenciales del inventario de los restaurantes. VerSoft se compromete a proporcionar una aplicación web poderosa y fácil de usar para revolucionar la documentación y optimización de estos procesos clave.
-Misión:
-FoodOS proporcionará una solución tecnológica avanzada para redefinir la gestión de inventarios en el sector gastronómico.
-Visión:
-En los próximos años, VerSoft se destacará como un modelo de negocio comprometido con la gestión de inventarios y se convertirá en la plataforma líder en gestión de inventarios para restaurantes.
+* __Brand Overview.-__ El problema que buscamos solucionar con nuestra aplicacion web es mejorar la organizacion y redimiento al tener que manejar un almacen de un restaurantes
 
-![Usuario](/Assets/Img/Chapter%20IV/VerSoftLogo.png)
+* __Brand Name.-__ El nombre de FoodOs surge por la combinancion de dos palabras. La primera siendo Food que significa Comida, palabra muy relacionada con los restaurantes, y Os palabra que hace referencia a un sistema. 
+![Logo de FoodOs](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
 
-Por otro lado, La propuesta para el branding que utilizaremos será FoodOS en el siguiente modelo: 
+* __Fonts.-__ El tipo de tipografia de letra elegido fue Nunito debido a su simpleza, ser limpia y legible.
 
-![Usuario](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
+![Letra](/Assets/Img/Chapter%20IV/Letras%20Nunito.png)
 
-Colors:
+* __Colors.-__ Los colores juegan un papel fundamental en la primera impresión visual de los usuarios. Basándonos en los principios de la psicología del color, hemos elegido una paleta cromática en la que el verde, el marrón y el amarillo desempeñan roles prominentes en la implementación de nuestra plataforma.
 
-Los colores juegan un papel fundamental en la primera impresión visual de los usuarios. Basándonos en los principios de la psicología del color, hemos elegido una paleta cromática en la que el verde, el marrón y el amarillo desempeñan roles prominentes en la implementación de nuestra plataforma.
+<center>
+
+__Color Primario__
 
 El color verde se ha seleccionado como la tonalidad principal de nuestra paleta cromática. El verde simboliza equilibrio, crecimiento y prestigio, tres elementos fundamentales que buscamos transmitir como parte de la identidad de nuestra startup. Además, el verde está estrechamente asociado con la naturaleza y la agricultura, reflejando el enfoque de nuestra plataforma hacia el sector agropecuario. Asimismo, el verde evoca el concepto de armonía, que es uno de los pilares que queremos ofrecer a nuestros usuarios durante su interacción con nuestro servicio.
 
+![Color](/Assets/Img/Chapter%20IV/Color%20principal.png)
+
+</center>
+
+<center>
+
+__Colores Secundarios__
 Como tonalidades secundarias, complementamos el verde con variedades cromáticas del marrón y el amarillo. El marrón transmite estabilidad, confianza y robustez, cualidades que refuerzan la fiabilidad y solidez de nuestra plataforma. Por otro lado, el amarillo aporta energía, vitalidad y optimismo, lo que se alinea con nuestra visión de proporcionar una experiencia dinámica y positiva a nuestros usuarios.
 
-En conjunto, la combinación de verde, marrón y amarillo en nuestra paleta cromática refleja la identidad, valores y objetivos de nuestra startup, creando una experiencia visual atractiva y coherente para nuestros usuarios.
+![Color](/Assets/Img/Chapter%20IV/PaletadecoloresdeFoodOS.png)
 
-paleta de colores de FoodOS:
+</center>
 
-![Usuario](/Assets/Img/Chapter%20IV/PaletadecoloresdeFoodOS.png)
+<center>
 
-paleta de colores de VerSOFT
+__Color de Estado__:Error
+Se usara el color rojo para informar al usuario de algun error fatal.
+![Color](/Assets/Img/Chapter%20IV/ROJO.png)
 
-![Usuario](/Assets/Img/Chapter%20IV/Paletadecoloresdeversfot.png)
+</center>
 
+<center>
 
-A continuación mostraremos los aspectos más importantes en el desarrollo web que son el uso correcto del responsive design para que la aplicación se visualice perfectamente sin importar el tamaño de la pantalla o dispositivo.
+__Color de Estado__:Advertencia.
+Se usara el color amarillo para advertir al usuario de alguna accion erronea.
 
-Por esta razón, se decidió realizar el desarrollo de nuestra solución tomando en cuenta los siguientes breakpoints para que el responsive design se muestre correctamente:
+![Color](/Assets/Img/Chapter%20IV/AMARILLO.png)
 
-| Breakpoint prefix | Minimum width |
-| ----------------- | ------------- |
-| sm                | 640px         |
-| Md                | 768px         |
-| L                 | 1024px        |
-| xl                | 1280px        |
-| 2xl               | 1536px        |
+</center>
 
-Con respecto a los estándares visuales, se utilizarán los mismos elementos presentados en la sección anterior para lograr uniformidad en todo el uso de nuestra aplicación. Igualmente, las medidas y propiedades presentadas son escalables, manejables y compatibles con el desarrollo de responsive design.
+<center>
+
+__Color de Estado__:Exitoso
+Se usara el color verde para informar al usuario de la realizacion correcta de una accion.
+
+![Color](/Assets/Img/Chapter%20IV/VERDE.png)
+
+</center>
+
+* __Tono de comunicacion y lenguaje aplicado.-__
+El tipo de lenguaje que emplearemos sera Formal y serio. Dado que se quiere promover un ambiente de trabajo enfocado y sin distracciones que retrazen la eficencia del trabajo. 
 
 
 ## 4.2. Information Architecture
