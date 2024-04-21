@@ -75,15 +75,97 @@ El tipo de lenguaje que emplearemos sera Formal y serio. Dado que se quiere prom
 
 ### 4.2.1. Organization Systems
 
-A Continuación, se indican los tipos de estructura visual que tendrá cada grupo de información con respecto al segmento objetivo y al tipo de categorización que se usará.
+A Continuación, se mostrara los tipos de estructura visual que tendrá cada grupo de información con respecto al segmento objetivo y al tipo de categorización que se usará.
+
+* __LandingPage__
+![](/Assets/Img/Chapter%20IV/FoodOs%20Landing%20Page.jpg)
+
+* __WebApp__
+![](/Assets/Img/Chapter%20IV/FoodOs%20AppWeb.jpg)
 
 ### 4.2.2. Labeling Systems
+
+En este apartado se mostrará el etiquetado que tendrá nuestra Landing Page y Aplicacion Web.
+
+* __LandingPage__
+
+__Inicio/Home:__ Sección  que mostrará un banner con una frase representativa, de igual manera un boton hacia la aplicacion web.
+
+__Servicios/Service:__ Sección dividida por cada segmento en donde se le mostrarán los beneficios que tendrá cada uno a la hora de usar la aplicación.
+
+__Membresía/Membership:__ Se mostraran los precios que tendrá las membresías a los restaurantes.
+
+__Contactanos/Contact Us:__ Se mostrarán nuestros canales de comunicación, a la vez que un formulario en donde pueda enviar sus comentarios.
+
+__Nosotros/ About Us:__ Esta sección el visitante podrá ver la información del equipo que trabajo en el desarrollo de la aplicacion web. 
+
+* __Aplicacion Web__
+
+#### Segmento : Restaurantes
+
+__Inicio/Home:__ En esta sección se mostrara un resumen del inventario ademas de poder descargar un informe diario.
+
+__Perfil/ Profile:__ En la seccion se podra editar o borrar informacion de la cuenta.
+
+__Inventario/ Inventory:__ Esta sección el usuario tiene la entrada al inventario de su restaurante.
+
+__Grupo/Group:__ Esta sección el usuario puede agregar a personas a su grupo del alamcen ademas de asignar tareas. 
+
+__Notificaciones/Notifications__ En esta sección administrar las notificaciones del usuario.
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+<center>
+
+
+ __Landig Page__
+
+  </center>
+  
+
+__Título de la página:__ El título de la página será  LandingPageTeamSync. Dado que ayudara al usuario a diferenciar el landing Page de la aplicacion web
+
+__Descripción de la página:__ La descripción será precisa y corta.
+
+__Palabras clave:__ Esto permitira que nuestro sitio web sea mas facil de encontrar en los motores de busqueda con palabras claves
+
+__author:__ Permite identificar al author del sitio web. 
+
+<center>
+
+__Aplication Web__
+</center>
+
+
+__Título de la página:__ El título de la página será de FoodOs el nombre del producto. Dado que ayudara al usuario a diferenciar nuestra aplicacion del LandingPage
+
+__Descripción de la página:__ La descripción será precisa y corta.
+
+__Palabras clave:__ La etiqueta permitira ayudar a nuestra appweb a salir en el motor de busqueda con la busqueda de palabras claves.
+
+__Copyright:__ En el copyright se pondra el nombre del startup para dar a conocer nuestra presencia en la participacion del desarrollo de la app web.
 
 ### 4.3.1. Landing Page Wireframe
+En esta seccion se desarrollo los wireframes de landing Page que nos daran una vision acerca del diseño final de la pagina web
+
+![0](/Assets/Img/Chapter%20IV/LandingPage/Incio.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Servicios.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Membresia.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Nosotros.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Contactanos.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Pie.png)
+
+### 4.3.2. Landing Page Mock-ups
+
+En esta seccion se desarrollo los Mock-ups de landing Page que nos daran una vision acerca del diseño final de la pagina web
+
+![0](/Assets/Img/Chapter%20IV/LandingPage/Incio-1.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Servicios-1.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Membresia-1.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Nosotros-1.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Contactanos-1.png)
+![0](/Assets/Img/Chapter%20IV/LandingPage/Pie-1.png)
 
 ### 4.4.2. Web Application Wireflow Diagrams
 
