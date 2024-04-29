@@ -57,7 +57,7 @@
 
 En la imagen se muestra el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable entregable. 
 
-![commits.png](/Assets/Img/Colaboration/cantidad%20de%20commits.png)
+![commits.png](/Assets/Img/Colaboration/contribuidores.png)
 
 En esta imagen, hay una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio del informe para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
