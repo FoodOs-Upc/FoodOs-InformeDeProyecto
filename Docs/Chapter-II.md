@@ -215,7 +215,7 @@ Restaurante
 
 ![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
 
-Proveedor 
+- Proveedor 
 
 [![User-Persona-Proveedor.png](https://i.postimg.cc/xdYzngqk/User-Persona-Proveedor.png)](https://postimg.cc/dhH1922v)
 
@@ -292,7 +292,7 @@ User Journey Mapping: Restaurante
 
 ![User Journey Mapping: Cliente](/Assets/Img/Chapter%20II/User%20journey%20map%20FoodOs.png)
 
-User Journey Mapping: Proveedor
+- User Journey Mapping: Proveedor
 
 [![User-Journey-Mapping-Proveedor.png](https://i.postimg.cc/pXFhj3Fh/User-Journey-Mapping-Proveedor.png)](https://postimg.cc/6yBpJjzt)
 
