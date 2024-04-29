@@ -211,7 +211,13 @@ En este punto se mostrarán los resultados del proceso de recolección que se re
 ### 2.3.1. User Person
 El user Person es un perfil ficticio que personifica a las personas de interes, identificados en las entrevistas. Se incluyo en esta representacion la edad, genero, locacion, metas, frustaciones, navegador web, necesidades y herramientas usadas en el trabajo.
 
+Restaurante
+
 ![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
+
+Proveedor 
+
+[![User-Persona-Proveedor.png](https://i.postimg.cc/xdYzngqk/User-Persona-Proveedor.png)](https://postimg.cc/dhH1922v)
 
 ### 2.3.2. User Task Matrix
 El User Task Matrix nos ayudara a identificar las actividades que realizan nuestro segmento objetivo y identificamos la importacia de estas.
@@ -280,14 +286,20 @@ Esta tabla nos presenta las cantidad de tareas que realiza el almacenero Alfredo
 
 En este punto se realizo el User Journey Mapping para cada User Persona. El flujo comienza desde que el usuario entra al sitio web para ver el dashboard, realizar busqueda, actualizar, agregar un producto e imprimir un informe diario.Esta secuencia nos muestra la accion del usuario, proceso, problemas que tiene el usuario, experiencia y oportunidades.
 
+User Journey Mapping: Restaurante
+
 ![User Journey Mapping: Cliente](/Assets/Img/Chapter%20II/User%20journey%20map%20FoodOs.png)
+
+User Journey Mapping: Proveedor
+
+[![User-Journey-Mapping-Proveedor.png](https://i.postimg.cc/pXFhj3Fh/User-Journey-Mapping-Proveedor.png)](https://postimg.cc/6yBpJjzt)
 
 
 ### 2.3.4. Empathy Mapping
 
 En esta seccion nos sera util para crear perfiles detallados de los User Persona y desarrollar descripciones más profundas desde su perspectiva. 
 
-#### User Empathy Mapping: Cliente
+#### User Empathy Mapping: Restaurante
 
 ![User Empathy Mapping: Cliente](/Assets/Img//Chapter%20II//Emphaty%20map.png)
 
@@ -299,9 +311,13 @@ En el escenario actual (As-Is), el mapeo de la experiencia del usuario sin el us
 
 <center>
 
-__As-is Scenario Mapping: Usuario__ </center>
+__As-is Scenario Mapping: Restaurante__ </center>
 
 ![As Is Scenario Mapping Usuario](/Assets/Img/Chapter%20II/As%20Is%20Escenario%20mapping.jpg)
+
+- As-is Scenario Mapping: Proveedor
+
+[![As-is-Scenario-Mapping-Proveedor.png](https://i.postimg.cc/rmVbYgYG/As-is-Scenario-Mapping-Proveedor.png)](https://postimg.cc/yJGvDhKW)
 
 <br>
 
