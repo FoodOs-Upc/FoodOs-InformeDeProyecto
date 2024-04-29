@@ -197,14 +197,12 @@ Enlace: https://youtu.be/t4uON0K1RgE
 	- Entrevista #1 <br>
 Joshua nos menciona que es el encargado de gestionar el inventario del restaurante donde trabaja. Actualmente ellos usan excel como tambien lo gestionan de manera manual, lo cual nos comenta que no es la manera mas eficiente porque tienen problemas de organización dentro del almacén y ya han tenido problemas con productos caducados o que no han sido refrigerados adecuadamente y se han hechado a perder. Con respecto a la presentacion de nuestra plataforma, nos menciona que esta interesado en el uso de la misma para optimizar el trabajo y minimizar los problemas como tambien el ahorro de tiempo al momento de registrar los productos, como tambien su fecha de ingreso y su fecha de caducidad y por ultimo nos menciona que le gustaria una funcione como el escaneo de códigos de barras para el registro automático de productos y que varios usuarios accedan y actualicen el inventario.
 
-	- Entrevista #2
-
----
-
 - Entrevistas a Proveedores
-	- Entrevista #1
 
-	- Entrevista #2
+	- Entrevista #1 <br>
+Gustavo kawamura tiene 24 años, es un proveedor de productos agrícolas, nos comparte sus experiencias y desafíos en la gestión de pedidos y entregas a restaurantes. Actualmente utiliza llamadas, cronogramas y comunicación verbal para coordinar pedidos, pero reconoce la necesidad de un sistema más eficiente para evitar errores de comunicación y deterioro de los productos. Gustavo está interesado en una plataforma que le permita administrar sus suministros y recibir notificaciones automáticas cuando los restaurantes requieran artículos específicos. No menciona algunas funciones que le gustaria ver dentro de la plataforma como una función de chat y un registro de las conversaciones con los clientes. Nos enfatiza la importancia de una plataforma asequible e inclusiva con una estructura de costos razonable.
+	- Entrevista #2 <br>
+ José López es un proveedor y nos habla de su negocio de suministro de artículos de primera necesidad como peras, arroz, pasta y embutidos para restaurantes en Lima. Actualmente gestiona pedidos y entregas a través de WhatsApp y apunta a una comunicación y gestión de inventario más eficiente. Utilizando un sistema de registro manual en papel, sus pedidos tardan unos cuatro días hábiles en completarse. Nos menciona que esta interesado en  una aplicación para ayudar a gestionar el inventario y le interesa las notificaciones automaticas cuando los clientes necesiten reabastecimiento para mejorar su eficiencia en las entregas. Él estima que el costo de uso de la plataforma con esas caracteristicas podria rondar una tarifa mensual de $4.
 
 ## 2.3. Needfinding
 
