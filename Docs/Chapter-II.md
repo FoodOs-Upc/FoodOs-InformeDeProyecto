@@ -215,7 +215,7 @@ Restaurante
 
 ![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
 
-- Proveedor
+- Proveedor <br>
 [![User-Persona-Proveedor.png](https://i.postimg.cc/xdYzngqk/User-Persona-Proveedor.png)](https://postimg.cc/dhH1922v)
 
 ### 2.3.2. User Task Matrix
