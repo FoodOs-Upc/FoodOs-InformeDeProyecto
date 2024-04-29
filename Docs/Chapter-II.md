@@ -164,27 +164,32 @@ Enlace: https://youtu.be/8fk39VXYVSw
 #### Entrevistas a Proveedores
 Entrevista #1
 
+[![Entrevista-Proveedor-1.png](https://i.postimg.cc/NjwHsHtV/Entrevista-Proveedor-1.png)](https://postimg.cc/ykvdnWkX)
+
 Datos Demográficos:  
  
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:
+- Nombre: Gustavo Kawamura
+- Edad: 24
+- Ocupación: Proveedor de alimentos
+- Distrito de Residencia: Surquillo
 
-Duración de la entrevista: 
-Enlace: 
+Duración de la entrevista: 4:15 
+Enlace: https://youtu.be/nvaa2QXY0u0
 
 Entrevista #2
 
+[![Entrevista-Proveedor-2.png](https://i.postimg.cc/Nj7r5jf0/Entrevista-Proveedor-2.png)](https://postimg.cc/68qQPwZs)
+
 Datos Demográficos:  
  
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:
+- Nombre: Jose Rodrigo Lopez Flores
+- Edad: 27
+- Ocupación: Proveedor de alimentos
+- Distrito de Residencia: La Molina
 
-Duración de la entrevista: 
-Enlace: 
+Duración de la entrevista: 5:28 
+Enlace: https://youtu.be/t4uON0K1RgE
+
 
 ### 2.2.3. Análisis de entrevistas
 
