@@ -305,5 +305,21 @@ __As-is Scenario Mapping: Usuario__ </center>
 
 <br>
 
+## 2.4 Ubiquitous Language
+- **Inventory Management:** La función principal de la plataforma que permite a los restaurantes llevar un registro y administrar sus existencias de alimentos y suministros.
+- **Automatic Ordering:** El proceso automatizado dentro de la plataforma que realiza pedidos de reposición de inventario según los niveles predefinidos.
+- **Cost Tracking:** La capacidad de la plataforma para monitorear y analizar los costos asociados con los productos y materiales utilizados en el restaurante.
+- **Inventory Performance Analysis:** La función que proporciona información detallada sobre cómo se está gestionando y utilizan los inventarios en el restaurante.
+- **Restaurant Owners and Managers:** Los usuarios principales de la plataforma, que son los encargados de administrar y operar los restaurantes.
+- **Operations Optimization:** El objetivo de la plataforma de mejorar la eficiencia y efectividad de las actividades diarias en el restaurante.
+- **Profitability:** El enfoque en maximizar los ingresos y minimizar los costos para aumentar los beneficios del restaurante.
+- **Data-Driven Decisions:** La idea de utilizar información precisa y análisis detallados proporcionados por la plataforma para tomar decisiones informadas y estratégicas.
+- **Subscription Model:** La estructura de pago de la plataforma, donde los usuarios pagan una tarifa regular para acceder a los servicios de la misma.
+- **Free Trial:** La oportunidad para los nuevos usuarios de probar la plataforma durante un período limitado sin costo antes de comprometerse con una suscripción.
+- **Subscription Plans:** Las diferentes opciones de suscripción ofrecidas por la plataforma, que varían en términos de funcionalidades y precios.
+- **Priority Technical Support:** La asistencia especializada proporcionada a los usuarios del plan premium de la plataforma para resolver problemas y brindar orientación.
+- **Supplier Integrations:** La capacidad de la plataforma para conectarse con los sistemas de los proveedores de alimentos y otros servicios relacionados para una gestión más eficiente de inventarios y pedidos.
+- **Customized Plan:** Una opción ofrecida por la plataforma para grandes cadenas o restaurantes conocidos, que permite a los usuarios seleccionar las funcionalidades que más les interesan a través de un formulario interactivo proporcionado por la empresa.
+- **Inventory Control:** La capacidad de la plataforma para supervisar y regular el flujo de inventario en un restaurante, asegurando que los niveles de stock sean óptimos y se eviten pérdidas por desperdicio o agotamiento de productos.
 
 
