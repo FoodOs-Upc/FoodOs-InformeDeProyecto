@@ -13,7 +13,8 @@ A continuacion, se mostrará de manera organizada los Branding, Typography, Colo
 
 * __Brand Overview.-__ El problema que buscamos solucionar con nuestra aplicacion web es mejorar la organizacion y redimiento al tener que manejar un almacen de un restaurantes
 
-* __Brand Name.-__ El nombre de FoodOs surge por la combinancion de dos palabras. La primera siendo Food que significa Comida, palabra muy relacionada con los restaurantes, y Os palabra que hace referencia a un sistema. 
+* __Brand Name.-__ El nombre de FoodOs surge por la combinancion de dos palabras. La primera siendo Food que significa Comida, palabra muy relacionada con los restaurantes, y Os palabra que hace referencia a un sistema.
+  
 ![Logo de FoodOs](/Assets/Img/Chapter%20IV/FoodOSLogo.png)
 
 * __Fonts.-__ El tipo de tipografia de letra elegido fue Nunito debido a su simpleza, ser limpia y legible.
