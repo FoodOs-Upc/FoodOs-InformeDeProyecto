@@ -219,6 +219,8 @@ Proveedor
 
 [![User-Persona-Proveedor.png](https://i.postimg.cc/xdYzngqk/User-Persona-Proveedor.png)](https://postimg.cc/dhH1922v)
 
+[User-Persona-Proveedor.png](https://postimg.cc/dhH1922v)
+
 ### 2.3.2. User Task Matrix
 El User Task Matrix nos ayudara a identificar las actividades que realizan nuestro segmento objetivo y identificamos la importacia de estas.
 
