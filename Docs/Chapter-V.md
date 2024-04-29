@@ -407,3 +407,328 @@ A continuación, se muestra screenshots del landing page desarrollado y desplega
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
 ![Collaboration-1]()
 ![Collaboration-1]()
+
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint #| Sprint |
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2024-04-10|
+|Time | 22.00|
+|Location| Reunion Virtual(Plataforme Discord)|
+|Prepared By| Brayan Morales|
+|Attendees (to planning meeting)|Todos los asistentes del equipo|
+|Sprint 1 Review Summary|La primera entrega se realizo incompleta faltando puntos como user stories, product backload, entrevistas y el sprint 1 |
+|Sprint 1 Retrospective Summary| El desarrollo del sprint 1 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al primer sprint.  |
+|Sprint Goals & User Stories|US01 al US10|
+|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out.Ademas de terminar las funciones del inventario.|
+|Sprint 1 Velocity| La velocidad de este sprint es de 23|
+|Sprints of Story Points| |
+
+#### 5.2.1.2. Sprint Backlog 1
+
+El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregir errores o mejoras en la frontEnd.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US01 </td>
+    <td rowspan="2" align="center"> Registro de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar componente del registro</td>
+    <td align="justify"> Se desarrolla todas las funcionalidades del componente registro con sus estilos</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio encargado de enviar los datos de registro al backend. </td>
+    <td align="center"> 0.30</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> US02 </td>
+    <td rowspan="3" align="center">Inicio de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente con estilos </td>
+    <td align="justify"> Se creara los componentes con sus estilos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar al servicio de auth la posibilidad de logearse</td>
+    <td align="justify"> Se desarrolla la funcion de logeo en el servicio y conservacion de la sesion</td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Definir rutas para la parte del logeo </td>
+    <td align="justify"> Se definira la ruta en el modulo routing module</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US03 </td>
+    <td rowspan="1" align="center"> Cierre de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementar funcion en el servicio que permita el cierre de sesion </td>
+    <td align="center"> Se implementara una funcion Log Out que borre l;os datos del usuario del local storage.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US05 </td>
+    <td rowspan="2" align="center"> Visualizar información de la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente que permita ver el perfil del usuario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US04 </td>
+    <td rowspan="1" align="center"> Actualizar información de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que permita editar la cuenta</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Eliminar permanentemente la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que confirmar la eliminacion</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US07 </td>
+    <td rowspan="3" align="center">Agregar un producto al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear el componente que sera la pagina principal para ver el inventario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 4 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Crear un dialog con un formulario </td>
+    <td align="center"> Se creara un componente dialog para agregar productos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US08 </td>
+    <td rowspan="1" align="center">Eliminar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de confirmar la eliminacion de un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US09 </td>
+    <td rowspan="1" align="center">Actualizar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de actualizar un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center">ver todos los productos del inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente que funcione de pagina que muestre los productos</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+</table>
+
+##### 5.2.2.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/FoodOs-Upc/FoodOs-FrontEnd </td>
+    <td align="center"> main</td>
+    <td align="center"> 7739de130515fb5c2a74827a66ca6649af1498db</td>
+    <td align="center"> chore(main):Commit Initial</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/04/2024</td>
+  </tr>
+  ##### 
+  <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >dd94f082f011239cbb30a21984ea027f1f04341c</td>
+    <td align="center">feat(Auth): Add entities profile and user</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >48eeb60d07f55bd049a80b1b9dbfc0596cdf9306</td>
+    <td align="center">feat(Auth): Add router, app-routing</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >e60145c7677f37b0d3d1a5190ec7968ad8c27f25</td>
+    <td align="center">feat(Auth): Add login component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >09093f70245eebc3ecc96975b1277a027a226b89</td>
+    <td align="center">feat(Auth): Add register component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team</td>
+    <td align="center" >f2116ed4b504bcb079fdfcb002e240ec4a3e607a</td>
+    <td align="center">Creacion componente team</td>
+    <td align="center"> ---</td>
+    <td align="center"> 28/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team</td>
+    <td align="center" >461b2a6b2b25bdf0b45064527360a39abe0804ae</td>
+    <td align="center">Working well</td>
+    <td align="center"> ---</td>
+    <td align="center"> 28/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team>
+    <td align="center" >5c5df0aa666d74d28335eff742a766879cc74868</td>
+    <td align="center">Funcionando Añadir, Eliminar y Editar</td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team>
+    <td align="center" >fae3efc0a2907cb1fa732590802c3c69a139630e</td>
+    <td align="center">chi</td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/04/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team>
+    <td align="center" >ad4edf339d300ade55470d73d871e31833f87096</td>
+    <td align="center">Task, Añadir, Eliminar, Editar</td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/04/24</td>
+  </tr>
+ 
+</table>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+A continuación, se muestra evicencia de ejcucion de los puntos funcionando correctamente.
+![](/Assets/Img/Chapter%20V/sprint%202/login%20muestra.png)
+
+En esta parte se muestra el login donde el usuario puede ingresar a la app.
+![](/Assets/Img/Chapter%20V/sprint%202/register%20muestra.png)
+En esta parte se muestra el register del usuario para registrar un usuario en la aplicaion.
+![](/Assets/Img/Chapter%20V/sprint%202/sidebar%20muestra.png)
+En esta parte se muestra el sidebar del donde muestra el perfil del usuario.
+
+![](/Assets/Img/Chapter%20V/sprint%202/inventory.jpg)
+En esta parte se muestra el avanze de la tabla que muestra los datos del inventario
+
+![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
+En esta captura se muestra el avanze de las tareas del equipo
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+![Collaboration-1](/Assets//Img/Chapter%20V/sprint%202/cantidad%20de%20commits.png)
+En esta imagen se muestra la cantidad de commits de cada integrande del equipo siendo la cantidad mayor 17 realizada por el integrante Brayan y 15 realizada por Alesandro Vega
+![Collaboration-1](/Assets//Img/Chapter%20V/sprint%202/linea%20de%20tiempo.png)
+En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion
+
+## 5.3 Video about Product
+El siguiente link mostrara nuestro video about product:
+https://youtu.be/_amhohErz48

@@ -164,27 +164,32 @@ Enlace: https://youtu.be/8fk39VXYVSw
 #### Entrevistas a Proveedores
 Entrevista #1
 
+[![Entrevista-Proveedor-1.png](https://i.postimg.cc/NjwHsHtV/Entrevista-Proveedor-1.png)](https://postimg.cc/ykvdnWkX)
+
 Datos Demográficos:  
  
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:
+- Nombre: Gustavo Kawamura
+- Edad: 24
+- Ocupación: Proveedor de alimentos
+- Distrito de Residencia: Surquillo
 
-Duración de la entrevista: 
-Enlace: 
+Duración de la entrevista: 4:15 
+Enlace: https://youtu.be/nvaa2QXY0u0
 
 Entrevista #2
 
+[![Entrevista-Proveedor-2.png](https://i.postimg.cc/Nj7r5jf0/Entrevista-Proveedor-2.png)](https://postimg.cc/68qQPwZs)
+
 Datos Demográficos:  
  
-- Nombre: 
-- Edad: 
-- Ocupación:  
-- Distrito de Residencia:
+- Nombre: Jose Rodrigo Lopez Flores
+- Edad: 27
+- Ocupación: Proveedor de alimentos
+- Distrito de Residencia: La Molina
 
-Duración de la entrevista: 
-Enlace: 
+Duración de la entrevista: 5:28 
+Enlace: https://youtu.be/t4uON0K1RgE
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -192,14 +197,12 @@ Enlace:
 	- Entrevista #1 <br>
 Joshua nos menciona que es el encargado de gestionar el inventario del restaurante donde trabaja. Actualmente ellos usan excel como tambien lo gestionan de manera manual, lo cual nos comenta que no es la manera mas eficiente porque tienen problemas de organización dentro del almacén y ya han tenido problemas con productos caducados o que no han sido refrigerados adecuadamente y se han hechado a perder. Con respecto a la presentacion de nuestra plataforma, nos menciona que esta interesado en el uso de la misma para optimizar el trabajo y minimizar los problemas como tambien el ahorro de tiempo al momento de registrar los productos, como tambien su fecha de ingreso y su fecha de caducidad y por ultimo nos menciona que le gustaria una funcione como el escaneo de códigos de barras para el registro automático de productos y que varios usuarios accedan y actualicen el inventario.
 
-	- Entrevista #2
-
----
-
 - Entrevistas a Proveedores
-	- Entrevista #1
 
-	- Entrevista #2
+	- Entrevista #1 <br>
+Gustavo kawamura tiene 24 años, es un proveedor de productos agrícolas, nos comparte sus experiencias y desafíos en la gestión de pedidos y entregas a restaurantes. Actualmente utiliza llamadas, cronogramas y comunicación verbal para coordinar pedidos, pero reconoce la necesidad de un sistema más eficiente para evitar errores de comunicación y deterioro de los productos. Gustavo está interesado en una plataforma que le permita administrar sus suministros y recibir notificaciones automáticas cuando los restaurantes requieran artículos específicos. No menciona algunas funciones que le gustaria ver dentro de la plataforma como una función de chat y un registro de las conversaciones con los clientes. Nos enfatiza la importancia de una plataforma asequible e inclusiva con una estructura de costos razonable.
+	- Entrevista #2 <br>
+ José López es un proveedor y nos habla de su negocio de suministro de artículos de primera necesidad como peras, arroz, pasta y embutidos para restaurantes en Lima. Actualmente gestiona pedidos y entregas a través de WhatsApp y apunta a una comunicación y gestión de inventario más eficiente. Utilizando un sistema de registro manual en papel, sus pedidos tardan unos cuatro días hábiles en completarse. Nos menciona que esta interesado en  una aplicación para ayudar a gestionar el inventario y le interesa las notificaciones automaticas cuando los clientes necesiten reabastecimiento para mejorar su eficiencia en las entregas. Él estima que el costo de uso de la plataforma con esas caracteristicas podria rondar una tarifa mensual de $4.
 
 ## 2.3. Needfinding
 
@@ -208,7 +211,12 @@ En este punto se mostrarán los resultados del proceso de recolección que se re
 ### 2.3.1. User Person
 El user Person es un perfil ficticio que personifica a las personas de interes, identificados en las entrevistas. Se incluyo en esta representacion la edad, genero, locacion, metas, frustaciones, navegador web, necesidades y herramientas usadas en el trabajo.
 
+Restaurante
+
 ![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
+
+- Proveedor <br>
+[![User-Persona-Proveedor.png](https://i.postimg.cc/xdYzngqk/User-Persona-Proveedor.png)](https://postimg.cc/dhH1922v)
 
 ### 2.3.2. User Task Matrix
 El User Task Matrix nos ayudara a identificar las actividades que realizan nuestro segmento objetivo y identificamos la importacia de estas.
@@ -277,14 +285,20 @@ Esta tabla nos presenta las cantidad de tareas que realiza el almacenero Alfredo
 
 En este punto se realizo el User Journey Mapping para cada User Persona. El flujo comienza desde que el usuario entra al sitio web para ver el dashboard, realizar busqueda, actualizar, agregar un producto e imprimir un informe diario.Esta secuencia nos muestra la accion del usuario, proceso, problemas que tiene el usuario, experiencia y oportunidades.
 
+User Journey Mapping: Restaurante
+
 ![User Journey Mapping: Cliente](/Assets/Img/Chapter%20II/User%20journey%20map%20FoodOs.png)
+
+- User Journey Mapping: Proveedor
+
+[![User-Journey-Mapping-Proveedor.png](https://i.postimg.cc/pXFhj3Fh/User-Journey-Mapping-Proveedor.png)](https://postimg.cc/6yBpJjzt)
 
 
 ### 2.3.4. Empathy Mapping
 
 En esta seccion nos sera util para crear perfiles detallados de los User Persona y desarrollar descripciones más profundas desde su perspectiva. 
 
-#### User Empathy Mapping: Cliente
+#### User Empathy Mapping: Restaurante
 
 ![User Empathy Mapping: Cliente](/Assets/Img//Chapter%20II//Emphaty%20map.png)
 
@@ -296,11 +310,31 @@ En el escenario actual (As-Is), el mapeo de la experiencia del usuario sin el us
 
 <center>
 
-__As-is Scenario Mapping: Usuario__ </center>
+__As-is Scenario Mapping: Restaurante__ </center>
 
 ![As Is Scenario Mapping Usuario](/Assets/Img/Chapter%20II/As%20Is%20Escenario%20mapping.jpg)
 
+- As-is Scenario Mapping: Proveedor
+
+[![As-is-Scenario-Mapping-Proveedor.png](https://i.postimg.cc/rmVbYgYG/As-is-Scenario-Mapping-Proveedor.png)](https://postimg.cc/yJGvDhKW)
+
 <br>
 
+## 2.4 Ubiquitous Language
+- **Inventory Management:** La función principal de la plataforma que permite a los restaurantes llevar un registro y administrar sus existencias de alimentos y suministros.
+- **Automatic Ordering:** El proceso automatizado dentro de la plataforma que realiza pedidos de reposición de inventario según los niveles predefinidos.
+- **Cost Tracking:** La capacidad de la plataforma para monitorear y analizar los costos asociados con los productos y materiales utilizados en el restaurante.
+- **Inventory Performance Analysis:** La función que proporciona información detallada sobre cómo se está gestionando y utilizan los inventarios en el restaurante.
+- **Restaurant Owners and Managers:** Los usuarios principales de la plataforma, que son los encargados de administrar y operar los restaurantes.
+- **Operations Optimization:** El objetivo de la plataforma de mejorar la eficiencia y efectividad de las actividades diarias en el restaurante.
+- **Profitability:** El enfoque en maximizar los ingresos y minimizar los costos para aumentar los beneficios del restaurante.
+- **Data-Driven Decisions:** La idea de utilizar información precisa y análisis detallados proporcionados por la plataforma para tomar decisiones informadas y estratégicas.
+- **Subscription Model:** La estructura de pago de la plataforma, donde los usuarios pagan una tarifa regular para acceder a los servicios de la misma.
+- **Free Trial:** La oportunidad para los nuevos usuarios de probar la plataforma durante un período limitado sin costo antes de comprometerse con una suscripción.
+- **Subscription Plans:** Las diferentes opciones de suscripción ofrecidas por la plataforma, que varían en términos de funcionalidades y precios.
+- **Priority Technical Support:** La asistencia especializada proporcionada a los usuarios del plan premium de la plataforma para resolver problemas y brindar orientación.
+- **Supplier Integrations:** La capacidad de la plataforma para conectarse con los sistemas de los proveedores de alimentos y otros servicios relacionados para una gestión más eficiente de inventarios y pedidos.
+- **Customized Plan:** Una opción ofrecida por la plataforma para grandes cadenas o restaurantes conocidos, que permite a los usuarios seleccionar las funcionalidades que más les interesan a través de un formulario interactivo proporcionado por la empresa.
+- **Inventory Control:** La capacidad de la plataforma para supervisar y regular el flujo de inventario en un restaurante, asegurando que los niveles de stock sean óptimos y se eviten pérdidas por desperdicio o agotamiento de productos.
 
 
