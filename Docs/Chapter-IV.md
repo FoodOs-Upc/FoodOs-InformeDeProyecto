@@ -166,18 +166,117 @@ En esta seccion se desarrollo los Mock-ups de landing Page que nos daran una vis
 ![0](/Assets/Img/Chapter%20IV/LandingPage/Nosotros-1.png)
 ![0](/Assets/Img/Chapter%20IV/LandingPage/Contactanos-1.png)
 ![0](/Assets/Img/Chapter%20IV/LandingPage/Pie-1.png)
+## 4.4. Web Applications UX/UI Desing
+### 4.4.1 Web Application Wireframes
+![](/Assets/Img/Chapter%20IV/WebApp/Login-1.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Sign%20Up-1.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20134.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%2092.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20147.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20135.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20136.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20138.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20139.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20141.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20146.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20137.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20142.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20143.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20144.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20145.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Provedor%20HOME.png)
 
 ### 4.4.2. Web Application Wireflow Diagrams
+* __Restaurantes__
+
+  __USER GOAL:__ Como usuario quiero registrarme en la aplicacion.
+  ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/1.png)
+  __USER GOAL:__ Como usuario quiero quiero poder infresar a la aplicacion con mis credenciales.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/2.png)
+  __USER GOAL:__ Como usuario quiero eliminar mi cuenta de la aplicacion.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/3.png)
+  __USER GOAL:__ Como usuario quiero editar la informacion de mi cuenta.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/4.png)
+  __USER GOAL:__ Como usuario deseo poder agregar un producto a mi inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/5.png)
+  __USER GOAL:__ Como usuario quiero modificar la informacion de un producto del inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/6.png)
+  __USER GOAL:__ Como usuario deseo eliminar un producto del inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/7.png)
+  __USER GOAL:__ Como usuario quiero ver la informacion de un provedor de un producto.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/8.png)
+  __USER GOAL:__ Como usuario deseo agregar integrantes a mi grupo.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/9.png)
+  __USER GOAL:__ Como usuario deseo agregar tareas a cada miembro del equipo.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/10.png)
+  __USER GOAL:__ Como usuario deseo editar las tareas.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/11.png)
+  __USER GOAL:__ Como usuario deseo poder visualizar las notificaciones.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/12.png)
+  
+
+* __Provedor__
+
+__USER GOAL:__ Como usuario quiero poder acceder a la aplicacion como provedor.
+  ![](/Assets/Img/Chapter%20IV/Wireflow%20Diagrams/13.png)
 
 ### 4.4.3. Web Application Mock-ups
+![](/Assets/Img/Chapter%20IV/WebApp/Login-3.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Sign%20Up-3.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20149.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20150.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20151.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20153.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20156.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20154.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20155.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20161.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20157.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20160.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20159.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20158.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Wireframe%20-%20152.png)
+![](/Assets/Img/Chapter%20IV/WebApp/Provedor%20HOME-1.png)
 
 ### 4.4.4. Web Application User Flow Diagram
+En esta seccion se mostrara el flujo de navegacion de los usuarios.
+* __Restaurantes__
+
+  __USER GOAL:__ Como usuario quiero registrarme en la aplicacion.
+  ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/1.png)
+  __USER GOAL:__ Como usuario quiero quiero poder infresar a la aplicacion con mis credenciales.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/2.png)
+  __USER GOAL:__ Como usuario quiero eliminar mi cuenta de la aplicacion.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/3.png)
+  __USER GOAL:__ Como usuario quiero editar la informacion de mi cuenta.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/4.png)
+  __USER GOAL:__ Como usuario deseo poder agregar un producto a mi inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/5.png)
+  __USER GOAL:__ Como usuario quiero modificar la informacion de un producto del inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/6.png)
+  __USER GOAL:__ Como usuario deseo eliminar un producto del inventario.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/7.png)
+  __USER GOAL:__ Como usuario quiero ver la informacion de un provedor de un producto.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/8.png)
+  __USER GOAL:__ Como usuario deseo agregar integrantes a mi grupo.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/9.png)
+  __USER GOAL:__ Como usuario deseo agregar tareas a cada miembro del equipo.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/10.png)
+  __USER GOAL:__ Como usuario deseo editar las tareas.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/11.png)
+  __USER GOAL:__ Como usuario deseo poder visualizar las notificaciones.
+    ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/12.png)
+  
+
+* __Provedor__
+
+__USER GOAL:__ Como usuario quiero poder acceder a la aplicacion como provedor.
+  ![](/Assets/Img/Chapter%20IV/Wireflow%20user%20Diagrams/13.png)
 
 ## 4.5. Web Applications Prototyping
 En esta sección se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
-[Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/9U0r61ZoDHjQf7Ck7zotUL/Prototype-TecHelp-APP?type=design&node-id=1-3234&t=HruT40GoBdMnazGq-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3234&show-proto-sidebar=1&mode=design )
+[Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/G2H1p239IKARu3aKqRqNpL/Untitled?type=design&node-id=63-423&t=mJTDfepf578KtQLp-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A4717&show-proto-sidebar=1&mode=design)
 
-![captura]()
 
 ## 4.6 Domain-Driven Software Architecture
 
