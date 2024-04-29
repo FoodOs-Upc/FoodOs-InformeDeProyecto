@@ -728,3 +728,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci√
 En esta imagen se muestra la cantidad de commits de cada integrande del equipo siendo la cantidad mayor 17 realizada por el integrante Brayan y 15 realizada por Alesandro Vega
 ![Collaboration-1](/Assets//Img/Chapter%20V/sprint%202/linea%20de%20tiempo.png)
 En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion
+
+## 5.3 Video about Product
+El siguiente link mostrara nuestro video about product:
+https://youtu.be/_amhohErz48
