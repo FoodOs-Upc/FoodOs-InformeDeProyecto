@@ -408,7 +408,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 ![Collaboration-1]()
 ![Collaboration-1]()
 
-===Aqui empieza el sprint 2===
+
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
@@ -705,7 +705,6 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-Debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos realizar los respectivos Tests.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 A continuación, se muestra evicencia de ejcucion de los puntos funcionando correctamente.
@@ -725,5 +724,7 @@ En esta captura se muestra el avanze de las tareas del equipo
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
-![Collaboration-1]()
-![Collaboration-1]()
+![Collaboration-1](/Assets//Img/Chapter%20V/sprint%202/cantidad%20de%20commits.png)
+En esta imagen se muestra la cantidad de commits de cada integrande del equipo siendo la cantidad mayor 17 realizada por el integrante Brayan y 15 realizada por Alesandro Vega
+![Collaboration-1](/Assets//Img/Chapter%20V/sprint%202/linea%20de%20tiempo.png)
+En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion
