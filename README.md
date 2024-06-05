@@ -9,7 +9,7 @@
 
 <center>
 
-# **Informe TP**
+# **Informe TB3**
 ## **FoodOs**
 ## Profesor: Efraín Ricardo Bautista Ubillús
 
@@ -40,6 +40,8 @@
 | 0.4 |  18/04/24 | Leonardo| Se añadio el capitulo 5|
 | 0.5 |  18/04/24 | Leonardo| Se añadio el capitulo 5|
 | 1.0.0 |  29/04/24 | Brayan|Se agrego el sprint 2 |
+| 1.5.0 |  05/06/24 | Brayan|Se agrego el sprint 3 |
+
 
 
 ## Project Report Collaboration Insights 
