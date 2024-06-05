@@ -9,7 +9,7 @@
 
 <center>
 
-# **Informe TB3**
+# **Informe TB2**
 ## **FoodOs**
 ## Profesor: Efraín Ricardo Bautista Ubillús
 
@@ -26,7 +26,7 @@
 
 <center>
 
-### Abril 2024
+### Junio 2024
 
 </center>
 
@@ -82,7 +82,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
   <tbody>
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TP:<p>Realize las asignaciones de tareas al equipo de trabajo</p>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TP:<p>Realize las asignaciones de tareas al equipo de trabajo</p>TB2:<p>Realize la organizacion del grupo y distribucion de partes</p>
       <h6>Ortiz Fajardo Tomas</h6>TB1:<p> En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto</p> TP:<p>Corregi y termine el codigo relacionado a la Landing Page de la aplicacion.</p>
       <h6>Alessandro Alex Vega Paico</h6>TB1:<p> Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp.</p>TP:<p>Me comunique activamente por medio del grupo de trabajo, meet y discord, tambien fui actualizando mis avances por medio de los mismos para poder tener un control de las actividadeas</p>
       <h6>Ortiz Fajardo Tomas</h6>TB1:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>    
@@ -94,7 +94,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
   </tr>
    <tr>
       <td><strong>Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>TP:<p>Lo avanzado por m i parte fue los primeros 5 user stories siendo estos relacionados con el perfil y login</p>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>TP:<p>Lo avanzado por m i parte fue los primeros 5 user stories siendo estos relacionados con el perfil y login</p>Tb3:<p>Realize los endpoints de inventario perfil y product en la backend</p>
 	<h6>Alessandro Alex Vega Paico</h6>TB1:<p> Me encargue del desarrollo del capitulo 1, mas especificamente, de los Lean Ux Process, Problem Statement, Assumptions, Hypothesis Statements, Canvas y tambien el desarollo de los segmentos objetivos. Tambien ayude en el desarrollo de las entrevistas, grabar y analizarlas.</p>TP:<p>Me encargue de las mejoras con respecto a la Tb1 y tambine añadir partes que faltaban desarrollar para los capitulos posteriores, tambien elabore las entrevistas faltantes y desarrolle en la parte del fronted, la epica 5, que esta enfocada a los miembros de equipo del usuario y las tareas pendientes, como tambien los metodos para añadir, editar y elimnar ambas areas.</p>
 	<h6>Tomas Ortiz Fajardo</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 4. </p>TP:<p>Por mi parte pude terminar la Landing Page de la aplicacion y organizar algunas cosas mejor en el Markdown.</p>
 	      <h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Comunique las ideas principales para la creación de la aplicación, establecí junto a mi equipo las bases</p>TB2:<p> Coordine con mi grupo para un despliegue exitoso de la aplicación, además de designarnos las tareas a trabajar</p>
