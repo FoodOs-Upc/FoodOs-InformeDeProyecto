@@ -53,19 +53,19 @@
 
  Ahora veremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FoodOs:
 
-![commits-colaboration.png]()
+![commits-colaboration.png](/Assets/Img/Colaboration/barras%20commits.png)
 
 En la imagen se muestra el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable entregable. 
 
-![commits.png]()
+![commits.png](/Assets/Img/Colaboration/contribuidores.png)
 
 En esta imagen, hay una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio del informe para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
-![git-clones.png]()
+![git-clones.png](/Assets/Img/Colaboration/clone.png)
 
 Estos gráficos muestra una representación visual de las clonaciones registradas en nuestro repositorio, con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
-![network.png](assets/img/chapter-v/network.png)
+![network.png](/Assets/Img/Colaboration/networt.png)
 
 ## Student Outcomes
 
@@ -80,32 +80,28 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
   <tbody>
   <tr>
       <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TB2:<p>Realize las asignaciones de tareas al equipo de trabajo</p>
-      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto</p>
-      <h6>Alessandro Alex Vega Paico</h6>TB1:<p> Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp.</p>
-      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>               
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TP:<p>Realize las asignaciones de tareas al equipo de trabajo</p>
+      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto</p> TP:<p>Corregi y termine el codigo relacionado a la Landing Page de la aplicacion.</p>
+      <h6>Alessandro Alex Vega Paico</h6>TB1:<p> Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp.</p>TP:<p>Me comunique activamente por medio del grupo de trabajo, meet y discord, tambien fui actualizando mis avances por medio de los mismos para poder tener un control de las actividadeas</p>
+      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>    
+	       <h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Realice la definición de la StarUp y de la Solución, ademas de agregar los Antecedentes y Problemáticas</p>TB2:<p> Realice la codificación con el framework de angular de la aplicación FoodOS, hice los componentes y directicas de Inventory</p>
       <td>TB1:La TB1 nos da una vision sobre nuestro publico objetivo ademas de definir como se vera nuestra aplicaion, necesidades que cubrira y ademas de especificar las reglas del negocio.</td><p></p>
+	  <h6>Dueñas Canales Leonardo Manuel</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 3 y 4 </p>TP:<p>Por mi parte me tocó desarrollar el frontend de genstión de proveedores.</p>
+      <td>TB1:Como equipo mejoramos nuestra comunicacion creando un grupo para hacer reuniones virtuales y colocar tiempos a nuestras tareas</td>
       </td>
   </tr>
    <tr>
       <td><strong>Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
-      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>TB2:<p>Lo avanzado por m i parte fue los primeros 5 user stories siendo estos relacionados con el perfil y login</p>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>TP:<p>Lo avanzado por m i parte fue los primeros 5 user stories siendo estos relacionados con el perfil y login</p>
+	<h6>Alessandro Alex Vega Paico</h6>TB1:<p> Me encargue del desarrollo del capitulo 1, mas especificamente, de los Lean Ux Process, Problem Statement, Assumptions, Hypothesis Statements, Canvas y tambien el desarollo de los segmentos objetivos. Tambien ayude en el desarrollo de las entrevistas, grabar y analizarlas.</p>TP:<p>Me encargue de las mejoras con respecto a la Tb1 y tambine añadir partes que faltaban desarrollar para los capitulos posteriores, tambien elabore las entrevistas faltantes y desarrolle en la parte del fronted, la epica 5, que esta enfocada a los miembros de equipo del usuario y las tareas pendientes, como tambien los metodos para añadir, editar y elimnar ambas areas.</p>
+	<h6>Tomas Ortiz Fajardo</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 4. </p>TP:<p>Por mi parte pude terminar la Landing Page de la aplicacion y organizar algunas cosas mejor en el Markdown.</p>
+	      <h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Comunique las ideas principales para la creación de la aplicación, establecí junto a mi equipo las bases</p>TB2:<p> Coordine con mi grupo para un despliegue exitoso de la aplicación, además de designarnos las tareas a trabajar</p>
       <td>TB1:Como equipo mejoramos nuestra comunicacion creado un grupo de discord ademas de asignar tiempo a nuestras tareas</td>
       
   </tr>
 	  
   </tbody>
 </table>
-
-|Criterio Especifico| Acciones Realizadas| Conclusiones|
-|-|----------|-----------------------|
-|  |  |  |
-|  |  |  |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Ortiz Fajardo Tomas** **TB1**  En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto | Conclusiones |
-|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Alex Vega Paico** **TB1**Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp. | Conclusiones |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Ortiz Fajardo Tomas** **TB1**Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp. | Conclusiones|
-|Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Alex Vega Paico**
-**TB1**Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp. | Conclusiones |
 
 
 # Contenido 
