@@ -83,11 +83,11 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
       <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TP:<p>Realize las asignaciones de tareas al equipo de trabajo</p>
       <h6>Ortiz Fajardo Tomas</h6>TB1:<p> En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto</p> TP:<p>Corregi y termine el codigo relacionado a la Landing Page de la aplicacion.</p>
       <h6>Alessandro Alex Vega Paico</h6>TB1:<p> Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp.</p>TP:<p>Me comunique activamente por medio del grupo de trabajo, meet y discord, tambien fui actualizando mis avances por medio de los mismos para poder tener un control de las actividadeas</p>
-      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>    
+      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>
+	      <h6>Dueñas Canales Leonardo Manuel</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 3 y 4 </p>TP:<p>Por mi parte me tocó desarrollar el frontend de genstión de proveedores.</p>
+      <td>TB1:Como equipo mejoramos nuestra comunicacion creando un grupo para hacer reuniones virtuales y colocar tiempos a nuestras tareas</td>
 	       <h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Realice la definición de la StarUp y de la Solución, ademas de agregar los Antecedentes y Problemáticas</p>TB2:<p> Realice la codificación con el framework de angular de la aplicación FoodOS, hice los componentes y directicas de Inventory</p>
       <td>TB1:La TB1 nos da una vision sobre nuestro publico objetivo ademas de definir como se vera nuestra aplicaion, necesidades que cubrira y ademas de especificar las reglas del negocio.</td><p></p>
-	  <h6>Dueñas Canales Leonardo Manuel</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 3 y 4 </p>TP:<p>Por mi parte me tocó desarrollar el frontend de genstión de proveedores.</p>
-      <td>TB1:Como equipo mejoramos nuestra comunicacion creando un grupo para hacer reuniones virtuales y colocar tiempos a nuestras tareas</td>
       </td>
   </tr>
    <tr>
