@@ -298,10 +298,10 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 
-![imagen](/Assets/Img/Chapter%20IV/Blank%20diagram%20(5).png)
+![imagen](/Assets/Img/Chapter%20IV/Diagrama%20de%20Clases.png)
 <center>
 
-[Link de lucid del diagrama de clases](https://lucid.app/lucidchart/4ef87a5e-db0e-4cf2-b181-134d58fce7f4/edit?viewport_loc=-980%2C-723%2C5424%2C2574%2C0_0&invitationId=inv_fa3364c0-52d8-4abe-bd56-bd5a87f86986)
+[Link de lucid del diagrama de clases](https://lucid.app/lucidchart/4ef87a5e-db0e-4cf2-b181-134d58fce7f4/edit?viewport_loc=-1600%2C-452%2C5088%2C2280%2C0_0&invitationId=inv_fa3364c0-52d8-4abe-bd56-bd5a87f86986)
 
 </center>
 
@@ -311,18 +311,20 @@ En esta sección se mostrará el diccionario de las clases, usado para el desarr
 * __Profile:__ Clase que contiene los atributos del perfil como dirreccion, email y la foto.
 * __Email:__ Clase que contiene el email.
 * __PersonName:__ Clase que contiene los atributos de nombres y apellidos.
+* __Membership:__ Clase que contiene los tipos de membresias.
+* __User:__ Clase que contiene los atributos del usuario como.
+* __Role:__ Clase que contiene los tipos de roles que puede tener un usuario.
 
 * __Product:__ Clase que contiene  los atributos de los productos como nombre,fecha de vencimiento y estado
 * __DateProduct:__ Clase que contiene las fechas del producto.
 
-* __ProfileComandService:__ Clase que contiene las funciones para ingresar o actualizar datos en las base de datos
-* __ProfileQueryService__ Clase que contiene las funciones para realizar consultas a la base de datos
+* __Inventory:__ Clase que contiene los atributos de un inventario como los productos,grupos y archivos. 
+* __Group__ Clase que contiene los atributos como integrantes y tareas que contiene el grupo.
+* __Task__ Clase que contiene los atributos como nombre estado y fecha de finalizacion. 
+* __File__ Clase que contiene las caracteristicas de un archivo.
+* __Provider__ Clase que contiene el nombre de un provedor.
 
-* __ProductComandService:__ Clase que contiene las funciones para ingresar o actualizar datos en las base de datos
-* __ProductQueryService:__ Clase que contiene las funciones para realizar consultas a la base de datos
 
-* __InventoryController:__ Clase que contiene las funciones con los verbos del api para realizar las diversas peticiones.
-* __ProfileControler:__ Clase que contiene las funciones con los verbos del api para realizar las diversas peticiones.
 
 
 ## 4.8. Database Design.
@@ -330,6 +332,6 @@ En esta sección se mostrará el diccionario de las clases, usado para el desarr
 
 A continuacion se presentará nuestro Physical data model desarrollado en vertabelo.
 
-![Diagrama Base de datos](/Assets/Img/Chapter%20IV/foodOs-2024-04-09_23-52.png)
+![Diagrama Base de datos](/Assets/Img/Chapter%20IV/foodOs-2024-06-19_18-40.png)
 
 [Link para visualizar el diagrama de base de datos](https://my.vertabelo.com/doc/XvR35ZlxiJYY3qqEmS4yOWgxLK9KMufB)
