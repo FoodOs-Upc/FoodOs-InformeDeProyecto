@@ -790,7 +790,58 @@ Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos
 
 ¿Qué tan satisfecho cree que estará con el soporte técnico y la atención al cliente proporcionada por la aplicación? ¿Qué mejoras sugiere?
 
-### 5.3.2. Registro de Entrevistas. 
+### 5.3.2. Registro de Entrevistas
+
+#### Segmento Objetivo Restaurante:
+#### Entrevista #1:
+Entrevistador: Alessandro Alex Vega Paico
+Entrevistado: Max Arroyo
+Edad: 22 años
+Distrito: Surquillo
+Duración: 4:38 minutos
+[![Entrevista-Max.png](https://i.postimg.cc/4xxtLTyx/Entrevista-Max.png)](https://postimg.cc/2VgVyMns)
+
+#### Entrevista #2:
+Entrevistador: Tomas Ortiz Fajardo 
+Entrevistado: Jose Rodriog Lopez Flores
+Edad: 22 años
+Distrito: La Molina
+Duración: 7:03 minutos
+[![Entrevista-Jose.png](https://i.postimg.cc/SsMc67sL/Entrevista-Jose.png)](https://postimg.cc/jwRWKfyC)
+
+#### Entrevista #3:
+Entrevistador: Piero Alonso Martinez Villanueva
+Entrevistado: 
+Edad:
+Distrito:
+Duración:
+
+#### Segmento Objetivo Proveedor:
+#### Entrevista #4:
+Entrevistador: Alessandro Alex Vega Paico
+Entrevistado: Nicolas Haro Davila
+Edad: 25 años
+Distrito: Surquillo
+Duración: 5:26
+[![Entrevista-Nicolas.png](https://i.postimg.cc/GhrvDD1Y/Entrevista-Nicolas.png)](https://postimg.cc/PN3LsPJr)
+
+#### Entrevista #5:
+Entrevistador: Tomas Ortiz Fajardo 
+Entrevistado: Geronimo Baso
+Edad: 24 años
+Distrito: Lima
+Duración: 5:42 minutos
+[![Entrevista-Geronimo.png](https://i.postimg.cc/BbfHMLLr/Entrevista-Geronimo.png)](https://postimg.cc/S2VnKKGd)
+
+#### Entrevista #6:
+Entrevistador: Piero Alonso Martinez Villanueva
+Entrevistado: Renzo Martinez
+Edad: 26 años
+Distrito: Lima
+Duración: 8:59 minutos
+[![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
+
+
 ### 5.3.3. Evaluaciones según heurísticas. 
 
 
