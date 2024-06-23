@@ -748,47 +748,47 @@ En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del 
 ### 5.3.1. Diseño de Entrevistas.
 #### Restaurantes.
 
-¿Cómo cree que es el proceso de registrar una cuenta en nuestra aplicación?** ¿Ve dificultades potenciales en este proceso?
+¿Cómo cree que es el proceso de registrar una cuenta en nuestra aplicación? ¿Ve dificultades potenciales en este proceso?
 
-¿Considera que la funcionalidad para gestionar inventarios (nombre del producto, stock, cantidad) podría cumplir con sus expectativas?** ¿Qué mejoras sugiere?
+¿Considera que la funcionalidad para gestionar inventarios (nombre del producto, stock, cantidad) podría cumplir con sus expectativas? ¿Qué mejoras sugiere?
 
-Al añadir proveedores preferidos, ¿cree que esta función será fácil de usar?** ¿Cómo podríamos mejorar esta característica?
+Al añadir proveedores preferidos, ¿cree que esta función será fácil de usar? ¿Cómo podríamos mejorar esta característica?
 
-¿Piensa que la visualización de los datos de inventario será clara y suficiente para sus necesidades?** ¿Hay algo que le gustaría que se mostrara de forma diferente?
+¿Piensa que la visualización de los datos de inventario será clara y suficiente para sus necesidades? ¿Hay algo que le gustaría que se mostrara de forma diferente?
 
-¿Qué funcionalidad adicional sugiere que incorporemos para mejorar la gestión diaria de su restaurante?**
+¿Qué funcionalidad adicional sugiere que incorporemos para mejorar la gestión diaria de su restaurante?
 
-¿Cree que la aplicación facilitará la revisión y actualización de inventarios en tiempo real?** ¿Cómo podríamos mejorar esta capacidad?
+¿Cree que la aplicación facilitará la revisión y actualización de inventarios en tiempo real? ¿Cómo podríamos mejorar esta capacidad?
 
-En términos de usabilidad, ¿qué tan intuitiva considera que será la interfaz de la aplicación?** ¿Hay elementos que podrían ser confusos o difíciles de usar?
+En términos de usabilidad, ¿qué tan intuitiva considera que será la interfaz de la aplicación? ¿Hay elementos que podrían ser confusos o difíciles de usar?
 
-¿Cómo evalúa las opciones de reporte y análisis de datos que se ofrecerán?** ¿Serán útiles estas herramientas para su planificación y control?
+¿Cómo evalúa las opciones de reporte y análisis de datos que se ofrecerán? ¿Serán útiles estas herramientas para su planificación y control?
 
-¿Cómo cree que la aplicación manejará las alertas sobre niveles bajos de stock o problemas con el inventario?**
+¿Cómo cree que la aplicación manejará las alertas sobre niveles bajos de stock o problemas con el inventario?
 
-¿Recomendaría esta aplicación a otros colegas o negocios similares basándose en lo que ha visto?** ¿Por qué o por qué no?
+¿Recomendaría esta aplicación a otros colegas o negocios similares basándose en lo que ha visto? ¿Por qué o por qué no?
 
 #### Proveedores.
 
-¿Cómo cree que será el proceso de registro en nuestra plataforma para usted?** ¿Ve áreas que podrían simplificarse?
+¿Cómo cree que será el proceso de registro en nuestra plataforma para usted? ¿Ve áreas que podrían simplificarse?
 
-¿Piensa que la aplicación le proporcionará las herramientas necesarias para gestionar adecuadamente los inventarios de sus clientes?** ¿Qué agregaría o cambiaría?
+¿Piensa que la aplicación le proporcionará las herramientas necesarias para gestionar adecuadamente los inventarios de sus clientes? ¿Qué agregaría o cambiaría?
 
-¿Cómo evalúa la funcionalidad de la aplicación para actualizar y manejar stock y cantidad de productos, basándose en lo presentado?**
+¿Cómo evalúa la funcionalidad de la aplicación para actualizar y manejar stock y cantidad de productos, basándose en lo presentado?
 
-¿Cree que la plataforma le permitirá gestionar múltiples restaurantes de manera efectiva?** ¿Qué características adicionales facilitarían este proceso?
+¿Cree que la plataforma le permitirá gestionar múltiples restaurantes de manera efectiva? ¿Qué características adicionales facilitarían este proceso?
 
-Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos agregar para mejorar la colaboración entre usted y los restaurantes?**
+Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos agregar para mejorar la colaboración entre usted y los restaurantes?
 
-¿Qué tan bien piensa que la aplicación podrá rastrear y reportar el flujo de productos desde y hacia varios restaurantes?**
+¿Qué tan bien piensa que la aplicación podrá rastrear y reportar el flujo de productos desde y hacia varios restaurantes?
 
-¿Cree que la aplicación facilitará la comunicación con los restaurantes respecto a actualizaciones de inventario y nuevas necesidades de pedido?** ¿Cómo podríamos mejorar esto?
+¿Cree que la aplicación facilitará la comunicación con los restaurantes respecto a actualizaciones de inventario y nuevas necesidades de pedido? ¿Cómo podríamos mejorar esto?
 
-¿Encuentra que las herramientas analíticas y de reporte serán útiles para entender mejor las tendencias y demandas de sus clientes?**
+¿Encuentra que las herramientas analíticas y de reporte serán útiles para entender mejor las tendencias y demandas de sus clientes?
 
-¿Cómo calificaría la seguridad y la privacidad de la información en la aplicación, basándose en lo que se ha mostrado?** ¿Hay aspectos que podrían reforzarse?
+¿Cómo calificaría la seguridad y la privacidad de la información en la aplicación, basándose en lo que se ha mostrado? ¿Hay aspectos que podrían reforzarse?
 
-¿Qué tan satisfecho cree que estará con el soporte técnico y la atención al cliente proporcionada por la aplicación?** ¿Qué mejoras sugiere?
+¿Qué tan satisfecho cree que estará con el soporte técnico y la atención al cliente proporcionada por la aplicación? ¿Qué mejoras sugiere?
 
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3. Evaluaciones según heurísticas. 
