@@ -795,53 +795,53 @@ Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos
 Video Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910225_upc_edu_pe/Eagdte9A6ZBCgy1vXeeTAp0BOB5vTIuO0P1G6ET_YRQ4Qg?e=9jfNbM
 
 #### Segmento Objetivo Restaurante:
-#### Entrevista #1:
-Entrevistador: Alessandro Alex Vega Paico
-Entrevistado: Max Arroyo
-Edad: 22 años
-Distrito: Surquillo
-Duración: 4:38 minutos
+#### Entrevista #1: <br>
+Entrevistador: Alessandro Alex Vega Paico <br>
+Entrevistado: Max Arroyo <br>
+Edad: 22 años <br>
+Distrito: Surquillo <br>
+Duración: 4:38 minutos <br>
 [![Entrevista-Max.png](https://i.postimg.cc/4xxtLTyx/Entrevista-Max.png)](https://postimg.cc/2VgVyMns)
 
-#### Entrevista #2:
-Entrevistador: Tomas Ortiz Fajardo 
-Entrevistado: Jose Rodriog Lopez Flores
-Edad: 22 años
-Distrito: La Molina
-Duración: 7:03 minutos
+#### Entrevista #2: <br>
+Entrevistador: Tomas Ortiz Fajardo <br>
+Entrevistado: Jose Rodriog Lopez Flores <br>
+Edad: 22 años <br>
+Distrito: La Molina <br>
+Duración: 7:03 minutos <br>
 [![Entrevista-Jose.png](https://i.postimg.cc/SsMc67sL/Entrevista-Jose.png)](https://postimg.cc/jwRWKfyC)
 
 #### Entrevista #3:
-Entrevistador: Piero Alonso Martinez Villanueva
-Entrevistado: Roberto Martinez
-Edad: 42 años
-Distrito: Lima
-Duración: 15:28 minutos
+Entrevistador: Piero Alonso Martinez Villanueva <br>
+Entrevistado: Roberto Martinez <br>
+Edad: 42 años <br>
+Distrito: Lima <br>
+Duración: 15:28 minutos <br>
 [![Entrevista-Roberto.png](https://i.postimg.cc/3N3Qnx3L/Entrevista-Roberto.png)](https://postimg.cc/0MX4NxMm)
 
 #### Segmento Objetivo Proveedor:
-#### Entrevista #4:
-Entrevistador: Alessandro Alex Vega Paico
-Entrevistado: Nicolas Haro Davila
-Edad: 25 años
-Distrito: Surquillo
-Duración: 5:26
+#### Entrevista #4: <br> 
+Entrevistador: Alessandro Alex Vega Paico <br>
+Entrevistado: Nicolas Haro Davila <br>
+Edad: 25 años <br>
+Distrito: Surquillo <br>
+Duración: 5:26 <br>
 [![Entrevista-Nicolas.png](https://i.postimg.cc/GhrvDD1Y/Entrevista-Nicolas.png)](https://postimg.cc/PN3LsPJr)
 
-#### Entrevista #5:
-Entrevistador: Tomas Ortiz Fajardo 
-Entrevistado: Geronimo Baso
-Edad: 24 años
-Distrito: Lima
-Duración: 5:42 minutos
+#### Entrevista #5: <br>
+Entrevistador: Tomas Ortiz Fajardo <br>
+Entrevistado: Geronimo Baso <br>
+Edad: 24 años <br>
+Distrito: Lima <br>
+Duración: 5:42 minutos <br>
 [![Entrevista-Geronimo.png](https://i.postimg.cc/BbfHMLLr/Entrevista-Geronimo.png)](https://postimg.cc/S2VnKKGd)
 
-#### Entrevista #6:
-Entrevistador: Piero Alonso Martinez Villanueva
-Entrevistado: Renzo Martinez
-Edad: 26 años
-Distrito: Lima
-Duración: 8:59 minutos
+#### Entrevista #6: <br>
+Entrevistador: Piero Alonso Martinez Villanueva <br>
+Entrevistado: Renzo Martinez <br>
+Edad: 26 años <br>
+Distrito: Lima <br>
+Duración: 8:59 minutos <br>
 [![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
 
 #### Análisis Entrevistas de Segmento Restaurante
