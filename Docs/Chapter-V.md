@@ -859,4 +859,4 @@ Después de realizar las entrevistas de validación con el segmento Proveedor, h
 ## 5.4 Video about Product
 ![](/Assets/Img/Chapter%20V/product%20backlog.png)
 El siguiente link mostrara nuestro video about product:
-https://youtu.be/FLDkwATyxEk
+[Link](https://youtu.be/EWBPovipZV0)
