@@ -795,7 +795,7 @@ Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos
 Video Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910225_upc_edu_pe/Eagdte9A6ZBCgy1vXeeTAp0BOB5vTIuO0P1G6ET_YRQ4Qg?e=9jfNbM
 
 #### Segmento Objetivo Restaurante:
-#### Entrevista #1: <br>
+#### Entrevista #1:
 Entrevistador: Alessandro Alex Vega Paico <br>
 Entrevistado: Max Arroyo <br>
 Edad: 22 años <br>
@@ -803,9 +803,9 @@ Distrito: Surquillo <br>
 Duración: 4:38 minutos <br>
 [![Entrevista-Max.png](https://i.postimg.cc/4xxtLTyx/Entrevista-Max.png)](https://postimg.cc/2VgVyMns)
 
-#### Entrevista #2: <br>
+#### Entrevista #2:
 Entrevistador: Tomas Ortiz Fajardo <br>
-Entrevistado: Jose Rodriog Lopez Flores <br>
+Entrevistado: Jose Rodrigo Lopez Flores <br>
 Edad: 22 años <br>
 Distrito: La Molina <br>
 Duración: 7:03 minutos <br>
@@ -820,15 +820,15 @@ Duración: 15:28 minutos <br>
 [![Entrevista-Roberto.png](https://i.postimg.cc/3N3Qnx3L/Entrevista-Roberto.png)](https://postimg.cc/0MX4NxMm)
 
 #### Segmento Objetivo Proveedor:
-#### Entrevista #4: <br> 
+#### Entrevista #4:
 Entrevistador: Alessandro Alex Vega Paico <br>
 Entrevistado: Nicolas Haro Davila <br>
 Edad: 25 años <br>
 Distrito: Surquillo <br>
-Duración: 5:26 <br>
+Duración: 5:26 minutos <br>
 [![Entrevista-Nicolas.png](https://i.postimg.cc/GhrvDD1Y/Entrevista-Nicolas.png)](https://postimg.cc/PN3LsPJr)
 
-#### Entrevista #5: <br>
+#### Entrevista #5:
 Entrevistador: Tomas Ortiz Fajardo <br>
 Entrevistado: Geronimo Baso <br>
 Edad: 24 años <br>
@@ -836,7 +836,7 @@ Distrito: Lima <br>
 Duración: 5:42 minutos <br>
 [![Entrevista-Geronimo.png](https://i.postimg.cc/BbfHMLLr/Entrevista-Geronimo.png)](https://postimg.cc/S2VnKKGd)
 
-#### Entrevista #6: <br>
+#### Entrevista #6:
 Entrevistador: Piero Alonso Martinez Villanueva <br>
 Entrevistado: Renzo Martinez <br>
 Edad: 26 años <br>
