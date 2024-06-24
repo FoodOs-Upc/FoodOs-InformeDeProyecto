@@ -811,10 +811,11 @@ Duración: 7:03 minutos
 
 #### Entrevista #3:
 Entrevistador: Piero Alonso Martinez Villanueva
-Entrevistado: 
-Edad:
-Distrito:
-Duración:
+Entrevistado: Roberto Martinez
+Edad: 42 años
+Distrito: Lima
+Duración: 15:28 minutos
+[![Entrevista-Roberto.png](https://i.postimg.cc/3N3Qnx3L/Entrevista-Roberto.png)](https://postimg.cc/0MX4NxMm)
 
 #### Segmento Objetivo Proveedor:
 #### Entrevista #4:
@@ -839,7 +840,9 @@ Entrevistado: Renzo Martinez
 Edad: 26 años
 Distrito: Lima
 Duración: 8:59 minutos
-![](/Assets/Img/Chapter%20V/ENTREVISTA6.png)
+[![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
