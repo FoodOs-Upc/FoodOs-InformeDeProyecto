@@ -1180,6 +1180,148 @@ Habiendo realizado las entrevistas validación del segmento Restaurante, hemos p
 Después de realizar las entrevistas de validación con el segmento Proveedor, hemos recopilado información crucial sobre el desarrollo de nuestra aplicación web. Nuestros participantes destacaron que las funcionalidades que hemos implementado serán de gran utilidad para gestionar eficazmente las grandes cantidades de productos que ellos manejan y que estan interesados en probar la plataforma dentro de su centro de operaciones. Valoraron mucho las funcionalidades, como el poder agregar productos con toda la información necesaria, la facilidad para administrar su equipo de trabajo y las tareas asignadas a cada miembro. Asimismo, encontraron que las secciones de cada funcionalidad están bien estructuradas y son intuitivas. Como recomendación, nos mencionaron que les gustaria poder tener un apartado donde ellos puedan comunicarse directamente con sus clientes, lo cual estamos motivados a desarrollar en una versión futura. En conclusion, nuestro segmento Proveedor está satisfecho con las funcionalidades desarrolladas.
 
 ### 5.3.3. Evaluaciones según heurísticas. 
+# SITE o APP A EVALUAR:
+### FOODOS
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web VERSOFT.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+TAREAS A EVALUAR:
+1.	Desktop landing page
+1.	Información y descripción de la aplicación y sus funcionalidades
+2.	Visualización de planes de pago y precio de la aplicación
+3.	Header y footer apropiado para la landing page
+4.	Interacción del landing page con la aplicación
+2.	Web Application
+1.	Inicio de sesión con usuario existente
+2.	Indicadores claros de progreso o estado del proceso
+3.	Iconografía comprensible y consistente con el mundo real
+4.	Mensajes de error que reflejen el registro de datos incorrectos
+5.	Acciones de retroceso dentro de la aplicación
+6.	Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+7.	Evaluar existencia de patrones de diseño o navegación
+8.	Elementos de la interfaz de usuario consistentes
+9.	Pestañas de navegación dentro de la aplicación
+10.	Botones interactivos y de uso intuitivo
+ 
+
+11.	Búsqueda de procesos y cultivos con registro previo
+12.	Navegación y orientación dentro de la aplicación
+13.	Apertura y visualización de cultivos registrados
+14.	Visualización de perfil de usuario
+15.	Visualización del perfil de la empresa
+16.	Mensajes que orienten al usuario sobre el estado del sistema
+17.	Cambio de idioma de la aplicación
+18.	Estética general de la interfaz atractiva y agradable visualmente.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.	Desktop landing page
+1.	Redes sociales asociadas al startup
+2.	Política de privacidad y condiciones de uso
+2.	Web Application
+1.	Registro de nuevo usuario
+2.	Modificación y eliminación de procesos o cultivos registrados
+3.	Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+4.	Documentación y exportación de registros
+5.	Flexibilidad de uso a través de atajos por teclado
+6.	Acceso a recursos de ayuda dentro de la aplicación
+7.	Política de privacidad y condiciones de uso
+
+# ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+| Nivel | Descripción                                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+# TABLA RESUMEN:
+Desktop landing page
+
+| #   | Problema                                                                                                                 | Escala de severidad | Heurística/Principio violado   |
+|-----|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
+| 1   | Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar | 4                   | Usability: Control y libertad del usuario |
+| 2   | Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión | 4                   | Usability: Control y libertad del usuario |
+| 3   | Al seleccionar el botón “about us” no se redirige a ningún espacio en la landing page                                   | 3                   | Usability: Coincidencia entre el sistema y el mundo real |
+| 4   | La iconografía empleada en la sección “What we offer?” resalta más que el contenido informativo                        | 2                   | Usability: Diseño estético y minimalista |
+
+
+| #   | Problema                                                                                                                      | Escala de severidad | Heurística/Principio violado(o)                                       |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
+| 5   | La información relacionada con el start up y utilidad del producto es inexacta e insuficiente                                | 3                   | Inclusive Design: Diseño Centrado en el Usuario                        |
+| 6   | Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción      | 3                   | Information Arquitecture: Jerarquía de Información                     |
+| 7   | El formulario de Contacto no muestra funcionalidad                                                                           | 4                   | Usability: Visibilidad del estado del sistema                          |
+| 8   | Tamaño inapropiado de botones “Start” del landing                                                                           | 2                   | Usability: Consistencia y estándares                                   |
+| 9   | Espaciado inadecuado entre las secciones de la barra de navegación                                                         | 1                   | Information Arquitecture: Jerarquía de información                     |
+| 10  | La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso                         | 2                   | Information Arquitecture: Organización y Estructura                    |
+| 11  | La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas | 2                   | Usability: Estética y diseño minimalista                                |
+| 12  | La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail   | 1                   | Usability: Visibilidad del estado del sistema                          |
+| 13  | El título “About the team” no muestra internacionalización (cambio de idioma al inglés)                                     | 1                   | Usability: Flexibilidad y eficiencia de uso                             |
+
+
+__Problema #01:__  Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar
+de pago.
+
+__Escala de Severidad:__ 04
+
+__Heurística relacionada:__ Usability - Control y libertad del usuario
+
+__Descripción del problema:__ Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al apartado de pago nos da una visión más clara de a dónde se dirige nuestra aplicación y que no lo haga puede generar confusión y una sensación de bloqueo en el usuario. Esto podría ocasionar confusión en el usuario y podría preguntarse si podrá adquirir el servicio o quizá ha cometido un error al momento de seleccionar el plan de pago 
+ 
+![](/Assets/Img/Chapter%20V/heuristica%201.png)
+
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario al apartado donde pueda realizar el pago y obtener su paquete de suscripción. Además, para afinar la seguridad del usuario con nuestra aplicación se podría mostrar un mensaje de confirmación una vez realizado el pago y que se confirme que se adquirido su plan de suscripción.
+
+__Problema #02:__ Al seleccionar los botones interactivos “Start Now” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión.
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “Start Now” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start Now” no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+ ![](/Assets/Img/Chapter%20V/heuristica%202.png)
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones “Start Now”, el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta “Start Now” debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. 
+
+
+
+__Problema #03:__ Al seleccionar los botones interactivos “About us” del landing, el usuario no es direccionado al apartado dónde se describe nuestro “About us”
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “About us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado dónde se debería hablar de nostros, de nuestro equipo, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en "About us” no se direcciona al usuario al apartado de “About us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![](/Assets/Img/Chapter%20V/heuristica%203.png)
+ 
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “About us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
+
+
+__PROBLEMA #04:__ La iconografía empleada en la sección “what we offer?” resalta más que el contenido informativo.
+
+__Escala de severidad:__ 02
+
+__Principios violados:__
+
+__Heurística:__ Usabilidad-Diseño estético y minimalista
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+__Information Arquitecture:__ Jerarquía de la información
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+__Descripción del problema:__
+El problema identificado es que en la sección "what we offer" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas
+
+![](/Assets/Img/Chapter%20V/heuristica%204.png)
+
+
 
 
 ## 5.4 Video about Product
