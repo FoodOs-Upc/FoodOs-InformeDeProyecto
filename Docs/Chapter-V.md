@@ -944,10 +944,34 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
   
 #### 5.2.4.3.Development Evidence for Sprint Review. 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+
 #### 5.2.4.5.Execution Evidence for Sprint Review. 
+
+A continuación, se muestra evicencia de ejcucion de los puntos funcionando correctamente.
+![](/Assets/Img/Chapter%20V/sprint%202/login%20muestra.png)
+
+En esta parte se muestra el login donde el usuario puede ingresar a la app.
+![](/Assets/Img/Chapter%20V/sprint%202/register%20muestra.png)
+En esta parte se muestra el register del usuario para registrar un usuario en la aplicaion.
+![](/Assets/Img/Chapter%20V/sprint%202/sidebar%20muestra.png)
+En esta parte se muestra el sidebar del donde muestra el perfil del usuario.
+
+![](/Assets/Img/Chapter%20V/sprint%202/inventory.jpg)
+En esta parte se muestra el avanze de la tabla que muestra los datos del inventario
+
+![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
+En esta captura se muestra el avanze de las tareas del equipo
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint. 
+
+Nuestro objetivo como startup en este Sprint 5 es desarrollar, implementar y desplegar nuestra aplicacion web. Por lo que hemos hecho uso de distintas herramientas que nos permitieron cumplir con nuestro objetivo.
+
+
 ## 5.3.Validation Interviews. 
 ### 5.3.1. Diseño de Entrevistas.
 #### Restaurantes.
