@@ -9,7 +9,7 @@
 
 <center>
 
-# **Informe TP**
+# **Informe TB2**
 ## **FoodOs**
 ## Profesor: Efraín Ricardo Bautista Ubillús
 

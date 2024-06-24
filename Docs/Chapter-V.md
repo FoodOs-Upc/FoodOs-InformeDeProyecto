@@ -731,7 +731,333 @@ En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del 
 
 
 
+### 5.2.3. Sprint 3
 
+#### 5.2.2.1. Sprint Planning 3
+
+| Sprint #| Sprint |
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2024-05-15|
+|Time | 22.00|
+|Location| Reunion Virtual(Plataforme Discord)|
+|Prepared By| Brayan Morales|
+|Attendees (to planning meeting)|Todos los asistentes del equipo|
+|Sprint 2 Review Summary|la segunda entrega tuvimos bastantes faltas como el sprint backlog ,despliege del frontend y una mala organizacion en el equipo |
+|Sprint 2 Retrospective Summary| El desarrollo del sprint 2 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al segundo sprint.  |
+|Sprint Goals & User Stories|US01 al US10|
+|Sprint 3 Goal|Como meta para este sprint tenemos como meta desarrollar los endpoints de nuestra backend|
+|Sprint 3 Velocity| La velocidad de este sprint es de 23|
+|Sprints of Story Points| |
+
+#### 5.2.3.2. Sprint Backlog 3
+
+El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregir errores o mejoras en la backend
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US04 </td>
+    <td rowspan="2" align="center"> Actualizar información de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar todo el dominio relacionado con el profile</td>
+    <td align="justify"> Se desarrollara los commands,queries,value objects, agregates y servicios relazionados con actualizar el perfil</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollar implementacion de los commands y queries con su controlador </td>
+    <td align="center"> Se desarrollara las implementaciones de los servicios para luego realizar su controlador </td>
+    <td align="center"> 1.5</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> US05 </td>
+    <td rowspan="3" align="center">Visualizar información de la cuenta</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> crear query que permita obtener un perfil por id </td>
+    <td align="justify"> Se creara los componentes con sus estilos </td>
+    <td align="center"> 0.5</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollar implementacion</td>
+    <td align="justify">Se agregara al interface del servicio query la funcion que permita buscar el perfil y se implementara</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Desarrollar las transformacions y recursos </td>
+    <td align="justify"> crear transformaciones que permitan crear la entidades del perfil</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US05 </td>
+    <td rowspan="2" align="center"> Visualizar información de la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente que permita ver el perfil del usuario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Eliminar permanentemente la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear funcion en el servicio que permita eliminar la cuenta</td>
+    <td align="justify"> desarrollar la implementacion del servicio y añadir al controlador </td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US07 </td>
+    <td rowspan="2" align="center"> Agregar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Se desarrollara los commands,queries,value objects, agregates y servicios relazionados con agregar un producto</td>
+    <td align="justify">Se creara las entity, command y servicio </td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Realizar implementacion y controlador inventario </td>
+    <td align="center"> Se creara la implementacion del servico y ademas de crear el controlador </td>
+    <td align="center"> 1.5</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US08 </td>
+    <td rowspan="3" align="center">Eliminar un producto al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crea command para recibir el id del producto a eliminar</td>
+    <td align="justify"> Se crea command  </td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan</td>
+    <td align="center">done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> agregar al servicio y desarrollar la implementacion </td>
+    <td align="center"> se desarrollara la logica en la implementacion </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan S</td>
+    <td align="center">done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Crear metodo post </td>
+    <td align="center"> Se creara post en el controlador del inventario </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan S</td>
+    <td align="center">done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US09 </td>
+    <td rowspan="1" align="center">Actualizar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear command y desarrollar implementacion</td>
+    <td align="justify">Se desarrolla la logica y agrega al controlador </td>
+    <td align="center"> 2 </td>
+    <td align="center">Brayan S</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center">ver todos los productos del inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Desarrollar implementacion y controlador</td>
+    <td align="justify">Crear logica de la implementacion y añadir metodo get en el controlador del inventario</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Brayan S</td>
+    <td align="center">don</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> US15 </td>
+    <td rowspan="3" align="center">Agregar integrantes a mi grupo de inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Desarrolla el dominio de grupos</td>
+    <td align="justify"> Se crea las entidades, agregados,comandos,consultas y objetos de valor </td>
+    <td align="center"> 1.5</td>
+    <td align="center"> Alessandro</td>
+    <td align="center">done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollar implementaciones del servicio </td>
+    <td align="center"> Se creara la logica de la implementacion y ademas de la creacion del controlador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Alessandro</td>
+    <td align="center">done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center">creacion de los metodos en el controlador</td>
+    <td align="center"> Se creara los metodos en el controlador de los equipos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Alessandro</td>
+    <td align="center">done</td>
+  </tr>
+
+</table>
+
+##### 5.2.3.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/FoodOs-Upc/FoodOs-BackEnd </td>
+    <td align="center"> main</td>
+    <td align="center"> 5ea7d54ea09633db9a5554d2ee755cc3f9a52967</td>
+    <td align="center"> chore(main):Commit Initial</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/05/2024</td>
+  </tr>
+  ##### 
+  <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >11c6acddea17d68ebb42b23d95a979efe1355fd3</td>
+    <td align="center">feat(profile): Add class Profile aggregate and value objects email and personName</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/05/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >b3e937505d6fa9c84ff86143a8af8eef3253a8e1</td>
+    <td align="center">feat(profile): add get of emailaddress and change public to private long id</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/05/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/inventory</td>
+    <td align="center" >d8aaccbf70c6ccc5eddc88f5f19227881c3c1aef</td>
+    <td align="center">feat(Inventory): add classAuditables and product</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/06/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/profile</td>
+    <td align="center" >31e4686c7682c54a8162ac90f970575f71c13a6b</td>
+    <td align="center">feat(Inventory): add controller Inventory</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/06/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team</td>
+    <td align="center" >02f116395abc394fce96f4ab255a86db6486b1b7</td>
+    <td align="center">Team Table</td>
+    <td align="center"> ---</td>
+    <td align="center"> 5/06/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team</td>
+    <td align="center" >461b2a6b2b25bdf0b45064527360a39abe0804ae</td>
+    <td align="center">TaskController</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/06/24</td>
+  </tr>
+   <tr>
+    <td align="center"> feat/team>
+    <td align="center" >3da901133e6cbdd8a033085c40251c6042b9768c</td>
+    <td align="center">Details</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/06/24</td>
+  </tr>
+   <tr>
+    <td align="center"> develop>
+    <td align="center" >7b12c962a103265ec646d96dd561abc51337c4a3</td>
+    <td align="center">Merge pull request #2 from FoodOs-Upc/feat/inventory</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/06/2024</td>
+  </tr>
+   <tr>
+    <td align="center"> develop>
+    <td align="center" >ad4edf339d300ade55470d73d871e31833f87096</td>
+    <td align="center">Merge pull request #4 from FoodOs-Upc/feat/Task
+</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/06/2024</td>
+  </tr>
+ 
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+A continuación, se muestra evicencia de ejcucion de los puntos funcionando correctamente.
+![](/Assets/Img/Chapter%20V/sprint%203/backend%20ejecucion.png)
+Imagen del inicio del openApi
+![](/Assets/Img/Chapter%20V/sprint%203/backend%20ejecucion%201.png)
+Se muestra el openApi con la ejecucion con nuestros puntos planteados en el sprint 3 desde profile hasta product.
+#### 5.2.3.6 Colaboration Insights during Sprint
+
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+![Collaboration-1](/Assets/Img/Chapter%20V/sprint%203/sprint%203%20commits.png)
+En este grafico de barras se muestra la cantidad de commits realizados por cada miembro del equipo.
+
+![Collaboration-1](/Assets//Img/Chapter%20V/sprint%203/linea%20de%20tiempo.png)
+En este grafico se muestra la linea de tiempo de nuestras ramas en el desarrollo de la backend
 
 
 
