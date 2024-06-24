@@ -790,11 +790,73 @@ Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos
 
 ¿Qué tan satisfecho cree que estará con el soporte técnico y la atención al cliente proporcionada por la aplicación? ¿Qué mejoras sugiere?
 
-### 5.3.2. Registro de Entrevistas. 
+### 5.3.2. Registro de Entrevistas
+
+Video Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910225_upc_edu_pe/Eagdte9A6ZBCgy1vXeeTAp0BOB5vTIuO0P1G6ET_YRQ4Qg?e=9jfNbM
+
+#### Segmento Objetivo Restaurante:
+#### Entrevista #1:
+Entrevistador: Alessandro Alex Vega Paico <br>
+Entrevistado: Max Arroyo <br>
+Edad: 22 años <br>
+Distrito: Surquillo <br>
+Duración: 4:38 minutos <br>
+[![Entrevista-Max.png](https://i.postimg.cc/4xxtLTyx/Entrevista-Max.png)](https://postimg.cc/2VgVyMns)
+
+#### Entrevista #2:
+Entrevistador: Tomas Ortiz Fajardo <br>
+Entrevistado: Jose Rodrigo Lopez Flores <br>
+Edad: 22 años <br>
+Distrito: La Molina <br>
+Duración: 7:03 minutos <br>
+[![Entrevista-Jose.png](https://i.postimg.cc/SsMc67sL/Entrevista-Jose.png)](https://postimg.cc/jwRWKfyC)
+
+#### Entrevista #3:
+Entrevistador: Piero Alonso Martinez Villanueva <br>
+Entrevistado: Roberto Martinez <br>
+Edad: 42 años <br>
+Distrito: Lima <br>
+Duración: 15:28 minutos <br>
+[![Entrevista-Roberto.png](https://i.postimg.cc/3N3Qnx3L/Entrevista-Roberto.png)](https://postimg.cc/0MX4NxMm)
+
+#### Segmento Objetivo Proveedor:
+#### Entrevista #4:
+Entrevistador: Alessandro Alex Vega Paico <br>
+Entrevistado: Nicolas Haro Davila <br>
+Edad: 25 años <br>
+Distrito: Surquillo <br>
+Duración: 5:26 minutos <br>
+[![Entrevista-Nicolas.png](https://i.postimg.cc/GhrvDD1Y/Entrevista-Nicolas.png)](https://postimg.cc/PN3LsPJr)
+
+#### Entrevista #5:
+Entrevistador: Tomas Ortiz Fajardo <br>
+Entrevistado: Geronimo Baso <br>
+Edad: 24 años <br>
+Distrito: Lima <br>
+Duración: 5:42 minutos <br>
+[![Entrevista-Geronimo.png](https://i.postimg.cc/BbfHMLLr/Entrevista-Geronimo.png)](https://postimg.cc/S2VnKKGd)
+
+#### Entrevista #6:
+Entrevistador: Piero Alonso Martinez Villanueva <br>
+Entrevistado: Renzo Martinez <br>
+Edad: 26 años <br>
+Distrito: Lima <br>
+Duración: 8:59 minutos <br>
+[![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
+
+#### Análisis Entrevistas de Segmento Restaurante
+
+Habiendo realizado las entrevistas validación del segmento Restaurante, hemos podido recolectar información clave sobre el desarrollo de nuestra aplicación web. Nuestros participantes nos mencionaron que las funcionalidades que hemos implementado le resultara de gran ayuda al momento de encargarse de administrar su inventario interno, ya sea al momento de agregar productos junto con su información solicitada, como también al momento de administrar su equipo de trabajo junto con las tareas designadas para cada integrante. Además, nos mencionaron que los apartados de cada funcionalidad estan bien estructurados y son de facil acceso para una persona que no este acostumbrada a las tecnologias digitales. Como algunas recomendaciones de opinion personal, nos mencionaron que a pesar de que los colores son agradables a la vista, podriamos a optar por una gama de colores que contraste más con el publico objetivo. A parte de esa anotación, nuestro segmento Resturante ha quedado conforme con las funcionalidades desarrolladas.
+
+
+#### Análisis Entrevistas de Segmento Proveedor
+
+Después de realizar las entrevistas de validación con el segmento Proveedor, hemos recopilado información crucial sobre el desarrollo de nuestra aplicación web. Nuestros participantes destacaron que las funcionalidades que hemos implementado serán de gran utilidad para gestionar eficazmente las grandes cantidades de productos que ellos manejan y que estan interesados en probar la plataforma dentro de su centro de operaciones. Valoraron mucho las funcionalidades, como el poder agregar productos con toda la información necesaria, la facilidad para administrar su equipo de trabajo y las tareas asignadas a cada miembro. Asimismo, encontraron que las secciones de cada funcionalidad están bien estructuradas y son intuitivas. Como recomendación, nos mencionaron que les gustaria poder tener un apartado donde ellos puedan comunicarse directamente con sus clientes, lo cual estamos motivados a desarrollar en una versión futura. En conclusion, nuestro segmento Proveedor está satisfecho con las funcionalidades desarrolladas.
+
 ### 5.3.3. Evaluaciones según heurísticas. 
 
 
 ## 5.4 Video about Product
 ![](/Assets/Img/Chapter%20V/product%20backlog.png)
 El siguiente link mostrara nuestro video about product:
-https://youtu.be/FLDkwATyxEk
+[Link](https://youtu.be/EWBPovipZV0)
