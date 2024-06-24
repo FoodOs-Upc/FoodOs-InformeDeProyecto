@@ -839,8 +839,7 @@ Entrevistado: Renzo Martinez
 Edad: 26 años
 Distrito: Lima
 Duración: 8:59 minutos
-[![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
-
+![](/Assets/Img/Chapter%20V/ENTREVISTA6.png)
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
