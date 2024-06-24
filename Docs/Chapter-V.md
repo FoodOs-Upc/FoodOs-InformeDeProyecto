@@ -792,6 +792,8 @@ Desde su perspectiva, ¿qué funcionalidades considera cruciales que deberíamos
 
 ### 5.3.2. Registro de Entrevistas
 
+Video Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910225_upc_edu_pe/Eagdte9A6ZBCgy1vXeeTAp0BOB5vTIuO0P1G6ET_YRQ4Qg?e=9jfNbM
+
 #### Segmento Objetivo Restaurante:
 #### Entrevista #1:
 Entrevistador: Alessandro Alex Vega Paico
@@ -842,7 +844,9 @@ Distrito: Lima
 Duración: 8:59 minutos
 [![Entrevista-Renzo.png](https://i.postimg.cc/Bb5DyS2X/Entrevista-Renzo.png)](https://postimg.cc/D4Z84KjT)
 
+#### Analisis Entrevistas de Segmento Restaurante
 
+#### Analisis Entrevistas de Segmento Proveedor
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
