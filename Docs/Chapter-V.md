@@ -943,24 +943,6 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center">to-do</td>
   </tr>
 
-#### 5.2.4.3.Development Evidence for Sprint Review.
-
-Dentro de esta seccion de mostraran algunos de los commits realizados a sus respectivas ramas del backend. 
-
-##Cuadro de commits
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 | Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
 |------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
