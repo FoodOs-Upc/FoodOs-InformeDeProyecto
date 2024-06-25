@@ -172,7 +172,7 @@ a que se puede ver los cambios que realizamos en el código hecho en HTML, CSS y
     <td>https://www.postman.com/downloads/</td>
   </tr>
 
-  <td><img src="https://camo.githubusercontent.com/f725b7a314d523d78005509f98c436a1fcf2883fd39cb9e5b83346f6bddb599a/687474703a2f2f6a736f6e6170692e6f72672f696d616765732f6a736f6e6170692e706e67" width="70" height="50"></td>
+  <td><img src="https://th.bing.com/th/id/OIP.4e5PgSBgxgFolqvob9x_WgAAAA?rs=1&pid=ImgDetMain" width="70" height="50"></td>
     <td>JasonServer</td>
     <td>Se uso para las pruebas de frontend, simulando la backend </td>
     <td>https://www.npmjs.com/package/json-server</td>
@@ -198,7 +198,7 @@ El software usado para la documentacion es el siguiente:
     <th>Link</th>
   </tr>
 
-  <td><img src="https://mvnrepository.com/img/ae6cb54d78c70653ac784621f78188c8" width="50" height="50"></td>
+  <td><img src="/Assets/Img/Chapter IV/ae6cb54d78c70653ac784621f78188c8.webp" width="50" height="50"></td>
     <td>SpringDoc OpenAPI</td>
     <td>Fue usado para llevar acabo la documentacion en la backend</td>
     <td>SpringDoc OpenAPI Starter WebMVC UI</td>
