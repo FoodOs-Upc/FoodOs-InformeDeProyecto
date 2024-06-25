@@ -965,7 +965,7 @@ En esta parte se muestra el avanze de la tabla que muestra los datos del inventa
 ![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
 En esta captura se muestra el avance de las tareas del equipo
 
-![](/Assets/Img/ChapterV/backend1.jpeg)
+[![backend1.jpg](https://i.postimg.cc/Jzk4HxL4/backend1.jpg)](https://postimg.cc/jDRrGz2G)
 En esta captura se muestra el registro del Contenedor del backend.
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
