@@ -50,7 +50,7 @@ Para la gestion del proyecto se usara software que se ejecuten en computadoras, 
   </tr>
 
   <tr>
-    <td><img src="https://th.bing.com/th?id=A1347d5afb5defc136de5264018fe79f9&w=80&h=80&c=17&rs=1&o=6&dpr=1.3&pid=5.1" width="80" height="80"></td>
+    <td><img src="/Assets/Img/Chapter IV/R.png" width="80" height="80"></td>
     <td>Intellij</td>
     <td>El programa fue usado para el desarrollo de la backend este maneja el lenguaje java </td>
     <td>https://www.jetbrains.com/es-es/products/#type=ide-vs </td>
