@@ -424,7 +424,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 |Sprint 1 Review Summary|La primera entrega se realizo incompleta faltando puntos como user stories, product backload, entrevistas y el sprint 1 |
 |Sprint 1 Retrospective Summary| El desarrollo del sprint 1 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al primer sprint.  |
 |Sprint Goals & User Stories|US01 al US10|
-|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out.Ademas de terminar las funciones del inventario.|
+|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out. Ademas de terminar las funciones del inventario.|
 |Sprint 1 Velocity| La velocidad de este sprint es de 23|
 |Sprints of Story Points| |
 
@@ -1269,10 +1269,26 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center">to-do</td>
   </tr>
 
-  
-#### 5.2.4.3.Development Evidence for Sprint Review. 
+
+| Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
+|------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
+| FoodOs-UPC | feat/products     | 5dc0a9f   | Feat: Added CRUD Products                                                       | 20/06/2024  |
+|            | feat/task         | 5f17d25   | Feat: Task Controller                                                           | 03/06/2024  |
+|            | feat/inventory    | 7def496   | Feat (Inventory): Add methods put and delete                                    | 02/06/2024  |
+|            | feat/inventory    | 31e4686   | Feat: Add controller inventory                                                  | 04/06/2024  |
+|            | feat/products     | B6952a8   | Feat: Added functionality CRUD                                                  | 21/06/2024  |
+|            | feat/profile      | 7f3478f   | Feat: add the constructor the start createAt                                    | 23/05/2024  |
+|            | feat/profile      | 101212a   | Feat: Added configuration of OpenAPI and controller profile                     | 24/05/2024  |
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+##Cuadro de commits arriba
+
+Dentro de esta seccion de mostraran algunos de los commits realizados a sus respectivas ramas del backend. 
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. 
 
+En este cuarto sprint, hemos centrado nuestros esfuerzos principalmente en el desarrollo y en añadir funcionalidades tanto a la aplicación web como al backend, lo que ha hecho que no llevemos a cabo pruebas en esta etapa.
 
 #### 5.2.4.5.Execution Evidence for Sprint Review. 
 
@@ -1290,6 +1306,9 @@ En esta parte se muestra el avanze de la tabla que muestra los datos del inventa
 
 ![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
 En esta captura se muestra el avance de las tareas del equipo
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
 
 [![backend1.jpg](https://i.postimg.cc/Jzk4HxL4/backend1.jpg)](https://postimg.cc/jDRrGz2G)
 En esta captura se muestra el registro del Contenedor del backend.
@@ -1309,13 +1328,10 @@ En esta captura se muestra el Swagger UI del backend.
 [![frontend1.jpg](https://i.postimg.cc/X7Zs8r35/frontend1.jpg)](https://postimg.cc/XpbKN7rN)
 En esta captura se muestra el frontend desplegado en Github Pages.
 
-#### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
-#### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
-
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint. 
 
-Nuestro objetivo como startup en este Sprint 5 es desarrollar, implementar y desplegar nuestra aplicacion web. Por lo que hemos hecho uso de distintas herramientas que nos permitieron cumplir con nuestro objetivo.
+En este Sprint 5, como startup, nuestro objetivo ha sido desarrollar, implementar y desplegar nuestra aplicación web. Para lograrlo, hemos utilizado diversas herramientas que nos han permitido cumplir con nuestra meta.
 
 
 ## 5.3.Validation Interviews. 
