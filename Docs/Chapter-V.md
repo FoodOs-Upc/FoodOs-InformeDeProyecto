@@ -738,6 +738,8 @@ En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del 
 ### 5.2.4. Sprint 4 
 #### 5.2.4.1.Sprint Planning 4. 
 
+En este Sprint 4 hemos querido terminar de una manera perfecta todo el trabajo de acorde con el Statement del Aula Virtual. Hemos mejorado los User Stories, modificado los User Personas y los analisis de las entrevistas, hemos cambiado el Software Deployment Configuration y el Source Code Management. Ademas, hemos estado en constante cambio en el Web Application y el Backend.
+
 | Sprint #| Sprint |
 |---------|---------|
 |Sprint Planing Background||
