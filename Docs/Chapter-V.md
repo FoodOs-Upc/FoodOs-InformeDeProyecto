@@ -426,7 +426,7 @@ En esta linea de tiempo se muestra las ramas que desarrollamos para trabajar el 
 |Sprint 1 Review Summary|La primera entrega se realizo incompleta faltando puntos como user stories, product backload, entrevistas y el sprint 1 |
 |Sprint 1 Retrospective Summary| El desarrollo del sprint 1 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al primer sprint.  |
 |Sprint Goals & User Stories|US01 al US10|
-|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out.Ademas de terminar las funciones del inventario.|
+|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out. Ademas de terminar las funciones del inventario.|
 |Sprint 1 Velocity| La velocidad de este sprint es de 23|
 |Sprints of Story Points| |
 
@@ -1065,13 +1065,277 @@ En este grafico se muestra la linea de tiempo de nuestras ramas en el desarrollo
 
 ### 5.2.4. Sprint 4 
 #### 5.2.4.1.Sprint Planning 4. 
+
+En este Sprint 4 hemos querido terminar de una manera perfecta todo el trabajo de acorde con el Statement del Aula Virtual. Hemos mejorado los User Stories, modificado los User Personas y los analisis de las entrevistas, hemos cambiado el Software Deployment Configuration y el Source Code Management. Ademas, hemos estado en constante cambio en el Web Application y el Backend.
+
+| Sprint #| Sprint |
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2024-06-08|
+|Time | 32.00|
+|Location| Reunion Virtual(Plataforma Discord)|
+|Prepared By| Brayan Morales|
+|Attendees (to planning meeting)|Todos los asistentes del equipo|
+|Sprint 4 Review Summary|La entrega pasada se realizo pero tuvimos ciertos temas por arreglar como el informe, algunos videos que faltaban, y partes del frontend y del backend. |
+|Sprint 4 Retrospective Summary| El desarrollo del sprint 3 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al tercer sprint.  |
+|Sprint Goals & User Stories|US01 al US20|
+|Sprint 4 Goal|Como meta para este sprint queremos terminar con la aplicacion completa, incluyendo el frontend, backend y la landing page. Por otro lado dejar listo el informe para su revision.|
+|Sprint 4 Velocity| La velocidad de este sprint es de 23|
+|Sprints of Story Points| |
+
+
 #### 5.2.4.2.Sprint Backlog 4. 
-#### 5.2.4.3.Development Evidence for Sprint Review. 
+
+El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregir errores o mejoras en la frontEnd.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US01 </td>
+    <td rowspan="2" align="center"> Registro de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar componente del registro</td>
+    <td align="justify"> Se desarrolla todas las funcionalidades del componente registro con sus estilos</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio encargado de enviar los datos de registro al backend. </td>
+    <td align="center"> 0.30</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> US02 </td>
+    <td rowspan="3" align="center">Inicio de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente con estilos </td>
+    <td align="justify"> Se creara los componentes con sus estilos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar al servicio de auth la posibilidad de logearse</td>
+    <td align="justify"> Se desarrolla la funcion de logeo en el servicio y conservacion de la sesion</td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Definir rutas para la parte del logeo </td>
+    <td align="justify"> Se definira la ruta en el modulo routing module</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US03 </td>
+    <td rowspan="1" align="center"> Cierre de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementar funcion en el servicio que permita el cierre de sesion </td>
+    <td align="center"> Se implementara una funcion Log Out que borre l;os datos del usuario del local storage.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US05 </td>
+    <td rowspan="2" align="center"> Visualizar información de la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente que permita ver el perfil del usuario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US04 </td>
+    <td rowspan="1" align="center"> Actualizar información de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que permita editar la cuenta</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Eliminar permanentemente la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que confirmar la eliminacion</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">to-do</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US07 </td>
+    <td rowspan="3" align="center">Agregar un producto al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear el componente que sera la pagina principal para ver el inventario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 4 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Crear un dialog con un formulario </td>
+    <td align="center"> Se creara un componente dialog para agregar productos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US08 </td>
+    <td rowspan="1" align="center">Eliminar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de confirmar la eliminacion de un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US09 </td>
+    <td rowspan="1" align="center">Actualizar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de actualizar un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center">ver todos los productos del inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente que funcione de pagina que muestre los productos</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">to-do</td>
+  </tr>
+
+
+| Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
+|------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
+| FoodOs-UPC | feat/products     | 5dc0a9f   | Feat: Added CRUD Products                                                       | 20/06/2024  |
+|            | feat/task         | 5f17d25   | Feat: Task Controller                                                           | 03/06/2024  |
+|            | feat/inventory    | 7def496   | Feat (Inventory): Add methods put and delete                                    | 02/06/2024  |
+|            | feat/inventory    | 31e4686   | Feat: Add controller inventory                                                  | 04/06/2024  |
+|            | feat/products     | B6952a8   | Feat: Added functionality CRUD                                                  | 21/06/2024  |
+|            | feat/profile      | 7f3478f   | Feat: add the constructor the start createAt                                    | 23/05/2024  |
+|            | feat/profile      | 101212a   | Feat: Added configuration of OpenAPI and controller profile                     | 24/05/2024  |
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+##Cuadro de commits arriba
+
+Dentro de esta seccion de mostraran algunos de los commits realizados a sus respectivas ramas del backend. 
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+En este cuarto sprint, hemos centrado nuestros esfuerzos principalmente en el desarrollo y en añadir funcionalidades tanto a la aplicación web como al backend, lo que ha hecho que no llevemos a cabo pruebas en esta etapa.
+
 #### 5.2.4.5.Execution Evidence for Sprint Review. 
+
+A continuación, se muestra evicencia de ejcucion de los puntos funcionando correctamente.
+![](/Assets/Img/Chapter%20V/sprint%202/login%20muestra.png)
+
+En esta parte se muestra el login donde el usuario puede ingresar a la app.
+![](/Assets/Img/Chapter%20V/sprint%202/register%20muestra.png)
+En esta parte se muestra el register del usuario para registrar un usuario en la aplicaion.
+![](/Assets/Img/Chapter%20V/sprint%202/sidebar%20muestra.png)
+En esta parte se muestra el sidebar del donde muestra el perfil del usuario.
+
+![](/Assets/Img/Chapter%20V/sprint%202/inventory.jpg)
+En esta parte se muestra el avanze de la tabla que muestra los datos del inventario
+
+![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
+En esta captura se muestra el avance de las tareas del equipo
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
+
+[![backend1.jpg](https://i.postimg.cc/Jzk4HxL4/backend1.jpg)](https://postimg.cc/jDRrGz2G)
+En esta captura se muestra el registro del Contenedor del backend.
+
+[![backend2.jpg](https://i.postimg.cc/g2xb3ztt/backend2.jpg)](https://postimg.cc/jDY1bbby)
+En esta captura se muestra el Application Container del backend.
+
+[![backend3.jpg](https://i.postimg.cc/jS7ksLFT/backend3.jpg)](https://postimg.cc/hXK0sPnZ)
+En esta captura se muestra el servidor flexible de Azure Database for MySQL del backend.
+
+[![backend4.jpg](https://i.postimg.cc/HxpS43sW/backend4.jpg)](https://postimg.cc/67mLBrvF)
+En esta captura se muestra el Grupo de Recursos del backend.
+
+[![backend5.jpg](https://i.postimg.cc/d334g1yz/backend5.jpg)](https://postimg.cc/bSXxtqLT)
+En esta captura se muestra el Swagger UI del backend.
+
+[![frontend1.jpg](https://i.postimg.cc/X7Zs8r35/frontend1.jpg)](https://postimg.cc/XpbKN7rN)
+En esta captura se muestra el frontend desplegado en Github Pages.
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint. 
+
+En este Sprint 5, como startup, nuestro objetivo ha sido desarrollar, implementar y desplegar nuestra aplicación web. Para lograrlo, hemos utilizado diversas herramientas que nos han permitido cumplir con nuestra meta.
+
+
 ## 5.3.Validation Interviews. 
 ### 5.3.1. Diseño de Entrevistas.
 #### Restaurantes.
@@ -1182,6 +1446,135 @@ Habiendo realizado las entrevistas validación del segmento Restaurante, hemos p
 Después de realizar las entrevistas de validación con el segmento Proveedor, hemos recopilado información crucial sobre el desarrollo de nuestra aplicación web. Nuestros participantes destacaron que las funcionalidades que hemos implementado serán de gran utilidad para gestionar eficazmente las grandes cantidades de productos que ellos manejan y que estan interesados en probar la plataforma dentro de su centro de operaciones. Valoraron mucho las funcionalidades, como el poder agregar productos con toda la información necesaria, la facilidad para administrar su equipo de trabajo y las tareas asignadas a cada miembro. Asimismo, encontraron que las secciones de cada funcionalidad están bien estructuradas y son intuitivas. Como recomendación, nos mencionaron que les gustaria poder tener un apartado donde ellos puedan comunicarse directamente con sus clientes, lo cual estamos motivados a desarrollar en una versión futura. En conclusion, nuestro segmento Proveedor está satisfecho con las funcionalidades desarrolladas.
 
 ### 5.3.3. Evaluaciones según heurísticas. 
+# SITE o APP A EVALUAR:
+### FOODOS
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web VERSOFT.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+TAREAS A EVALUAR:
+1.	Desktop landing page
+1.	Información y descripción de la aplicación y sus funcionalidades
+2.	Visualización de planes de pago y precio de la aplicación
+3.	Header y footer apropiado para la landing page
+4.	Interacción del landing page con la aplicación
+2.	Web Application
+1.	Inicio de sesión con usuario existente
+2.	Indicadores claros de progreso o estado del proceso
+3.	Iconografía comprensible y consistente con el mundo real
+4.	Mensajes de error que reflejen el registro de datos incorrectos
+5.	Acciones de retroceso dentro de la aplicación
+6.	Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+7.	Evaluar existencia de patrones de diseño o navegación
+8.	Elementos de la interfaz de usuario consistentes
+9.	Pestañas de navegación dentro de la aplicación
+10.	Botones interactivos y de uso intuitivo
+ 
+
+11.	Búsqueda de procesos y cultivos con registro previo
+12.	Navegación y orientación dentro de la aplicación
+13.	Apertura y visualización de cultivos registrados
+14.	Visualización de perfil de usuario
+15.	Visualización del perfil de la empresa
+16.	Mensajes que orienten al usuario sobre el estado del sistema
+17.	Cambio de idioma de la aplicación
+18.	Estética general de la interfaz atractiva y agradable visualmente.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.	Desktop landing page
+1.	Redes sociales asociadas al startup
+2.	Política de privacidad y condiciones de uso
+2.	Web Application
+1.	Registro de nuevo usuario
+2.	Modificación y eliminación de procesos o cultivos registrados
+3.	Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+4.	Documentación y exportación de registros
+5.	Flexibilidad de uso a través de atajos por teclado
+6.	Acceso a recursos de ayuda dentro de la aplicación
+7.	Política de privacidad y condiciones de uso
+
+# ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+| Nivel | Descripción                                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+# TABLA RESUMEN:
+Desktop landing page
+
+| #   | Problema                                                                                                                 | Escala de severidad | Heurística/Principio violado   |
+|-----|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
+| 1   | Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar | 4                   | Usability: Control y libertad del usuario |
+| 2   | Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión | 4                   | Usability: Control y libertad del usuario |
+| 3   | Al seleccionar el botón “about us” no se redirige a ningún espacio en la landing page                                   | 3                   | Usability: Coincidencia entre el sistema y el mundo real |
+| 4   | La iconografía empleada en la sección “What we offer?” resalta más que el contenido informativo                        | 2                   | Usability: Diseño estético y minimalista |
+
+
+__Problema #01:__  Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar
+de pago.
+
+__Escala de Severidad:__ 04
+
+__Heurística relacionada:__ Usability - Control y libertad del usuario
+
+__Descripción del problema:__ Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al apartado de pago nos da una visión más clara de a dónde se dirige nuestra aplicación y que no lo haga puede generar confusión y una sensación de bloqueo en el usuario. Esto podría ocasionar confusión en el usuario y podría preguntarse si podrá adquirir el servicio o quizá ha cometido un error al momento de seleccionar el plan de pago 
+ 
+![](/Assets/Img/Chapter%20V/heuristica%201.png)
+
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario al apartado donde pueda realizar el pago y obtener su paquete de suscripción. Además, para afinar la seguridad del usuario con nuestra aplicación se podría mostrar un mensaje de confirmación una vez realizado el pago y que se confirme que se adquirido su plan de suscripción.
+
+__Problema #02:__ Al seleccionar los botones interactivos “Start Now” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión.
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “Start Now” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start Now” no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+ ![](/Assets/Img/Chapter%20V/heuristica%202.png)
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones “Start Now”, el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta “Start Now” debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. 
+
+
+
+__Problema #03:__ Al seleccionar los botones interactivos “About us” del landing, el usuario no es direccionado al apartado dónde se describe nuestro “About us”
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “About us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado dónde se debería hablar de nostros, de nuestro equipo, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en "About us” no se direcciona al usuario al apartado de “About us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![](/Assets/Img/Chapter%20V/heuristica%203.png)
+ 
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “About us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
+
+
+__PROBLEMA #04:__ La iconografía empleada en la sección “what we offer?” resalta más que el contenido informativo.
+
+__Escala de severidad:__ 02
+
+__Principios violados:__
+
+__Heurística:__ Usabilidad-Diseño estético y minimalista
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+__Information Arquitecture:__ Jerarquía de la información
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+__Descripción del problema:__
+El problema identificado es que en la sección "what we offer" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas
+
+![](/Assets/Img/Chapter%20V/heuristica%204.png)
+
+
 
 
 ## 5.4 Video about Product
