@@ -521,7 +521,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -530,7 +530,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
     <td align="center"> 2</td>
     <td align="center"> Brayan</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -541,7 +541,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -552,7 +552,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -563,7 +563,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 4 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center"> TA02 </td>
@@ -571,7 +571,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
    <tr>
     <td align="center"> TA03 </td>
@@ -579,7 +579,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se creara un componente dialog para agregar productos </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -590,7 +590,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -601,7 +601,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -612,7 +612,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
 </table>
@@ -849,7 +849,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -858,7 +858,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
     <td align="center"> 2</td>
     <td align="center"> Brayan</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -869,7 +869,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -880,7 +880,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -891,7 +891,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 4 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center"> TA02 </td>
@@ -899,7 +899,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
    <tr>
     <td align="center"> TA03 </td>
@@ -907,7 +907,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se creara un componente dialog para agregar productos </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -918,7 +918,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -929,7 +929,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -940,7 +940,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
 
