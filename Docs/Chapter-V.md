@@ -1581,7 +1581,7 @@ El Inclusive Desing esta centrado en el usuario e implica satisfacer sus necesid
 __Descripción del problema:__
 
 El problema es identificado por la inexactitud e insuficiencia de información relacionada con el la utilidad del producto y lo que llega a ofrecer nuestro servicio, lo que puede llevar a confusión en el usuario, dificultades para comprender que es lo que están adquiriendo los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio
-
+![](/Assets/Img/Chapter%20V/heu5.png)
 __Recomendación:__
 Para solucionar este problema se recomienda ampliar la información o crear un apartado con información acerca de “about the product” así se podría mostrar información más detallada acerca de lo que ofrece nuestro servicio.
 
@@ -1599,6 +1599,7 @@ __Descripción del problema:__
 
 Cuando un usuario hace clic en un botón con etiqueta “Contact Us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado donde el usuario podría ponerse en contacto con nosotros, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en " Contact Us” no se direcciona al usuario al apartado de “Contact Us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
 
+![](/Assets/Img/Chapter%20V/heu6.png)
 __Recomendación:__
 Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “Contact Us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
 
@@ -1621,7 +1622,7 @@ Usability - Prevenir errores: La heurística "Prevenir errores" implica proporci
 __Descripción del problema:__
 
 El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales. 
-
+![](/Assets/Img/Chapter%20V/heu3.png)
 __Recomendación:__
 Para solucionar este problema se recomienda incorporar las funcionalidades para actualizar y eliminar cuenta de manera eficiente y accesible al usuario. Además, incluir protección de datos y sistema de notificación en caso de que quieras eliminar la cuenta para confirmar si es que realmente se necesita su pronta eliminación.
 
@@ -1637,7 +1638,7 @@ La confusión sobre qué componente que despliega y muestra el apartado de prove
 __Descripción del problema:__
 
 El problema identificado radica en la incapacidad de la aplicación para transmitir el mensaje en el apartado de proveedores.
-
+![](/Assets/Img/Chapter%20V/heu4.png)
 __Recomendación:__
 Se recomienda mejorar la interfaz de proveedores para así tener un mejor mensaje de la empresa al usuario. 
 
