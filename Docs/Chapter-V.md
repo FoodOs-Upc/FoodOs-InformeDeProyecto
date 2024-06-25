@@ -424,7 +424,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 |Sprint 1 Review Summary|La primera entrega se realizo incompleta faltando puntos como user stories, product backload, entrevistas y el sprint 1 |
 |Sprint 1 Retrospective Summary| El desarrollo del sprint 1 tuvo bastantes errores y descordinacion, pero como equipo de trabajo se levanto las observaciones respecto al primer sprint.  |
 |Sprint Goals & User Stories|US01 al US10|
-|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out.Ademas de terminar las funciones del inventario.|
+|Sprint 1 Goal|Como meta para este sprint tenemos como meta desarrollar el sistema de login y sign out. Ademas de terminar las funciones del inventario.|
 |Sprint 1 Velocity| La velocidad de este sprint es de 23|
 |Sprints of Story Points| |
 
@@ -962,6 +962,7 @@ Dentro de esta seccion de mostraran algunos de los commits realizados a sus resp
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. 
 
+En este cuarto sprint, hemos centrado nuestros esfuerzos principalmente en el desarrollo y en añadir funcionalidades tanto a la aplicación web como al backend, lo que ha hecho que no llevemos a cabo pruebas en esta etapa.
 
 #### 5.2.4.5.Execution Evidence for Sprint Review. 
 
