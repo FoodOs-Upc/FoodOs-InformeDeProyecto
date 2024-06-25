@@ -968,6 +968,21 @@ En esta captura se muestra el avance de las tareas del equipo
 [![backend1.jpg](https://i.postimg.cc/Jzk4HxL4/backend1.jpg)](https://postimg.cc/jDRrGz2G)
 En esta captura se muestra el registro del Contenedor del backend.
 
+[![backend2.jpg](https://i.postimg.cc/g2xb3ztt/backend2.jpg)](https://postimg.cc/jDY1bbby)
+En esta captura se muestra el Application Container del backend.
+
+[![backend3.jpg](https://i.postimg.cc/jS7ksLFT/backend3.jpg)](https://postimg.cc/hXK0sPnZ)
+En esta captura se muestra el servidor flexible de Azure Database for MySQL del backend.
+
+[![backend4.jpg](https://i.postimg.cc/HxpS43sW/backend4.jpg)](https://postimg.cc/67mLBrvF)
+En esta captura se muestra el Grupo de Recursos del backend.
+
+[![backend5.jpg](https://i.postimg.cc/d334g1yz/backend5.jpg)](https://postimg.cc/bSXxtqLT)
+En esta captura se muestra el Swagger UI del backend.
+
+[![frontend1.jpg](https://i.postimg.cc/X7Zs8r35/frontend1.jpg)](https://postimg.cc/XpbKN7rN)
+En esta captura se muestra el frontend desplegado en Github Pages.
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
 
