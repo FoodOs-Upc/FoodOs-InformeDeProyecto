@@ -963,7 +963,10 @@ En esta parte se muestra el sidebar del donde muestra el perfil del usuario.
 En esta parte se muestra el avanze de la tabla que muestra los datos del inventario
 
 ![](/Assets/Img/Chapter%20V/sprint%202/tareas.jpg)
-En esta captura se muestra el avanze de las tareas del equipo
+En esta captura se muestra el avance de las tareas del equipo
+
+![](/Assets/Img/ChapterV/backend1.jpeg)
+En esta captura se muestra el registro del Contenedor del backend.
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review. 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
