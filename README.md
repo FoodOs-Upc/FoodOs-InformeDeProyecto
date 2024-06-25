@@ -179,22 +179,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 * #### [5.1.2. Source Code Management ](/Docs/chapter-V.md#512-source-code-management)
 * #### [5.1.3. Source Code Style Guide & Conventions](/Docs/chapter-V.md#513-source-code-style-guide--conventions)
 * #### [5.1.4. Software Deployment Configuration](/Docs/chapter-V.md#514-software-deployment-configuration)
-### [5.2 Landing Page, Services & Applications ](/Docs/chapter-V.md#52-landing-page-services--applications-implementation)
-* #### [5.2.1. Sprint 1](/Docs/chapter-V.md#521-sprint-1)
-    * ##### [5.2.1.1. Sprint Planning 1](/Docs/chapter-V.md#5211-sprint-planning-1)
-    * ##### [5.2.1.2. Sprint Backlog 1 ](/Docs/chapter-V.md#5212-sprint-backlog-1)
-    * ##### [5.2.1.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5213-development-evidence-for-sprint-review)
-    * ##### [5.2.1.4. Testing Suite Evidence for Sprint Review](/Docs/chapter-V.md#5214-testing-suite-evidence-for-sprint-review)
-    * ##### [5.2.1.5. Execution Evidence for Sprint Review](/Docs/chapter-V.md#5215-execution-evidence-for-sprint-review)
-    * ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/Docs/chapter-V.md#5216-services-documentation-evidence-for-sprint-review)
-    * ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/Docs/chapter-V.md#5217-software-deployment-evidence-for-sprint-review)
-    * ##### [5.2.1.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5218-team-collaboration-insights-during-sprint)
 
-### [5.1. Software Configuration Management](/Docs/Chapter-V.md/#51-software-configuration-management)
-* #### [5.1.1. Software Development Environment](/Docs/Chapter-V.md/#511-software-development-environment-configuration)
-* #### [5.1.2. Source Code Management ](/Docs/Chapter-V.md/#512-source-code-management)
-* #### [5.1.3. Source Code Style Guide & Conventions](/Docs/Chapter-V.md/#513-source-code-style-guide--conventions)
-* #### [5.1.4. Software Deployment Configuration](/Docs/Chapter-V.md/#514-software-deployment-configuration)
 ### [5.2 Landing Page, Services & Applications ](/Docs/Chapter-V.md/#52-landing-page-services--applications-implementation)
 * #### [5.2.1. Sprint 1](/Docs/Chapter-V.md/#521-sprint-1)
     * ##### [5.2.1.1. Sprint Planning 1](/Docs/Chapter-V.md/#5211-sprint-planning-1)
@@ -205,15 +190,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
     * ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/Docs/Chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
     * ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/Docs/Chapter-V.md/#5217-software-deployment-evidence-for-sprint-review)
     * ##### [5.2.1.8. Team Collaboration Insights during Sprint](/Docs/Chapter-V.md/#5218-team-collaboration-insights-during-sprint)
-#### [5.2.1. Sprint 1](/Docs/Chapter-V.md/#521-sprint-1)
-* ##### [5.2.2.1. Sprint Planning 2](/Docs/Chapter-V.md/#5211-sprint-planning-1)
-* ##### [5.2.2.2. Sprint Backlog 2](/Docs/Chapter-V.md/#5212-sprint-backlog-1)
-* ##### [5.2.2.3. Development Evidence for Sprint Review](/Docs/Chapter-V.md/#5223-development-evidence-for-sprint-review)
-* ##### [5.2.2.4. Testing Suite Evidence for Sprint Review](/Docs/Chapter-V.md/#5224-execution-evidence-for-sprint-review)
-* ##### 5.2.2.5. Execution Evidence for Sprint Review
-* ##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/Docs/Chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
-* ##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/Docs/Chapter-V.md/#5227-software-deployment-evidence-for-sprint-review)
-* ##### [5.2.2.8. Team Collaboration Insights during Sprint](/Docs/Chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+
 
 * #### [5.2.1. Sprint 2](/Docs/chapter-V.md#521-sprint-2)
     * ##### [5.2.2.1. Sprint Planning 2](/Docs/chapter-V.md#5221-sprint-planning-2)
@@ -246,8 +223,18 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
     * ##### [5.2.4.7. Software Deployment Evidence for Sprint Review](/Docs/chapter-V.md#5247-software-deployment-evidence-for-sprint-review)
     * ##### [5.2.4.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5248-team-collaboration-insights-during-sprint)
 
+## [5.3.Validation Interviews](/Docs/chapter-V.md#53validation-interviews)
 
-## [Concluciones](/Docs)
-## [Referencia Bibliografica](/Docs)
+## [5.3.1. Diseño de Entrevistas.](/Docs/chapter-V.md#53validation-interviews)
+## [5.3.2. Registro de Entrevistas](/Docs/chapter-V.md#53validation-interviews)
+## [5.3.3. Evaluaciones según heurísticas.](/Docs/chapter-V.md#53validation-interviews)
+
+
+
+#### [5.4 Video About Product](/Docs/chapter-V.md#54-video-about-product)
+
+## [Anexos](/Docs/Anexos.md)
+## [Concluciones](/Docs/Concluciones.md)
+## [Referencia Bibliografica](/Docs/Referencias%20Bibliograficas.md)
 -----
 
