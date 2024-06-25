@@ -1247,19 +1247,6 @@ Desktop landing page
 | 4   | La iconografía empleada en la sección “What we offer?” resalta más que el contenido informativo                        | 2                   | Usability: Diseño estético y minimalista |
 
 
-| #   | Problema                                                                                                                      | Escala de severidad | Heurística/Principio violado(o)                                       |
-|-----|-------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
-| 5   | La información relacionada con el start up y utilidad del producto es inexacta e insuficiente                                | 3                   | Inclusive Design: Diseño Centrado en el Usuario                        |
-| 6   | Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción      | 3                   | Information Arquitecture: Jerarquía de Información                     |
-| 7   | El formulario de Contacto no muestra funcionalidad                                                                           | 4                   | Usability: Visibilidad del estado del sistema                          |
-| 8   | Tamaño inapropiado de botones “Start” del landing                                                                           | 2                   | Usability: Consistencia y estándares                                   |
-| 9   | Espaciado inadecuado entre las secciones de la barra de navegación                                                         | 1                   | Information Arquitecture: Jerarquía de información                     |
-| 10  | La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso                         | 2                   | Information Arquitecture: Organización y Estructura                    |
-| 11  | La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas | 2                   | Usability: Estética y diseño minimalista                                |
-| 12  | La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail   | 1                   | Usability: Visibilidad del estado del sistema                          |
-| 13  | El título “About the team” no muestra internacionalización (cambio de idioma al inglés)                                     | 1                   | Usability: Flexibilidad y eficiencia de uso                             |
-
-
 __Problema #01:__  Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar
 de pago.
 
