@@ -948,6 +948,8 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
 
 Dentro de esta seccion de mostraran algunos de los commits realizados a sus respectivas ramas del backend. 
 
+##Cuadro de commits
+
 | Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
 |------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
 | FoodOs-UPC | feat/products     | 5dc0a9f   | Feat: Added CRUD Products                                                       | 20/06/2024  |
