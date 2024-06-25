@@ -405,8 +405,10 @@ A continuación, se muestra screenshots del landing page desarrollado y desplega
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
-![Collaboration-1]()
-![Collaboration-1]()
+![Collaboration-1](/Assets/Img/Chapter%20V/Contribucione%20LandingPage.png)
+En este diagrama muestra el tiempo de desarrollo del landing Page incluyendo las mejoras que nuestro landing Page en toda la vida del desarrollo del proyecto,
+![Collaboration-1](/Assets/Img/Chapter%20V/Contribucione%20LandingPage%202.png)
+En esta linea de tiempo se muestra las ramas que desarrollamos para trabajar el landing Page.
 
 
 ### 5.2.2. Sprint 2
@@ -428,7 +430,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 |Sprint 1 Velocity| La velocidad de este sprint es de 23|
 |Sprints of Story Points| |
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.2. Sprint Backlog 2
 
 El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregir errores o mejoras en la frontEnd.
 
@@ -521,7 +523,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -530,7 +532,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
     <td align="center"> 2</td>
     <td align="center"> Brayan</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -541,7 +543,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -552,7 +554,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -563,7 +565,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 4 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center"> TA02 </td>
@@ -571,7 +573,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
    <tr>
     <td align="center"> TA03 </td>
@@ -579,7 +581,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se creara un componente dialog para agregar productos </td>
     <td align="center"> 2</td>
     <td align="center"> Piero Alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
    <tr>
@@ -590,7 +592,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -601,7 +603,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -612,7 +614,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 2 </td>
     <td align="center"> Piero alonso</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
 </table>
@@ -832,7 +834,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify"> Se desarrollara los estilos y logicas </td>
     <td align="center"> 3 </td>
     <td align="center"> Brayan Smith</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -841,7 +843,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
     <td align="center"> 2</td>
     <td align="center"> Brayan</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -909,7 +911,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify">Se desarrolla la logica y agrega al controlador </td>
     <td align="center"> 2 </td>
     <td align="center">Brayan S</td>
-    <td align="center">to-do</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
@@ -920,7 +922,7 @@ El sprint Backlog contiene las tareas a desarrollar las funcionalidades, corregi
     <td align="justify">Crear logica de la implementacion y añadir metodo get en el controlador del inventario</td>
     <td align="center"> 2 </td>
     <td align="center"> Brayan S</td>
-    <td align="center">don</td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
