@@ -9,7 +9,7 @@
 
 <center>
 
-# **Informe TB1**
+# **Informe TF**
 ## **FoodOs**
 ## Profesor: Efraín Ricardo Bautista Ubillús
 
@@ -18,22 +18,31 @@
 ## **Integrantes:**
 
 *  **Morales Quispe Brayan Smith       U20211F984** 
-*  **Tomas Ortiz Fajardo**    
-*  **Dueñas Canales Leonardo Manuel** 
-*  **Alessandro Vega Paico**
-*  **Piero Alonso Martinez Villanueva**
+*  **Tomas Ortiz Fajardo    	       U201910146**
+*  **Dueñas Canales Leonardo Manuel    U202117475** 
+*  **Alessandro Vega Paico - u201910225**
+*  **Piero Alonso Martinez Villanueva   U202113821**
 
 
 <center>
 
-### Abril 2024
+### Junio 2024
 
 </center>
 
 ## Registro de Versiones Del Informe 
 | **Version** | **Fecha** |**Autor**| **Descripcion de modificacion**|
 |-------------|-----------|---------|------------|
-| 0.1 | fecha  | Nombre de una persona| Poner una descripcion de la accion|
+| 0.1 |  18/04/24 | Brayan| Se añadio el capitulo 4|
+| 0.2 |  18/04/24 | Piero| Se añadio el capitulo 3|
+| 0.3 |  18/04/24 | Tomas| Se añadio el capitulo 2|
+| 0.3 |  18/04/24 | Alesandro| Se añadio el capitulo 1|
+| 0.4 |  18/04/24 | Leonardo| Se añadio el capitulo 5|
+| 0.5 |  18/04/24 | Leonardo| Se añadio el capitulo 5|
+| 1.0.0 |  29/04/24 | Brayan|Se agrego el sprint 2 |
+| 1.5.0 |  19/06/24 | Brayan|Se agrego el sprint 3 |
+| 2.0.0 |  20/06/24 | Brayan|Se agrego el sprint 4 |
+
 
 ## Project Report Collaboration Insights 
 
@@ -46,19 +55,53 @@
 
  Ahora veremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FoodOs:
 
-![commits-colaboration.png]()
+![commits-colaboration.png](/Assets/Img/Colaboration/barras%20commits.png)
 
 En la imagen se muestra el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable entregable. 
 
-![commits.png]()
+![commits.png](/Assets/Img/Colaboration/contribuidores.png)
 
 En esta imagen, hay una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio del informe para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
-![git-clones.png]()
+![git-clones.png](/Assets/Img/Colaboration/clone.png)
 
 Estos gráficos muestra una representación visual de las clonaciones registradas en nuestro repositorio, con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
-![network.png](assets/img/chapter-v/network.png)
+![network.png](/Assets/Img/Colaboration/networt.png)
+
+## Student Outcomes
+
+<table>
+  <thead>
+    <tr>
+        <th>Criterio especifico</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería</strong></td>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Comunique al equipo por discord con la creacion de un grupo para poder coordinar nuestras actividades</p>TP:<p>Realize las asignaciones de tareas al equipo de trabajo</p>TB2:<p>Comunique al equipo de trabajo sobre los puntos a mejorar y ademas los puntos que deben trabajar más.</p>TF:<p>Comunicar al grupo sobre las partes a trabajar como el inventario y las notificaciones al usuario</p>
+      <h6>Ortiz Fajardo Tomas</h6>TB1:<p> En esta entrega se realizaron los diagramas Empathy Map, el Journey Map y el User Task Matrix. Con estos diagramas se pudo ver que siente cada persona que hemos entrevistado y cuales actividades consideran mas importantes y cuales no tanto</p> TP:<p>Corregi y termine el codigo relacionado a la Landing Page de la aplicacion.</p>TB2:<p> Expresé mis pensamientos y puntos de vista a través de reuniones en plataformas como Google Meet y Discord, además de mantener comunicación mediante un grupo en WhatsApp.</p>TF:<p>En esta entrega se hicieron los cambios finales al trabajo, tanto por el lado del codigo como en el informe. Por mi parte, pude realizar el CRUD de los productos en el area de backend. Ademas, ayude realizando dos entrevistas de validacion de la aplicacion a los dos segmentos objetivos que habiamos escogido. Por ultimo, ayude con algunos cambios en el informe y en el Keynote, y grabamos el video About the team y About the product.</p>
+      <h6>Alessandro Alex Vega Paico</h6>TB1:<p> Comparti mis ideas y opiniones mediante las reuniones de meet y discord, como tambien tuve comunicacion mediante el grupo de wsp.</p>TP:<p>Me comunique activamente por medio del grupo de trabajo, meet y discord, tambien fui actualizando mis avances por medio de los mismos para poder tener un control de las actividadeas.</p>TB2:<p>Comunique mis avances y mejoras que iba realizando dentro de mis tareas designadas, como también nos reunimos para revisar el desarrollo de nuestro proyecto.</p>TF:<p>En esta entrega, comunique las mejoras que iba realizando dentro de mis partes designadas, como también las partes restantes dentro del informe como las mejoras pendientes.</p>
+	      <h6>Dueñas Canales Leonardo Manuel</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 3 y 4 </p>TP:<p>Por mi parte me tocó desarrollar el frontend de genstión de proveedores.</p>TB2:<p>Mejora continua del desallorro de gestión de proveedores, se actualizó el report documentation, mejora continua</p>TF:<p>Se finalizaron las pruebas finales del landing page, se hicieron los testing del front,se realizaron las pruebas heúristicas, se actulizó el documento y se apoyó en el frontend y backend</p>
+	       <h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Realice la definición de la StarUp y de la Solución, ademas de agregar los Antecedentes y Problemáticas</p>TP:<p> Realice la codificación con el framework de angular de la aplicación FoodOS, hice los componentes y directicas de Inventory</p>TB2:<p> Realicé cambios y mejoras al report, además de apoyar con ideas para el desarrollo del backend</p> TF:<p> Hice y añadí las conclusiones finales del proyecto, completé las Validation Interviews y apoyé para pulir el código del frontend y backend</p>
+      <td><p>TB1:La comunicacion se evidencio al momento de realizar la distribucion de tareas y identificar la problematica a tratar. </p><p>TP:La comunicion del grupo mejoro, ahora si nos enfocamos a trabajar más en equipo y distribuir las tareas basandonos en las habilidades de cada miembro del equipo. Ademas de levantar las observaciones de la anterior entrega  </p><p>TB2:Los integrantes del equipo presentaron dificultades repecto al desarrollo del backend pero gracias a algunos integrantes se pudo ayudar a los miembros con menos conocimientos en Java y SprintBoot.</p><p>TF:Gracias a los miembros del equipo se logro terminar el informe e implementacion del backend y frontEnd. </p></td>
+      </td>
+  </tr>
+   <tr>
+      <td><strong>Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
+      <td><h6>Brayan Smith Morales Quispe</h6>TB1:<p>Lo avanzado por mi parte fue todo el capitulo 4, lo que considero a mejorar es la velocidad y comunicacion del equipo</p>TP:<p>Lo avanzado por mi parte fue los primeros 5 user stories siendo estos relacionados con el perfil y login</p>TB2:<p>Lo avanzado por mi parte fue la implementacion del inventario con los perfiles y la posibilidad de subir archivos. </p>TF:<p>Loa avanzado por mi fue la conexion entre el frontend y backend ademas de desarrollar la seguridad en la backend.</p>
+	<h6>Alessandro Alex Vega Paico</h6>TB1:<p> Me encargue del desarrollo del capitulo 1, mas especificamente, de los Lean Ux Process, Problem Statement, Assumptions, Hypothesis Statements, Canvas y tambien el desarollo de los segmentos objetivos. Tambien ayude en el desarrollo de las entrevistas, grabar y analizarlas.</p>TP:<p>Me encargue de las mejoras con respecto a la Tb1 y tambine añadir partes que faltaban desarrollar para los capitulos posteriores, tambien elabore las entrevistas faltantes y desarrolle en la parte del fronted, la epica 5, que esta enfocada a los miembros de equipo del usuario y las tareas pendientes, como tambien los metodos para añadir, editar y elimnar ambas areas.</p>TB2:<p>Me encargue dentro de nuestro backend, el desarrollo de la implementación de los apartado Team y Task junto con sus comandos y queries respectivos.</p>TF:<p>Me encargue de las mejoras dentro de mis partes designadas, además realice entrevistas junto el análisis respectivo por cada segmento. Además coordinamos como equipo sobre las partes que se tenían que mejorar para esta entrega.</p>
+	<h6>Tomas Ortiz Fajardo</h6>TB1:<p>Lo avanzado por mi parte fue colaborar con la Landing Page y apoyar en el desarrollo del Capitulo 4. </p>TP:<p>Por mi parte pude terminar la Landing Page de la aplicacion y organizar algunas cosas mejor en el Markdown.</p> TF:<p>Comunique con el equipo como nos dividiríamos el backend, del cual pude realizar el CRUD de la sección Product. Por otro lado, estuvimos en contacto por nuestro grupo de WhatsApp. Por último, también colaboré con la elaboración de las entrevistas de validación y algunos puntos del informe y del Keynote.</p><h6>Dueñas Canales Leonardo Manuel</h6>TB1:<p> Se realizó un Brainssotrming para definir cuál sería el proceso adecuado que tomaría nuestro proyecto</p>TP:<p> Se coordino las ideas del grupo para el despliegue de la aplicación y el frontend</p> TB2:<p>Se aplicaron mejoras a nivel de front y backend</p> TF:<p> Se estructuró todo lo realizado en el curso en el report documentation. Ademas, se desplegó exitosamente el frontend y backend</p><h6>Piero Alonso Martinez Villanueva</h6>TB1:<p> Comuniqué las ideas principales para la creación de la aplicación, establecí junto a mi equipo las bases</p>TP:<p> Coordiné con mi grupo para un despliegue exitoso de la aplicación, además de designarnos las tareas a trabajar</p> TB2:<p>Coordiné junto a mis compañeros la implementaciones necesarias para el backend, además sugerí cambios al informe del proyecto</p> TF:<p> Comuniqué las secciones finales a solucionar del proyecto, coordiné con mi equipo para lograr un buen despliegue del frontend y backend</p>
+      <td><p>TB1:Todo el avanze del projecto e informe se relaizo usando repositorios y empleando la metodologia gitflow. De manera que se tenga una forma ordenada y que sea más facil de ver los puntos que faltan desarrollar.</p><p>TP:La comunicacion escrita del grupo se evidencia en el repositorio en las contribuciones al momento de realizar el sprint 2.</p><p>TB2:En esta entrega la comunicacion del equipo se evidencia en el desarrollo del backend y mejora del frontend. Ademas del avanze del informe del sprint 3.</p><p>TF: En esta entrega se evidencia la comunicacion escrita en la mejora al backend respecto al anterior entrega y la implementacion con el frontend.</p></td>
+      
+  </tr>
+	  
+  </tbody>
+</table>
+
 
 # Contenido 
 ## Capitulo I: Introducción
@@ -136,22 +179,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 * #### [5.1.2. Source Code Management ](/Docs/chapter-V.md#512-source-code-management)
 * #### [5.1.3. Source Code Style Guide & Conventions](/Docs/chapter-V.md#513-source-code-style-guide--conventions)
 * #### [5.1.4. Software Deployment Configuration](/Docs/chapter-V.md#514-software-deployment-configuration)
-### [5.2 Landing Page, Services & Applications ](/Docs/chapter-V.md#52-landing-page-services--applications-implementation)
-* #### [5.2.1. Sprint 1](/Docs/chapter-V.md#521-sprint-1)
-    * ##### [5.2.1.1. Sprint Planning 1](/Docs/chapter-V.md#5211-sprint-planning-1)
-    * ##### [5.2.1.2. Sprint Backlog 1 ](/Docs/chapter-V.md#5212-sprint-backlog-1)
-    * ##### [5.2.1.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5213-development-evidence-for-sprint-review)
-    * ##### [5.2.1.4. Testing Suite Evidence for Sprint Review](/Docs/chapter-V.md#5214-testing-suite-evidence-for-sprint-review)
-    * ##### [5.2.1.5. Execution Evidence for Sprint Review](/Docs/chapter-V.md#5215-execution-evidence-for-sprint-review)
-    * ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/Docs/chapter-V.md#5216-services-documentation-evidence-for-sprint-review)
-    * ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/Docs/chapter-V.md#5217-software-deployment-evidence-for-sprint-review)
-    * ##### [5.2.1.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5218-team-collaboration-insights-during-sprint)
 
-### [5.1. Software Configuration Management](/Docs/Chapter-V.md/#51-software-configuration-management)
-* #### [5.1.1. Software Development Environment](/Docs/Chapter-V.md/#511-software-development-environment-configuration)
-* #### [5.1.2. Source Code Management ](/Docs/Chapter-V.md/#512-source-code-management)
-* #### [5.1.3. Source Code Style Guide & Conventions](/Docs/Chapter-V.md/#513-source-code-style-guide--conventions)
-* #### [5.1.4. Software Deployment Configuration](/Docs/Chapter-V.md/#514-software-deployment-configuration)
 ### [5.2 Landing Page, Services & Applications ](/Docs/Chapter-V.md/#52-landing-page-services--applications-implementation)
 * #### [5.2.1. Sprint 1](/Docs/Chapter-V.md/#521-sprint-1)
     * ##### [5.2.1.1. Sprint Planning 1](/Docs/Chapter-V.md/#5211-sprint-planning-1)
@@ -162,15 +190,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
     * ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/Docs/Chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
     * ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/Docs/Chapter-V.md/#5217-software-deployment-evidence-for-sprint-review)
     * ##### [5.2.1.8. Team Collaboration Insights during Sprint](/Docs/Chapter-V.md/#5218-team-collaboration-insights-during-sprint)
-#### [5.2.1. Sprint 1](/Docs/Chapter-V.md/#521-sprint-1)
-* ##### [5.2.2.1. Sprint Planning 2](/Docs/Chapter-V.md/#5211-sprint-planning-1)
-* ##### [5.2.2.2. Sprint Backlog 2](/Docs/Chapter-V.md/#5212-sprint-backlog-1)
-* ##### [5.2.2.3. Development Evidence for Sprint Review](/Docs/Chapter-V.md/#5223-development-evidence-for-sprint-review)
-* ##### [5.2.2.4. Testing Suite Evidence for Sprint Review](/Docs/Chapter-V.md/#5224-execution-evidence-for-sprint-review)
-* ##### 5.2.2.5. Execution Evidence for Sprint Review
-* ##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/Docs/Chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
-* ##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/Docs/Chapter-V.md/#5227-software-deployment-evidence-for-sprint-review)
-* ##### [5.2.2.8. Team Collaboration Insights during Sprint](/Docs/Chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+
 
 * #### [5.2.1. Sprint 2](/Docs/chapter-V.md#521-sprint-2)
     * ##### [5.2.2.1. Sprint Planning 2](/Docs/chapter-V.md#5221-sprint-planning-2)
@@ -194,8 +214,8 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
     * ##### [5.2.3.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5238-team-collaboration-insights-during-sprint)
 
 * #### [5.2.4 Sprint 4](/Docs/chapter-V.md#524-sprint-4)
-    * ##### [5.2.4.1. Sprint Planning 3](/Docs/chapter-V.md#5241-sprint-planning-4)
-    * ##### [5.2.4.2. Sprint Backlog 3](/Docs/chapter-V.md#5242-sprint-backlog-4)
+    * ##### [5.2.4.1. Sprint Planning 4](/Docs/chapter-V.md#5241-sprint-planning-4)
+    * ##### [5.2.4.2. Sprint Backlog 4](/Docs/chapter-V.md#5242-sprint-backlog-4)
     * ##### [5.2.4.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5243-development-evidence-for-sprint-review)
     * ##### [5.2.4.4. Testing Suite Evidence for Sprint Review](/Docs/chapter-V.md#5244-testing-suite-evidence-for-sprint-review)
     * ##### [5.2.4.5. Execution Evidence for Sprint view](Docs/chapter-V.md#5245-execution-evidence-for-sprint-review)
@@ -203,16 +223,18 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
     * ##### [5.2.4.7. Software Deployment Evidence for Sprint Review](/Docs/chapter-V.md#5247-software-deployment-evidence-for-sprint-review)
     * ##### [5.2.4.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5248-team-collaboration-insights-during-sprint)
 
+## [5.3.Validation Interviews](/Docs/chapter-V.md#53validation-interviews)
 
-## [Concluciones](/Docs)
-## [Referencia Bibliografica](/Docs)
+## [5.3.1. Diseño de Entrevistas.](/Docs/chapter-V.md#53validation-interviews)
+## [5.3.2. Registro de Entrevistas](/Docs/chapter-V.md#53validation-interviews)
+## [5.3.3. Evaluaciones según heurísticas.](/Docs/chapter-V.md#53validation-interviews)
+
+
+
+#### [5.4 Video About Product](/Docs/chapter-V.md#54-video-about-product)
+
+## [Anexos](/Docs/Anexos.md)
+## [Concluciones](/Docs/Concluciones.md)
+## [Referencia Bibliografica](/Docs/Referencias%20Bibliograficas.md)
 -----
 
-## Student Outcome
-
-| **Criterio Especifico**| **Acciones Realizadas** | **Conclusiones** | 
-|------------------------|-------------------------|------------------|
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br>| 
-| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | __Morales Quispe Brayan  Smith__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br><br/> __Nombre__ <br/>__TB1__<br/> * <br/>__TP__<br/>* <br/>__TB2__<br> * </br> | <br/>__TB1__<br/>....<br/>__TP__<br/>....... <br/>__TB2__<br/>.....| 
-
------
