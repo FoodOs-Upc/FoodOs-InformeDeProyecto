@@ -59,7 +59,7 @@ __Antecedentes__:
   
 Debido a las complejidades de las operaciones y la falta de sistemas efectivos que permitan un control adecuado de existencias y una planificación precisa de aprovisionamiento, la gestión de inventarios en la industria de la restauración ha sido un desafío a través del tiempo.
 
-__Problemáticas__:
+__La Técnica de las 5W's y 2 H's__:
 
 #### What?
 

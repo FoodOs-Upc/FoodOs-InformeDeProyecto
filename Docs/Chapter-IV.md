@@ -298,7 +298,7 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 
-![imagen](/Assets/Img/Chapter%20IV/Diagrama%20de%20Clases.png)
+![imagen](/Assets/Img/Chapter%20V/FoodOs%20(1).png)
 <center>
 
 [Link de lucid del diagrama de clases](https://lucid.app/lucidchart/4ef87a5e-db0e-4cf2-b181-134d58fce7f4/edit?viewport_loc=-1600%2C-452%2C5088%2C2280%2C0_0&invitationId=inv_fa3364c0-52d8-4abe-bd56-bd5a87f86986)
