@@ -50,7 +50,7 @@ Para la gestion del proyecto se usara software que se ejecuten en computadoras, 
   </tr>
 
   <tr>
-    <td><img src="https://th.bing.com/th?id=A1347d5afb5defc136de5264018fe79f9&w=80&h=80&c=17&rs=1&o=6&dpr=1.3&pid=5.1" width="80" height="80"></td>
+    <td><img src="/Assets/Img/Chapter IV/R.png" width="80" height="80"></td>
     <td>Intellij</td>
     <td>El programa fue usado para el desarrollo de la backend este maneja el lenguaje java </td>
     <td>https://www.jetbrains.com/es-es/products/#type=ide-vs </td>
@@ -172,7 +172,7 @@ a que se puede ver los cambios que realizamos en el código hecho en HTML, CSS y
     <td>https://www.postman.com/downloads/</td>
   </tr>
 
-  <td><img src="https://camo.githubusercontent.com/f725b7a314d523d78005509f98c436a1fcf2883fd39cb9e5b83346f6bddb599a/687474703a2f2f6a736f6e6170692e6f72672f696d616765732f6a736f6e6170692e706e67" width="70" height="50"></td>
+  <td><img src="https://th.bing.com/th/id/OIP.4e5PgSBgxgFolqvob9x_WgAAAA?rs=1&pid=ImgDetMain" width="70" height="50"></td>
     <td>JasonServer</td>
     <td>Se uso para las pruebas de frontend, simulando la backend </td>
     <td>https://www.npmjs.com/package/json-server</td>
@@ -198,7 +198,7 @@ El software usado para la documentacion es el siguiente:
     <th>Link</th>
   </tr>
 
-  <td><img src="https://mvnrepository.com/img/ae6cb54d78c70653ac784621f78188c8" width="50" height="50"></td>
+  <td><img src="/Assets/Img/Chapter IV/ae6cb54d78c70653ac784621f78188c8.webp" width="50" height="50"></td>
     <td>SpringDoc OpenAPI</td>
     <td>Fue usado para llevar acabo la documentacion en la backend</td>
     <td>SpringDoc OpenAPI Starter WebMVC UI</td>
@@ -1331,10 +1331,16 @@ En esta captura se muestra el Swagger UI del backend.
 En esta captura se muestra el frontend desplegado en Github Pages.
 
 
-#### 5.2.4.8.Team Collaboration Insights during Sprint. 
-
-En este Sprint 5, como startup, nuestro objetivo ha sido desarrollar, implementar y desplegar nuestra aplicación web. Para lograrlo, hemos utilizado diversas herramientas que nos han permitido cumplir con nuestra meta.
-
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+<br>
+En esta imagen se muestra la cantidad de commits de cada integrande del equipo siendo la cantidad mayor 19 realizada por el integrante Brayan, 11 realizada por Alesandro Vega y 4 realizados por Tomas Ortiz.
+<br>
+[![Backend-contributors.png](https://i.postimg.cc/Sx8SnR4d/Backend-contributors.png)](https://postimg.cc/RWS58MNJ)
+<br>
+En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion.
+<br>
+[![Backend-Network.png](https://i.postimg.cc/Fz8vR5nw/Backend-Network.png)](https://postimg.cc/WqGCWKV7)
 
 ## 5.3.Validation Interviews. 
 ### 5.3.1. Diseño de Entrevistas.
