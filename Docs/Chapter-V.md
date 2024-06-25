@@ -1003,10 +1003,16 @@ En esta captura se muestra el Swagger UI del backend.
 En esta captura se muestra el frontend desplegado en Github Pages.
 
 
-#### 5.2.4.8.Team Collaboration Insights during Sprint. 
-
-En este Sprint 5, como startup, nuestro objetivo ha sido desarrollar, implementar y desplegar nuestra aplicación web. Para lograrlo, hemos utilizado diversas herramientas que nos han permitido cumplir con nuestra meta.
-
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+<br>
+En esta imagen se muestra la cantidad de commits de cada integrande del equipo siendo la cantidad mayor 19 realizada por el integrante Brayan, 11 realizada por Alesandro Vega y 4 realizados por Tomas Ortiz.
+<br>
+[![Backend-contributors.png](https://i.postimg.cc/Sx8SnR4d/Backend-contributors.png)](https://postimg.cc/RWS58MNJ)
+<br>
+En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion.
+<br>
+[![Backend-Network.png](https://i.postimg.cc/Fz8vR5nw/Backend-Network.png)](https://postimg.cc/WqGCWKV7)
 
 ## 5.3.Validation Interviews. 
 ### 5.3.1. Diseño de Entrevistas.
