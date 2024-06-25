@@ -18,7 +18,7 @@
 ## **Integrantes:**
 
 *  **Morales Quispe Brayan Smith       U20211F984** 
-*  **Tomas Ortiz Fajardo**    
+*  **Tomas Ortiz Fajardo**    	       U201910146**
 *  **Dueñas Canales Leonardo Manuel    U202117475** 
 *  **Alessandro Vega Paico - u201910225**
 *  **Piero Alonso Martinez Villanueva   U202113821**
