@@ -1336,7 +1336,7 @@ En esta imagen se muestra la cantidad de commits de cada integrande del equipo s
 <br>
 [![Backend-contributors.png](https://i.postimg.cc/Sx8SnR4d/Backend-contributors.png)](https://postimg.cc/RWS58MNJ)
 <br>
-En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama feat/profile encargada del perfil y inicio de sesion.
+En esta imagen se muestra las ramas del trabajo donde se realizo cada parte del proyecto como la rama fix/deployment que se encarga de desplegar la aplicacion web junto con las funcionalidades desarrolladas.
 <br>
 [![Backend-Network.png](https://i.postimg.cc/Fz8vR5nw/Backend-Network.png)](https://postimg.cc/WqGCWKV7)
 
