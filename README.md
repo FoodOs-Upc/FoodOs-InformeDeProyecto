@@ -51,23 +51,23 @@
 **Link de los repositorios de la oraganización:** [https://github.com/FoodOs-Upc](https://github.com/FoodOs-Upc)
 
 
-### **Reporte de colaboración de la entrega del TB1:**
+### **Reporte de colaboración de la entrega del TF:**
 
  Ahora veremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo FoodOs:
 
-![commits-colaboration.png](/Assets/Img/Colaboration/barras%20commits.png)
+![commits-colaboration.png](/Assets/Img/Colaboration/barras.png)
 
 En la imagen se muestra el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable entregable. 
 
-![commits.png](/Assets/Img/Colaboration/contribuidores.png)
+![commits.png](/Assets/Img/Colaboration/commits.png)
 
 En esta imagen, hay una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio del informe para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
-![git-clones.png](/Assets/Img/Colaboration/clone.png)
+![git-clones.png](/Assets/Img/Colaboration/frecuencia.png)
 
 Estos gráficos muestra una representación visual de las clonaciones registradas en nuestro repositorio, con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
-![network.png](/Assets/Img/Colaboration/networt.png)
+![network.png](/Assets/Img/Colaboration/linea%20de%20tiempo.png)
 
 ## Student Outcomes
 
