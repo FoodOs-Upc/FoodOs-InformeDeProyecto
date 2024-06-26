@@ -234,7 +234,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 #### [5.4 Video About Product](/Docs/chapter-V.md#54-video-about-product)
 
 ## [Anexos](/Docs/Anexos.md)
-## [Concluciones](/Docs/Concluciones.md)
+## [Conclusiones](/Docs/Concluciones.md)
 ## [Referencia Bibliografica](/Docs/Referencias%20Bibliograficas.md)
 -----
 
